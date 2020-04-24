@@ -1,0 +1,3263 @@
+Index	UID	Province/State	County	Combined_Key
+0	16	American Samoa	None	American Samoa, US
+1	316	Guam	None	Guam, US
+2	580	Northern Mariana Islands	None	Northern Mariana Islands, US
+3	630	Puerto Rico	None	Puerto Rico, US
+4	850	Virgin Islands	None	Virgin Islands, US
+5	84001001	Alabama	Autauga	Autauga, Alabama, US
+6	84001003	Alabama	Baldwin	Baldwin, Alabama, US
+7	84001005	Alabama	Barbour	Barbour, Alabama, US
+8	84001007	Alabama	Bibb	Bibb, Alabama, US
+9	84001009	Alabama	Blount	Blount, Alabama, US
+10	84001011	Alabama	Bullock	Bullock, Alabama, US
+11	84001013	Alabama	Butler	Butler, Alabama, US
+12	84001015	Alabama	Calhoun	Calhoun, Alabama, US
+13	84001017	Alabama	Chambers	Chambers, Alabama, US
+14	84001019	Alabama	Cherokee	Cherokee, Alabama, US
+15	84001021	Alabama	Chilton	Chilton, Alabama, US
+16	84001023	Alabama	Choctaw	Choctaw, Alabama, US
+17	84001025	Alabama	Clarke	Clarke, Alabama, US
+18	84001027	Alabama	Clay	Clay, Alabama, US
+19	84001029	Alabama	Cleburne	Cleburne, Alabama, US
+20	84001031	Alabama	Coffee	Coffee, Alabama, US
+21	84001033	Alabama	Colbert	Colbert, Alabama, US
+22	84001035	Alabama	Conecuh	Conecuh, Alabama, US
+23	84001037	Alabama	Coosa	Coosa, Alabama, US
+24	84001039	Alabama	Covington	Covington, Alabama, US
+25	84001041	Alabama	Crenshaw	Crenshaw, Alabama, US
+26	84001043	Alabama	Cullman	Cullman, Alabama, US
+27	84001045	Alabama	Dale	Dale, Alabama, US
+28	84001047	Alabama	Dallas	Dallas, Alabama, US
+29	84001049	Alabama	DeKalb	DeKalb, Alabama, US
+30	84001051	Alabama	Elmore	Elmore, Alabama, US
+31	84001053	Alabama	Escambia	Escambia, Alabama, US
+32	84001055	Alabama	Etowah	Etowah, Alabama, US
+33	84001057	Alabama	Fayette	Fayette, Alabama, US
+34	84001059	Alabama	Franklin	Franklin, Alabama, US
+35	84001061	Alabama	Geneva	Geneva, Alabama, US
+36	84001063	Alabama	Greene	Greene, Alabama, US
+37	84001065	Alabama	Hale	Hale, Alabama, US
+38	84001067	Alabama	Henry	Henry, Alabama, US
+39	84001069	Alabama	Houston	Houston, Alabama, US
+40	84001071	Alabama	Jackson	Jackson, Alabama, US
+41	84001073	Alabama	Jefferson	Jefferson, Alabama, US
+42	84001075	Alabama	Lamar	Lamar, Alabama, US
+43	84001077	Alabama	Lauderdale	Lauderdale, Alabama, US
+44	84001079	Alabama	Lawrence	Lawrence, Alabama, US
+45	84001081	Alabama	Lee	Lee, Alabama, US
+46	84001083	Alabama	Limestone	Limestone, Alabama, US
+47	84001085	Alabama	Lowndes	Lowndes, Alabama, US
+48	84001087	Alabama	Macon	Macon, Alabama, US
+49	84001089	Alabama	Madison	Madison, Alabama, US
+50	84001091	Alabama	Marengo	Marengo, Alabama, US
+51	84001093	Alabama	Marion	Marion, Alabama, US
+52	84001095	Alabama	Marshall	Marshall, Alabama, US
+53	84001097	Alabama	Mobile	Mobile, Alabama, US
+54	84001099	Alabama	Monroe	Monroe, Alabama, US
+55	84001101	Alabama	Montgomery	Montgomery, Alabama, US
+56	84001103	Alabama	Morgan	Morgan, Alabama, US
+57	84001105	Alabama	Perry	Perry, Alabama, US
+58	84001107	Alabama	Pickens	Pickens, Alabama, US
+59	84001109	Alabama	Pike	Pike, Alabama, US
+60	84001111	Alabama	Randolph	Randolph, Alabama, US
+61	84001113	Alabama	Russell	Russell, Alabama, US
+62	84001115	Alabama	St. Clair	St. Clair, Alabama, US
+63	84001117	Alabama	Shelby	Shelby, Alabama, US
+64	84001119	Alabama	Sumter	Sumter, Alabama, US
+65	84001121	Alabama	Talladega	Talladega, Alabama, US
+66	84001123	Alabama	Tallapoosa	Tallapoosa, Alabama, US
+67	84001125	Alabama	Tuscaloosa	Tuscaloosa, Alabama, US
+68	84001127	Alabama	Walker	Walker, Alabama, US
+69	84001129	Alabama	Washington	Washington, Alabama, US
+70	84001131	Alabama	Wilcox	Wilcox, Alabama, US
+71	84001133	Alabama	Winston	Winston, Alabama, US
+72	84002013	Alaska	Aleutians East	Aleutians East, Alaska, US
+73	84002016	Alaska	Aleutians West	Aleutians West, Alaska, US
+74	84002020	Alaska	Anchorage	Anchorage,Alaska,US
+75	84002050	Alaska	Bethel	Bethel, Alaska, US
+76	84002060	Alaska	Bristol Bay	Bristol Bay, Alaska, US
+77	84002068	Alaska	Denali	Denali, Alaska, US
+78	84002070	Alaska	Dillingham	Dillingham, Alaska, US
+79	84002090	Alaska	Fairbanks North Star	Fairbanks North Star,Alaska,US
+80	84002100	Alaska	Haines	Haines, Alaska, US
+81	84002105	Alaska	Hoonah-Angoon	Hoonah-Angoon, Alaska, US
+82	84002110	Alaska	Juneau	Juneau, Alaska, US
+83	84002122	Alaska	Kenai Peninsula	Kenai Peninsula,Alaska,US
+84	84002130	Alaska	Ketchikan Gateway	Ketchikan Gateway, Alaska, US
+85	84002150	Alaska	Kodiak Island	Kodiak Island, Alaska, US
+86	84002158	Alaska	Kusilvak	Kusilvak, Alaska, US
+87	84002164	Alaska	Lake and Peninsula	Lake and Peninsula, Alaska, US
+88	84002170	Alaska	Matanuska-Susitna	Matanuska-Susitna,Alaska,US
+89	84002180	Alaska	Nome	Nome, Alaska, US
+90	84002185	Alaska	North Slope	North Slope, Alaska, US
+91	84002188	Alaska	Northwest Arctic	Northwest Arctic, Alaska, US
+92	84002195	Alaska	Petersburg	Petersburg, Alaska, US
+93	84002198	Alaska	Prince of Wales-Hyder	Prince of Wales-Hyder, Alaska, US
+94	84002220	Alaska	Sitka	Sitka, Alaska, US
+95	84002230	Alaska	Skagway	Skagway, Alaska, US
+96	84002240	Alaska	Southeast Fairbanks	Southeast Fairbanks, Alaska, US
+97	84002261	Alaska	Valdez-Cordova	Valdez-Cordova, Alaska, US
+98	84002275	Alaska	Wrangell	Wrangell, Alaska, US
+99	84002282	Alaska	Yakutat	Yakutat, Alaska, US
+100	84002290	Alaska	Yukon-Koyukuk	Yukon-Koyukuk, Alaska, US
+101	84004001	Arizona	Apache	Apache, Arizona, US
+102	84004003	Arizona	Cochise	Cochise, Arizona, US
+103	84004005	Arizona	Coconino	Coconino, Arizona, US
+104	84004007	Arizona	Gila	Gila, Arizona, US
+105	84004009	Arizona	Graham	Graham, Arizona, US
+106	84004011	Arizona	Greenlee	Greenlee, Arizona, US
+107	84004012	Arizona	La Paz	La Paz, Arizona, US
+108	84004013	Arizona	Maricopa	Maricopa, Arizona, US
+109	84004015	Arizona	Mohave	Mohave, Arizona, US
+110	84004017	Arizona	Navajo	Navajo, Arizona, US
+111	84004019	Arizona	Pima	Pima, Arizona, US
+112	84004021	Arizona	Pinal	Pinal, Arizona, US
+113	84004023	Arizona	Santa Cruz	Santa Cruz, Arizona, US
+114	84004025	Arizona	Yavapai	Yavapai, Arizona, US
+115	84004027	Arizona	Yuma	Yuma, Arizona, US
+116	84005001	Arkansas	Arkansas	Arkansas, Arkansas, US
+117	84005003	Arkansas	Ashley	Ashley, Arkansas, US
+118	84005005	Arkansas	Baxter	Baxter, Arkansas, US
+119	84005007	Arkansas	Benton	Benton, Arkansas, US
+120	84005009	Arkansas	Boone	Boone, Arkansas, US
+121	84005011	Arkansas	Bradley	Bradley, Arkansas, US
+122	84005013	Arkansas	Calhoun	Calhoun, Arkansas, US
+123	84005015	Arkansas	Carroll	Carroll, Arkansas, US
+124	84005017	Arkansas	Chicot	Chicot, Arkansas, US
+125	84005019	Arkansas	Clark	Clark, Arkansas, US
+126	84005021	Arkansas	Clay	Clay, Arkansas, US
+127	84005023	Arkansas	Cleburne	Cleburne, Arkansas, US
+128	84005025	Arkansas	Cleveland	Cleveland, Arkansas, US
+129	84005027	Arkansas	Columbia	Columbia, Arkansas, US
+130	84005029	Arkansas	Conway	Conway, Arkansas, US
+131	84005031	Arkansas	Craighead	Craighead, Arkansas, US
+132	84005033	Arkansas	Crawford	Crawford, Arkansas, US
+133	84005035	Arkansas	Crittenden	Crittenden, Arkansas, US
+134	84005037	Arkansas	Cross	Cross, Arkansas, US
+135	84005039	Arkansas	Dallas	Dallas, Arkansas, US
+136	84005041	Arkansas	Desha	Desha, Arkansas, US
+137	84005043	Arkansas	Drew	Drew, Arkansas, US
+138	84005045	Arkansas	Faulkner	Faulkner, Arkansas, US
+139	84005047	Arkansas	Franklin	Franklin, Arkansas, US
+140	84005049	Arkansas	Fulton	Fulton, Arkansas, US
+141	84005051	Arkansas	Garland	Garland, Arkansas, US
+142	84005053	Arkansas	Grant	Grant, Arkansas, US
+143	84005055	Arkansas	Greene	Greene, Arkansas, US
+144	84005057	Arkansas	Hempstead	Hempstead, Arkansas, US
+145	84005059	Arkansas	Hot Spring	Hot Spring, Arkansas, US
+146	84005061	Arkansas	Howard	Howard, Arkansas, US
+147	84005063	Arkansas	Independence	Independence, Arkansas, US
+148	84005065	Arkansas	Izard	Izard, Arkansas, US
+149	84005067	Arkansas	Jackson	Jackson, Arkansas, US
+150	84005069	Arkansas	Jefferson	Jefferson, Arkansas, US
+151	84005071	Arkansas	Johnson	Johnson, Arkansas, US
+152	84005073	Arkansas	Lafayette	Lafayette, Arkansas, US
+153	84005075	Arkansas	Lawrence	Lawrence, Arkansas, US
+154	84005077	Arkansas	Lee	Lee, Arkansas, US
+155	84005079	Arkansas	Lincoln	Lincoln, Arkansas, US
+156	84005081	Arkansas	Little River	Little River, Arkansas, US
+157	84005083	Arkansas	Logan	Logan, Arkansas, US
+158	84005085	Arkansas	Lonoke	Lonoke, Arkansas, US
+159	84005087	Arkansas	Madison	Madison, Arkansas, US
+160	84005089	Arkansas	Marion	Marion, Arkansas, US
+161	84005091	Arkansas	Miller	Miller, Arkansas, US
+162	84005093	Arkansas	Mississippi	Mississippi, Arkansas, US
+163	84005095	Arkansas	Monroe	Monroe, Arkansas, US
+164	84005097	Arkansas	Montgomery	Montgomery, Arkansas, US
+165	84005099	Arkansas	Nevada	Nevada, Arkansas, US
+166	84005101	Arkansas	Newton	Newton, Arkansas, US
+167	84005103	Arkansas	Ouachita	Ouachita, Arkansas, US
+168	84005105	Arkansas	Perry	Perry, Arkansas, US
+169	84005107	Arkansas	Phillips	Phillips, Arkansas, US
+170	84005109	Arkansas	Pike	Pike, Arkansas, US
+171	84005111	Arkansas	Poinsett	Poinsett, Arkansas, US
+172	84005113	Arkansas	Polk	Polk, Arkansas, US
+173	84005115	Arkansas	Pope	Pope, Arkansas, US
+174	84005117	Arkansas	Prairie	Prairie, Arkansas, US
+175	84005119	Arkansas	Pulaski	Pulaski, Arkansas, US
+176	84005121	Arkansas	Randolph	Randolph, Arkansas, US
+177	84005123	Arkansas	St. Francis	St. Francis, Arkansas, US
+178	84005125	Arkansas	Saline	Saline, Arkansas, US
+179	84005127	Arkansas	Scott	Scott, Arkansas, US
+180	84005129	Arkansas	Searcy	Searcy, Arkansas, US
+181	84005131	Arkansas	Sebastian	Sebastian, Arkansas, US
+182	84005133	Arkansas	Sevier	Sevier, Arkansas, US
+183	84005135	Arkansas	Sharp	Sharp, Arkansas, US
+184	84005137	Arkansas	Stone	Stone, Arkansas, US
+185	84005139	Arkansas	Union	Union, Arkansas, US
+186	84005141	Arkansas	Van Buren	Van Buren, Arkansas, US
+187	84005143	Arkansas	Washington	Washington, Arkansas, US
+188	84005145	Arkansas	White	White, Arkansas, US
+189	84005147	Arkansas	Woodruff	Woodruff, Arkansas, US
+190	84005149	Arkansas	Yell	Yell, Arkansas, US
+191	84006001	California	Alameda	Alameda, California, US
+192	84006003	California	Alpine	Alpine, California, US
+193	84006005	California	Amador	Amador, California, US
+194	84006007	California	Butte	Butte, California, US
+195	84006009	California	Calaveras	Calaveras, California, US
+196	84006011	California	Colusa	Colusa, California, US
+197	84006013	California	Contra Costa	Contra Costa, California, US
+198	84006015	California	Del Norte	Del Norte, California, US
+199	84006017	California	El Dorado	El Dorado, California, US
+200	84006019	California	Fresno	Fresno, California, US
+201	84006021	California	Glenn	Glenn, California, US
+202	84006023	California	Humboldt	Humboldt, California, US
+203	84006025	California	Imperial	Imperial, California, US
+204	84006027	California	Inyo	Inyo, California, US
+205	84006029	California	Kern	Kern, California, US
+206	84006031	California	Kings	Kings, California, US
+207	84006033	California	Lake	Lake, California, US
+208	84006035	California	Lassen	Lassen, California, US
+209	84006037	California	Los Angeles	Los Angeles, California, US
+210	84006039	California	Madera	Madera, California, US
+211	84006041	California	Marin	Marin, California, US
+212	84006043	California	Mariposa	Mariposa, California, US
+213	84006045	California	Mendocino	Mendocino, California, US
+214	84006047	California	Merced	Merced, California, US
+215	84006049	California	Modoc	Modoc, California, US
+216	84006051	California	Mono	Mono, California, US
+217	84006053	California	Monterey	Monterey, California, US
+218	84006055	California	Napa	Napa, California, US
+219	84006057	California	Nevada	Nevada, California, US
+220	84006059	California	Orange	Orange, California, US
+221	84006061	California	Placer	Placer, California, US
+222	84006063	California	Plumas	Plumas, California, US
+223	84006065	California	Riverside	Riverside, California, US
+224	84006067	California	Sacramento	Sacramento, California, US
+225	84006069	California	San Benito	San Benito, California, US
+226	84006071	California	San Bernardino	San Bernardino, California, US
+227	84006073	California	San Diego	San Diego, California, US
+228	84006075	California	San Francisco	San Francisco, California, US
+229	84006077	California	San Joaquin	San Joaquin, California, US
+230	84006079	California	San Luis Obispo	San Luis Obispo, California, US
+231	84006081	California	San Mateo	San Mateo, California, US
+232	84006083	California	Santa Barbara	Santa Barbara, California, US
+233	84006085	California	Santa Clara	Santa Clara, California, US
+234	84006087	California	Santa Cruz	Santa Cruz, California, US
+235	84006089	California	Shasta	Shasta, California, US
+236	84006091	California	Sierra	Sierra, California, US
+237	84006093	California	Siskiyou	Siskiyou, California, US
+238	84006095	California	Solano	Solano, California, US
+239	84006097	California	Sonoma	Sonoma, California, US
+240	84006099	California	Stanislaus	Stanislaus, California, US
+241	84006101	California	Sutter	Sutter, California, US
+242	84006103	California	Tehama	Tehama, California, US
+243	84006105	California	Trinity	Trinity, California, US
+244	84006107	California	Tulare	Tulare, California, US
+245	84006109	California	Tuolumne	Tuolumne, California, US
+246	84006111	California	Ventura	Ventura, California, US
+247	84006113	California	Yolo	Yolo, California, US
+248	84006115	California	Yuba	Yuba, California, US
+249	84008001	Colorado	Adams	Adams, Colorado, US
+250	84008003	Colorado	Alamosa	Alamosa, Colorado, US
+251	84008005	Colorado	Arapahoe	Arapahoe, Colorado, US
+252	84008007	Colorado	Archuleta	Archuleta, Colorado, US
+253	84008009	Colorado	Baca	Baca, Colorado, US
+254	84008011	Colorado	Bent	Bent, Colorado, US
+255	84008013	Colorado	Boulder	Boulder, Colorado, US
+256	84008014	Colorado	Broomfield	Broomfield, Colorado, US
+257	84008015	Colorado	Chaffee	Chaffee, Colorado, US
+258	84008017	Colorado	Cheyenne	Cheyenne, Colorado, US
+259	84008019	Colorado	Clear Creek	Clear Creek, Colorado, US
+260	84008021	Colorado	Conejos	Conejos, Colorado, US
+261	84008023	Colorado	Costilla	Costilla, Colorado, US
+262	84008025	Colorado	Crowley	Crowley, Colorado, US
+263	84008027	Colorado	Custer	Custer, Colorado, US
+264	84008029	Colorado	Delta	Delta, Colorado, US
+265	84008031	Colorado	Denver	Denver, Colorado, US
+266	84008033	Colorado	Dolores	Dolores, Colorado, US
+267	84008035	Colorado	Douglas	Douglas, Colorado, US
+268	84008037	Colorado	Eagle	Eagle, Colorado, US
+269	84008039	Colorado	Elbert	Elbert, Colorado, US
+270	84008041	Colorado	El Paso	El Paso, Colorado, US
+271	84008043	Colorado	Fremont	Fremont, Colorado, US
+272	84008045	Colorado	Garfield	Garfield, Colorado, US
+273	84008047	Colorado	Gilpin	Gilpin, Colorado, US
+274	84008049	Colorado	Grand	Grand, Colorado, US
+275	84008051	Colorado	Gunnison	Gunnison, Colorado, US
+276	84008053	Colorado	Hinsdale	Hinsdale, Colorado, US
+277	84008055	Colorado	Huerfano	Huerfano, Colorado, US
+278	84008057	Colorado	Jackson	Jackson, Colorado, US
+279	84008059	Colorado	Jefferson	Jefferson, Colorado, US
+280	84008061	Colorado	Kiowa	Kiowa, Colorado, US
+281	84008063	Colorado	Kit Carson	Kit Carson, Colorado, US
+282	84008065	Colorado	Lake	Lake, Colorado, US
+283	84008067	Colorado	La Plata	La Plata, Colorado, US
+284	84008069	Colorado	Larimer	Larimer, Colorado, US
+285	84008071	Colorado	Las Animas	Las Animas, Colorado, US
+286	84008073	Colorado	Lincoln	Lincoln, Colorado, US
+287	84008075	Colorado	Logan	Logan, Colorado, US
+288	84008077	Colorado	Mesa	Mesa, Colorado, US
+289	84008079	Colorado	Mineral	Mineral, Colorado, US
+290	84008081	Colorado	Moffat	Moffat, Colorado, US
+291	84008083	Colorado	Montezuma	Montezuma, Colorado, US
+292	84008085	Colorado	Montrose	Montrose, Colorado, US
+293	84008087	Colorado	Morgan	Morgan, Colorado, US
+294	84008089	Colorado	Otero	Otero, Colorado, US
+295	84008091	Colorado	Ouray	Ouray, Colorado, US
+296	84008093	Colorado	Park	Park, Colorado, US
+297	84008095	Colorado	Phillips	Phillips, Colorado, US
+298	84008097	Colorado	Pitkin	Pitkin, Colorado, US
+299	84008099	Colorado	Prowers	Prowers, Colorado, US
+300	84008101	Colorado	Pueblo	Pueblo, Colorado, US
+301	84008103	Colorado	Rio Blanco	Rio Blanco, Colorado, US
+302	84008105	Colorado	Rio Grande	Rio Grande, Colorado, US
+303	84008107	Colorado	Routt	Routt, Colorado, US
+304	84008109	Colorado	Saguache	Saguache, Colorado, US
+305	84008111	Colorado	San Juan	San Juan, Colorado, US
+306	84008113	Colorado	San Miguel	San Miguel, Colorado, US
+307	84008115	Colorado	Sedgwick	Sedgwick, Colorado, US
+308	84008117	Colorado	Summit	Summit, Colorado, US
+309	84008119	Colorado	Teller	Teller, Colorado, US
+310	84008121	Colorado	Washington	Washington, Colorado, US
+311	84008123	Colorado	Weld	Weld, Colorado, US
+312	84008125	Colorado	Yuma	Yuma, Colorado, US
+313	84009001	Connecticut	Fairfield	Fairfield, Connecticut, US
+314	84009003	Connecticut	Hartford	Hartford, Connecticut, US
+315	84009005	Connecticut	Litchfield	Litchfield, Connecticut, US
+316	84009007	Connecticut	Middlesex	Middlesex, Connecticut, US
+317	84009009	Connecticut	New Haven	New Haven, Connecticut, US
+318	84009011	Connecticut	New London	New London, Connecticut, US
+319	84009013	Connecticut	Tolland	Tolland, Connecticut, US
+320	84009015	Connecticut	Windham	Windham, Connecticut, US
+321	84010001	Delaware	Kent	Kent, Delaware, US
+322	84010003	Delaware	New Castle	New Castle, Delaware, US
+323	84010005	Delaware	Sussex	Sussex, Delaware, US
+324	84011001	District of Columbia	District of Columbia	District of Columbia,District of Columbia,US
+325	84012001	Florida	Alachua	Alachua, Florida, US
+326	84012003	Florida	Baker	Baker, Florida, US
+327	84012005	Florida	Bay	Bay, Florida, US
+328	84012007	Florida	Bradford	Bradford, Florida, US
+329	84012009	Florida	Brevard	Brevard, Florida, US
+330	84012011	Florida	Broward	Broward, Florida, US
+331	84012013	Florida	Calhoun	Calhoun, Florida, US
+332	84012015	Florida	Charlotte	Charlotte, Florida, US
+333	84012017	Florida	Citrus	Citrus, Florida, US
+334	84012019	Florida	Clay	Clay, Florida, US
+335	84012021	Florida	Collier	Collier, Florida, US
+336	84012023	Florida	Columbia	Columbia, Florida, US
+337	84012027	Florida	DeSoto	DeSoto,Florida,US
+338	84012029	Florida	Dixie	Dixie, Florida, US
+339	84012031	Florida	Duval	Duval, Florida, US
+340	84012033	Florida	Escambia	Escambia, Florida, US
+341	84012035	Florida	Flagler	Flagler, Florida, US
+342	84012037	Florida	Franklin	Franklin, Florida, US
+343	84012039	Florida	Gadsden	Gadsden, Florida, US
+344	84012041	Florida	Gilchrist	Gilchrist, Florida, US
+345	84012043	Florida	Glades	Glades, Florida, US
+346	84012045	Florida	Gulf	Gulf, Florida, US
+347	84012047	Florida	Hamilton	Hamilton, Florida, US
+348	84012049	Florida	Hardee	Hardee, Florida, US
+349	84012051	Florida	Hendry	Hendry, Florida, US
+350	84012053	Florida	Hernando	Hernando, Florida, US
+351	84012055	Florida	Highlands	Highlands, Florida, US
+352	84012057	Florida	Hillsborough	Hillsborough, Florida, US
+353	84012059	Florida	Holmes	Holmes, Florida, US
+354	84012061	Florida	Indian River	Indian River, Florida, US
+355	84012063	Florida	Jackson	Jackson, Florida, US
+356	84012065	Florida	Jefferson	Jefferson, Florida, US
+357	84012067	Florida	Lafayette	Lafayette, Florida, US
+358	84012069	Florida	Lake	Lake, Florida, US
+359	84012071	Florida	Lee	Lee, Florida, US
+360	84012073	Florida	Leon	Leon, Florida, US
+361	84012075	Florida	Levy	Levy, Florida, US
+362	84012077	Florida	Liberty	Liberty, Florida, US
+363	84012079	Florida	Madison	Madison, Florida, US
+364	84012081	Florida	Manatee	Manatee, Florida, US
+365	84012083	Florida	Marion	Marion, Florida, US
+366	84012085	Florida	Martin	Martin, Florida, US
+367	84012086	Florida	Miami-Dade	Miami-Dade, Florida, US
+368	84012087	Florida	Monroe	Monroe, Florida, US
+369	84012089	Florida	Nassau	Nassau, Florida, US
+370	84012091	Florida	Okaloosa	Okaloosa, Florida, US
+371	84012093	Florida	Okeechobee	Okeechobee, Florida, US
+372	84012095	Florida	Orange	Orange, Florida, US
+373	84012097	Florida	Osceola	Osceola, Florida, US
+374	84012099	Florida	Palm Beach	Palm Beach, Florida, US
+375	84012101	Florida	Pasco	Pasco, Florida, US
+376	84012103	Florida	Pinellas	Pinellas, Florida, US
+377	84012105	Florida	Polk	Polk, Florida, US
+378	84012107	Florida	Putnam	Putnam, Florida, US
+379	84012109	Florida	St. Johns	St. Johns, Florida, US
+380	84012111	Florida	St. Lucie	St. Lucie, Florida, US
+381	84012113	Florida	Santa Rosa	Santa Rosa, Florida, US
+382	84012115	Florida	Sarasota	Sarasota, Florida, US
+383	84012117	Florida	Seminole	Seminole, Florida, US
+384	84012119	Florida	Sumter	Sumter, Florida, US
+385	84012121	Florida	Suwannee	Suwannee, Florida, US
+386	84012123	Florida	Taylor	Taylor, Florida, US
+387	84012125	Florida	Union	Union, Florida, US
+388	84012127	Florida	Volusia	Volusia, Florida, US
+389	84012129	Florida	Wakulla	Wakulla, Florida, US
+390	84012131	Florida	Walton	Walton, Florida, US
+391	84012133	Florida	Washington	Washington, Florida, US
+392	84013001	Georgia	Appling	Appling, Georgia, US
+393	84013003	Georgia	Atkinson	Atkinson, Georgia, US
+394	84013005	Georgia	Bacon	Bacon, Georgia, US
+395	84013007	Georgia	Baker	Baker, Georgia, US
+396	84013009	Georgia	Baldwin	Baldwin, Georgia, US
+397	84013011	Georgia	Banks	Banks, Georgia, US
+398	84013013	Georgia	Barrow	Barrow, Georgia, US
+399	84013015	Georgia	Bartow	Bartow, Georgia, US
+400	84013017	Georgia	Ben Hill	Ben Hill, Georgia, US
+401	84013019	Georgia	Berrien	Berrien, Georgia, US
+402	84013021	Georgia	Bibb	Bibb, Georgia, US
+403	84013023	Georgia	Bleckley	Bleckley, Georgia, US
+404	84013025	Georgia	Brantley	Brantley, Georgia, US
+405	84013027	Georgia	Brooks	Brooks, Georgia, US
+406	84013029	Georgia	Bryan	Bryan, Georgia, US
+407	84013031	Georgia	Bulloch	Bulloch, Georgia, US
+408	84013033	Georgia	Burke	Burke, Georgia, US
+409	84013035	Georgia	Butts	Butts, Georgia, US
+410	84013037	Georgia	Calhoun	Calhoun, Georgia, US
+411	84013039	Georgia	Camden	Camden, Georgia, US
+412	84013043	Georgia	Candler	Candler, Georgia, US
+413	84013045	Georgia	Carroll	Carroll, Georgia, US
+414	84013047	Georgia	Catoosa	Catoosa, Georgia, US
+415	84013049	Georgia	Charlton	Charlton, Georgia, US
+416	84013051	Georgia	Chatham	Chatham, Georgia, US
+417	84013053	Georgia	Chattahoochee	Chattahoochee, Georgia, US
+418	84013055	Georgia	Chattooga	Chattooga, Georgia, US
+419	84013057	Georgia	Cherokee	Cherokee, Georgia, US
+420	84013059	Georgia	Clarke	Clarke, Georgia, US
+421	84013061	Georgia	Clay	Clay, Georgia, US
+422	84013063	Georgia	Clayton	Clayton, Georgia, US
+423	84013065	Georgia	Clinch	Clinch, Georgia, US
+424	84013067	Georgia	Cobb	Cobb, Georgia, US
+425	84013069	Georgia	Coffee	Coffee, Georgia, US
+426	84013071	Georgia	Colquitt	Colquitt, Georgia, US
+427	84013073	Georgia	Columbia	Columbia, Georgia, US
+428	84013075	Georgia	Cook	Cook, Georgia, US
+429	84013077	Georgia	Coweta	Coweta, Georgia, US
+430	84013079	Georgia	Crawford	Crawford, Georgia, US
+431	84013081	Georgia	Crisp	Crisp, Georgia, US
+432	84013083	Georgia	Dade	Dade, Georgia, US
+433	84013085	Georgia	Dawson	Dawson, Georgia, US
+434	84013087	Georgia	Decatur	Decatur, Georgia, US
+435	84013089	Georgia	DeKalb	DeKalb, Georgia, US
+436	84013091	Georgia	Dodge	Dodge, Georgia, US
+437	84013093	Georgia	Dooly	Dooly, Georgia, US
+438	84013095	Georgia	Dougherty	Dougherty, Georgia, US
+439	84013097	Georgia	Douglas	Douglas, Georgia, US
+440	84013099	Georgia	Early	Early, Georgia, US
+441	84013101	Georgia	Echols	Echols, Georgia, US
+442	84013103	Georgia	Effingham	Effingham, Georgia, US
+443	84013105	Georgia	Elbert	Elbert, Georgia, US
+444	84013107	Georgia	Emanuel	Emanuel, Georgia, US
+445	84013109	Georgia	Evans	Evans, Georgia, US
+446	84013111	Georgia	Fannin	Fannin, Georgia, US
+447	84013113	Georgia	Fayette	Fayette, Georgia, US
+448	84013115	Georgia	Floyd	Floyd, Georgia, US
+449	84013117	Georgia	Forsyth	Forsyth, Georgia, US
+450	84013119	Georgia	Franklin	Franklin, Georgia, US
+451	84013121	Georgia	Fulton	Fulton, Georgia, US
+452	84013123	Georgia	Gilmer	Gilmer, Georgia, US
+453	84013125	Georgia	Glascock	Glascock, Georgia, US
+454	84013127	Georgia	Glynn	Glynn, Georgia, US
+455	84013129	Georgia	Gordon	Gordon, Georgia, US
+456	84013131	Georgia	Grady	Grady, Georgia, US
+457	84013133	Georgia	Greene	Greene, Georgia, US
+458	84013135	Georgia	Gwinnett	Gwinnett, Georgia, US
+459	84013137	Georgia	Habersham	Habersham, Georgia, US
+460	84013139	Georgia	Hall	Hall, Georgia, US
+461	84013141	Georgia	Hancock	Hancock, Georgia, US
+462	84013143	Georgia	Haralson	Haralson, Georgia, US
+463	84013145	Georgia	Harris	Harris, Georgia, US
+464	84013147	Georgia	Hart	Hart, Georgia, US
+465	84013149	Georgia	Heard	Heard, Georgia, US
+466	84013151	Georgia	Henry	Henry, Georgia, US
+467	84013153	Georgia	Houston	Houston, Georgia, US
+468	84013155	Georgia	Irwin	Irwin, Georgia, US
+469	84013157	Georgia	Jackson	Jackson, Georgia, US
+470	84013159	Georgia	Jasper	Jasper, Georgia, US
+471	84013161	Georgia	Jeff Davis	Jeff Davis, Georgia, US
+472	84013163	Georgia	Jefferson	Jefferson, Georgia, US
+473	84013165	Georgia	Jenkins	Jenkins, Georgia, US
+474	84013167	Georgia	Johnson	Johnson, Georgia, US
+475	84013169	Georgia	Jones	Jones, Georgia, US
+476	84013171	Georgia	Lamar	Lamar, Georgia, US
+477	84013173	Georgia	Lanier	Lanier, Georgia, US
+478	84013175	Georgia	Laurens	Laurens, Georgia, US
+479	84013177	Georgia	Lee	Lee, Georgia, US
+480	84013179	Georgia	Liberty	Liberty, Georgia, US
+481	84013181	Georgia	Lincoln	Lincoln, Georgia, US
+482	84013183	Georgia	Long	Long, Georgia, US
+483	84013185	Georgia	Lowndes	Lowndes, Georgia, US
+484	84013187	Georgia	Lumpkin	Lumpkin, Georgia, US
+485	84013189	Georgia	McDuffie	McDuffie,Georgia,US
+486	84013191	Georgia	McIntosh	McIntosh, Georgia, US
+487	84013193	Georgia	Macon	Macon, Georgia, US
+488	84013195	Georgia	Madison	Madison, Georgia, US
+489	84013197	Georgia	Marion	Marion, Georgia, US
+490	84013199	Georgia	Meriwether	Meriwether, Georgia, US
+491	84013201	Georgia	Miller	Miller, Georgia, US
+492	84013205	Georgia	Mitchell	Mitchell, Georgia, US
+493	84013207	Georgia	Monroe	Monroe, Georgia, US
+494	84013209	Georgia	Montgomery	Montgomery, Georgia, US
+495	84013211	Georgia	Morgan	Morgan, Georgia, US
+496	84013213	Georgia	Murray	Murray, Georgia, US
+497	84013215	Georgia	Muscogee	Muscogee, Georgia, US
+498	84013217	Georgia	Newton	Newton, Georgia, US
+499	84013219	Georgia	Oconee	Oconee, Georgia, US
+500	84013221	Georgia	Oglethorpe	Oglethorpe, Georgia, US
+501	84013223	Georgia	Paulding	Paulding, Georgia, US
+502	84013225	Georgia	Peach	Peach, Georgia, US
+503	84013227	Georgia	Pickens	Pickens, Georgia, US
+504	84013229	Georgia	Pierce	Pierce, Georgia, US
+505	84013231	Georgia	Pike	Pike, Georgia, US
+506	84013233	Georgia	Polk	Polk, Georgia, US
+507	84013235	Georgia	Pulaski	Pulaski, Georgia, US
+508	84013237	Georgia	Putnam	Putnam, Georgia, US
+509	84013239	Georgia	Quitman	Quitman, Georgia, US
+510	84013241	Georgia	Rabun	Rabun, Georgia, US
+511	84013243	Georgia	Randolph	Randolph, Georgia, US
+512	84013245	Georgia	Richmond	Richmond, Georgia, US
+513	84013247	Georgia	Rockdale	Rockdale, Georgia, US
+514	84013249	Georgia	Schley	Schley, Georgia, US
+515	84013251	Georgia	Screven	Screven, Georgia, US
+516	84013253	Georgia	Seminole	Seminole, Georgia, US
+517	84013255	Georgia	Spalding	Spalding, Georgia, US
+518	84013257	Georgia	Stephens	Stephens, Georgia, US
+519	84013259	Georgia	Stewart	Stewart, Georgia, US
+520	84013261	Georgia	Sumter	Sumter, Georgia, US
+521	84013263	Georgia	Talbot	Talbot, Georgia, US
+522	84013265	Georgia	Taliaferro	Taliaferro, Georgia, US
+523	84013267	Georgia	Tattnall	Tattnall, Georgia, US
+524	84013269	Georgia	Taylor	Taylor, Georgia, US
+525	84013271	Georgia	Telfair	Telfair, Georgia, US
+526	84013273	Georgia	Terrell	Terrell, Georgia, US
+527	84013275	Georgia	Thomas	Thomas, Georgia, US
+528	84013277	Georgia	Tift	Tift, Georgia, US
+529	84013279	Georgia	Toombs	Toombs, Georgia, US
+530	84013281	Georgia	Towns	Towns, Georgia, US
+531	84013283	Georgia	Treutlen	Treutlen, Georgia, US
+532	84013285	Georgia	Troup	Troup, Georgia, US
+533	84013287	Georgia	Turner	Turner, Georgia, US
+534	84013289	Georgia	Twiggs	Twiggs, Georgia, US
+535	84013291	Georgia	Union	Union, Georgia, US
+536	84013293	Georgia	Upson	Upson, Georgia, US
+537	84013295	Georgia	Walker	Walker, Georgia, US
+538	84013297	Georgia	Walton	Walton, Georgia, US
+539	84013299	Georgia	Ware	Ware, Georgia, US
+540	84013301	Georgia	Warren	Warren, Georgia, US
+541	84013303	Georgia	Washington	Washington, Georgia, US
+542	84013305	Georgia	Wayne	Wayne, Georgia, US
+543	84013307	Georgia	Webster	Webster, Georgia, US
+544	84013309	Georgia	Wheeler	Wheeler, Georgia, US
+545	84013311	Georgia	White	White, Georgia, US
+546	84013313	Georgia	Whitfield	Whitfield, Georgia, US
+547	84013315	Georgia	Wilcox	Wilcox, Georgia, US
+548	84013317	Georgia	Wilkes	Wilkes, Georgia, US
+549	84013319	Georgia	Wilkinson	Wilkinson, Georgia, US
+550	84013321	Georgia	Worth	Worth, Georgia, US
+551	84015001	Hawaii	Hawaii	Hawaii, Hawaii, US
+552	84015003	Hawaii	Honolulu	Honolulu, Hawaii, US
+553	84015005	Hawaii	Kalawao	Kalawao, Hawaii, US
+554	84015007	Hawaii	Kauai	Kauai, Hawaii, US
+555	84015009	Hawaii	Maui	Maui, Hawaii, US
+556	84016001	Idaho	Ada	Ada, Idaho, US
+557	84016003	Idaho	Adams	Adams, Idaho, US
+558	84016005	Idaho	Bannock	Bannock, Idaho, US
+559	84016007	Idaho	Bear Lake	Bear Lake, Idaho, US
+560	84016009	Idaho	Benewah	Benewah, Idaho, US
+561	84016011	Idaho	Bingham	Bingham, Idaho, US
+562	84016013	Idaho	Blaine	Blaine, Idaho, US
+563	84016015	Idaho	Boise	Boise, Idaho, US
+564	84016017	Idaho	Bonner	Bonner, Idaho, US
+565	84016019	Idaho	Bonneville	Bonneville, Idaho, US
+566	84016021	Idaho	Boundary	Boundary, Idaho, US
+567	84016023	Idaho	Butte	Butte, Idaho, US
+568	84016025	Idaho	Camas	Camas, Idaho, US
+569	84016027	Idaho	Canyon	Canyon, Idaho, US
+570	84016029	Idaho	Caribou	Caribou, Idaho, US
+571	84016031	Idaho	Cassia	Cassia, Idaho, US
+572	84016033	Idaho	Clark	Clark, Idaho, US
+573	84016035	Idaho	Clearwater	Clearwater, Idaho, US
+574	84016037	Idaho	Custer	Custer, Idaho, US
+575	84016039	Idaho	Elmore	Elmore, Idaho, US
+576	84016041	Idaho	Franklin	Franklin, Idaho, US
+577	84016043	Idaho	Fremont	Fremont, Idaho, US
+578	84016045	Idaho	Gem	Gem, Idaho, US
+579	84016047	Idaho	Gooding	Gooding, Idaho, US
+580	84016049	Idaho	Idaho	Idaho, Idaho, US
+581	84016051	Idaho	Jefferson	Jefferson, Idaho, US
+582	84016053	Idaho	Jerome	Jerome, Idaho, US
+583	84016055	Idaho	Kootenai	Kootenai, Idaho, US
+584	84016057	Idaho	Latah	Latah, Idaho, US
+585	84016059	Idaho	Lemhi	Lemhi, Idaho, US
+586	84016061	Idaho	Lewis	Lewis, Idaho, US
+587	84016063	Idaho	Lincoln	Lincoln, Idaho, US
+588	84016065	Idaho	Madison	Madison, Idaho, US
+589	84016067	Idaho	Minidoka	Minidoka, Idaho, US
+590	84016069	Idaho	Nez Perce	Nez Perce, Idaho, US
+591	84016071	Idaho	Oneida	Oneida, Idaho, US
+592	84016073	Idaho	Owyhee	Owyhee, Idaho, US
+593	84016075	Idaho	Payette	Payette, Idaho, US
+594	84016077	Idaho	Power	Power, Idaho, US
+595	84016079	Idaho	Shoshone	Shoshone, Idaho, US
+596	84016081	Idaho	Teton	Teton, Idaho, US
+597	84016083	Idaho	Twin Falls	Twin Falls, Idaho, US
+598	84016085	Idaho	Valley	Valley, Idaho, US
+599	84016087	Idaho	Washington	Washington, Idaho, US
+600	84017001	Illinois	Adams	Adams, Illinois, US
+601	84017003	Illinois	Alexander	Alexander, Illinois, US
+602	84017005	Illinois	Bond	Bond, Illinois, US
+603	84017007	Illinois	Boone	Boone, Illinois, US
+604	84017009	Illinois	Brown	Brown, Illinois, US
+605	84017011	Illinois	Bureau	Bureau, Illinois, US
+606	84017013	Illinois	Calhoun	Calhoun, Illinois, US
+607	84017015	Illinois	Carroll	Carroll, Illinois, US
+608	84017017	Illinois	Cass	Cass, Illinois, US
+609	84017019	Illinois	Champaign	Champaign, Illinois, US
+610	84017021	Illinois	Christian	Christian, Illinois, US
+611	84017023	Illinois	Clark	Clark, Illinois, US
+612	84017025	Illinois	Clay	Clay, Illinois, US
+613	84017027	Illinois	Clinton	Clinton, Illinois, US
+614	84017029	Illinois	Coles	Coles, Illinois, US
+615	84017031	Illinois	Cook	Cook, Illinois, US
+616	84017033	Illinois	Crawford	Crawford, Illinois, US
+617	84017035	Illinois	Cumberland	Cumberland, Illinois, US
+618	84017037	Illinois	DeKalb	DeKalb, Illinois, US
+619	84017039	Illinois	De Witt	De Witt, Illinois, US
+620	84017041	Illinois	Douglas	Douglas, Illinois, US
+621	84017043	Illinois	DuPage	DuPage, Illinois, US
+622	84017045	Illinois	Edgar	Edgar, Illinois, US
+623	84017047	Illinois	Edwards	Edwards, Illinois, US
+624	84017049	Illinois	Effingham	Effingham, Illinois, US
+625	84017051	Illinois	Fayette	Fayette, Illinois, US
+626	84017053	Illinois	Ford	Ford, Illinois, US
+627	84017055	Illinois	Franklin	Franklin, Illinois, US
+628	84017057	Illinois	Fulton	Fulton, Illinois, US
+629	84017059	Illinois	Gallatin	Gallatin, Illinois, US
+630	84017061	Illinois	Greene	Greene, Illinois, US
+631	84017063	Illinois	Grundy	Grundy, Illinois, US
+632	84017065	Illinois	Hamilton	Hamilton, Illinois, US
+633	84017067	Illinois	Hancock	Hancock, Illinois, US
+634	84017069	Illinois	Hardin	Hardin, Illinois, US
+635	84017071	Illinois	Henderson	Henderson, Illinois, US
+636	84017073	Illinois	Henry	Henry, Illinois, US
+637	84017075	Illinois	Iroquois	Iroquois, Illinois, US
+638	84017077	Illinois	Jackson	Jackson, Illinois, US
+639	84017079	Illinois	Jasper	Jasper, Illinois, US
+640	84017081	Illinois	Jefferson	Jefferson, Illinois, US
+641	84017083	Illinois	Jersey	Jersey, Illinois, US
+642	84017085	Illinois	Jo Daviess	Jo Daviess, Illinois, US
+643	84017087	Illinois	Johnson	Johnson, Illinois, US
+644	84017089	Illinois	Kane	Kane, Illinois, US
+645	84017091	Illinois	Kankakee	Kankakee, Illinois, US
+646	84017093	Illinois	Kendall	Kendall, Illinois, US
+647	84017095	Illinois	Knox	Knox, Illinois, US
+648	84017097	Illinois	Lake	Lake, Illinois, US
+649	84017099	Illinois	LaSalle	LaSalle,Illinois,US
+650	84017101	Illinois	Lawrence	Lawrence, Illinois, US
+651	84017103	Illinois	Lee	Lee, Illinois, US
+652	84017105	Illinois	Livingston	Livingston, Illinois, US
+653	84017107	Illinois	Logan	Logan, Illinois, US
+654	84017109	Illinois	McDonough	McDonough, Illinois, US
+655	84017111	Illinois	McHenry	McHenry, Illinois, US
+656	84017113	Illinois	McLean	McLean, Illinois, US
+657	84017115	Illinois	Macon	Macon, Illinois, US
+658	84017117	Illinois	Macoupin	Macoupin, Illinois, US
+659	84017119	Illinois	Madison	Madison, Illinois, US
+660	84017121	Illinois	Marion	Marion, Illinois, US
+661	84017123	Illinois	Marshall	Marshall, Illinois, US
+662	84017125	Illinois	Mason	Mason, Illinois, US
+663	84017127	Illinois	Massac	Massac, Illinois, US
+664	84017129	Illinois	Menard	Menard, Illinois, US
+665	84017131	Illinois	Mercer	Mercer, Illinois, US
+666	84017133	Illinois	Monroe	Monroe, Illinois, US
+667	84017135	Illinois	Montgomery	Montgomery, Illinois, US
+668	84017137	Illinois	Morgan	Morgan, Illinois, US
+669	84017139	Illinois	Moultrie	Moultrie, Illinois, US
+670	84017141	Illinois	Ogle	Ogle, Illinois, US
+671	84017143	Illinois	Peoria	Peoria, Illinois, US
+672	84017145	Illinois	Perry	Perry, Illinois, US
+673	84017147	Illinois	Piatt	Piatt, Illinois, US
+674	84017149	Illinois	Pike	Pike, Illinois, US
+675	84017151	Illinois	Pope	Pope, Illinois, US
+676	84017153	Illinois	Pulaski	Pulaski, Illinois, US
+677	84017155	Illinois	Putnam	Putnam, Illinois, US
+678	84017157	Illinois	Randolph	Randolph, Illinois, US
+679	84017159	Illinois	Richland	Richland, Illinois, US
+680	84017161	Illinois	Rock Island	Rock Island, Illinois, US
+681	84017163	Illinois	St. Clair	St. Clair, Illinois, US
+682	84017165	Illinois	Saline	Saline, Illinois, US
+683	84017167	Illinois	Sangamon	Sangamon, Illinois, US
+684	84017169	Illinois	Schuyler	Schuyler, Illinois, US
+685	84017171	Illinois	Scott	Scott, Illinois, US
+686	84017173	Illinois	Shelby	Shelby, Illinois, US
+687	84017175	Illinois	Stark	Stark, Illinois, US
+688	84017177	Illinois	Stephenson	Stephenson, Illinois, US
+689	84017179	Illinois	Tazewell	Tazewell, Illinois, US
+690	84017181	Illinois	Union	Union, Illinois, US
+691	84017183	Illinois	Vermilion	Vermilion, Illinois, US
+692	84017185	Illinois	Wabash	Wabash, Illinois, US
+693	84017187	Illinois	Warren	Warren, Illinois, US
+694	84017189	Illinois	Washington	Washington, Illinois, US
+695	84017191	Illinois	Wayne	Wayne, Illinois, US
+696	84017193	Illinois	White	White, Illinois, US
+697	84017195	Illinois	Whiteside	Whiteside, Illinois, US
+698	84017197	Illinois	Will	Will, Illinois, US
+699	84017199	Illinois	Williamson	Williamson, Illinois, US
+700	84017201	Illinois	Winnebago	Winnebago, Illinois, US
+701	84017203	Illinois	Woodford	Woodford, Illinois, US
+702	84018001	Indiana	Adams	Adams, Indiana, US
+703	84018003	Indiana	Allen	Allen, Indiana, US
+704	84018005	Indiana	Bartholomew	Bartholomew, Indiana, US
+705	84018007	Indiana	Benton	Benton, Indiana, US
+706	84018009	Indiana	Blackford	Blackford, Indiana, US
+707	84018011	Indiana	Boone	Boone, Indiana, US
+708	84018013	Indiana	Brown	Brown, Indiana, US
+709	84018015	Indiana	Carroll	Carroll,Indiana,US
+710	84018017	Indiana	Cass	Cass, Indiana, US
+711	84018019	Indiana	Clark	Clark, Indiana, US
+712	84018021	Indiana	Clay	Clay, Indiana, US
+713	84018023	Indiana	Clinton	Clinton, Indiana, US
+714	84018025	Indiana	Crawford	Crawford, Indiana, US
+715	84018027	Indiana	Daviess	Daviess, Indiana, US
+716	84018029	Indiana	Dearborn	Dearborn, Indiana, US
+717	84018031	Indiana	Decatur	Decatur, Indiana, US
+718	84018033	Indiana	DeKalb	DeKalb, Indiana, US
+719	84018035	Indiana	Delaware	Delaware, Indiana, US
+720	84018037	Indiana	Dubois	Dubois, Indiana, US
+721	84018039	Indiana	Elkhart	Elkhart, Indiana, US
+722	84018041	Indiana	Fayette	Fayette, Indiana, US
+723	84018043	Indiana	Floyd	Floyd, Indiana, US
+724	84018045	Indiana	Fountain	Fountain, Indiana, US
+725	84018047	Indiana	Franklin	Franklin, Indiana, US
+726	84018049	Indiana	Fulton	Fulton, Indiana, US
+727	84018051	Indiana	Gibson	Gibson, Indiana, US
+728	84018053	Indiana	Grant	Grant, Indiana, US
+729	84018055	Indiana	Greene	Greene, Indiana, US
+730	84018057	Indiana	Hamilton	Hamilton, Indiana, US
+731	84018059	Indiana	Hancock	Hancock, Indiana, US
+732	84018061	Indiana	Harrison	Harrison, Indiana, US
+733	84018063	Indiana	Hendricks	Hendricks, Indiana, US
+734	84018065	Indiana	Henry	Henry, Indiana, US
+735	84018067	Indiana	Howard	Howard, Indiana, US
+736	84018069	Indiana	Huntington	Huntington, Indiana, US
+737	84018071	Indiana	Jackson	Jackson, Indiana, US
+738	84018073	Indiana	Jasper	Jasper, Indiana, US
+739	84018075	Indiana	Jay	Jay, Indiana, US
+740	84018077	Indiana	Jefferson	Jefferson, Indiana, US
+741	84018079	Indiana	Jennings	Jennings, Indiana, US
+742	84018081	Indiana	Johnson	Johnson, Indiana, US
+743	84018083	Indiana	Knox	Knox, Indiana, US
+744	84018085	Indiana	Kosciusko	Kosciusko, Indiana, US
+745	84018087	Indiana	LaGrange	LaGrange, Indiana, US
+746	84018089	Indiana	Lake	Lake, Indiana, US
+747	84018091	Indiana	LaPorte	LaPorte, Indiana, US
+748	84018093	Indiana	Lawrence	Lawrence, Indiana, US
+749	84018095	Indiana	Madison	Madison, Indiana, US
+750	84018097	Indiana	Marion	Marion, Indiana, US
+751	84018099	Indiana	Marshall	Marshall, Indiana, US
+752	84018101	Indiana	Martin	Martin, Indiana, US
+753	84018103	Indiana	Miami	Miami, Indiana, US
+754	84018105	Indiana	Monroe	Monroe, Indiana, US
+755	84018107	Indiana	Montgomery	Montgomery, Indiana, US
+756	84018109	Indiana	Morgan	Morgan, Indiana, US
+757	84018111	Indiana	Newton	Newton, Indiana, US
+758	84018113	Indiana	Noble	Noble, Indiana, US
+759	84018115	Indiana	Ohio	Ohio, Indiana, US
+760	84018117	Indiana	Orange	Orange, Indiana, US
+761	84018119	Indiana	Owen	Owen, Indiana, US
+762	84018121	Indiana	Parke	Parke, Indiana, US
+763	84018123	Indiana	Perry	Perry, Indiana, US
+764	84018125	Indiana	Pike	Pike, Indiana, US
+765	84018127	Indiana	Porter	Porter, Indiana, US
+766	84018129	Indiana	Posey	Posey, Indiana, US
+767	84018131	Indiana	Pulaski	Pulaski, Indiana, US
+768	84018133	Indiana	Putnam	Putnam, Indiana, US
+769	84018135	Indiana	Randolph	Randolph, Indiana, US
+770	84018137	Indiana	Ripley	Ripley, Indiana, US
+771	84018139	Indiana	Rush	Rush, Indiana, US
+772	84018141	Indiana	St. Joseph	St. Joseph, Indiana, US
+773	84018143	Indiana	Scott	Scott, Indiana, US
+774	84018145	Indiana	Shelby	Shelby, Indiana, US
+775	84018147	Indiana	Spencer	Spencer, Indiana, US
+776	84018149	Indiana	Starke	Starke, Indiana, US
+777	84018151	Indiana	Steuben	Steuben, Indiana, US
+778	84018153	Indiana	Sullivan	Sullivan, Indiana, US
+779	84018155	Indiana	Switzerland	Switzerland, Indiana, US
+780	84018157	Indiana	Tippecanoe	Tippecanoe, Indiana, US
+781	84018159	Indiana	Tipton	Tipton, Indiana, US
+782	84018161	Indiana	Union	Union, Indiana, US
+783	84018163	Indiana	Vanderburgh	Vanderburgh, Indiana, US
+784	84018165	Indiana	Vermillion	Vermillion, Indiana, US
+785	84018167	Indiana	Vigo	Vigo, Indiana, US
+786	84018169	Indiana	Wabash	Wabash, Indiana, US
+787	84018171	Indiana	Warren	Warren, Indiana, US
+788	84018173	Indiana	Warrick	Warrick, Indiana, US
+789	84018175	Indiana	Washington	Washington, Indiana, US
+790	84018177	Indiana	Wayne	Wayne, Indiana, US
+791	84018179	Indiana	Wells	Wells, Indiana, US
+792	84018181	Indiana	White	White, Indiana, US
+793	84018183	Indiana	Whitley	Whitley, Indiana, US
+794	84019001	Iowa	Adair	Adair, Iowa, US
+795	84019003	Iowa	Adams	Adams, Iowa, US
+796	84019005	Iowa	Allamakee	Allamakee, Iowa, US
+797	84019007	Iowa	Appanoose	Appanoose, Iowa, US
+798	84019009	Iowa	Audubon	Audubon, Iowa, US
+799	84019011	Iowa	Benton	Benton, Iowa, US
+800	84019013	Iowa	Black Hawk	Black Hawk, Iowa, US
+801	84019015	Iowa	Boone	Boone, Iowa, US
+802	84019017	Iowa	Bremer	Bremer, Iowa, US
+803	84019019	Iowa	Buchanan	Buchanan, Iowa, US
+804	84019021	Iowa	Buena Vista	Buena Vista, Iowa, US
+805	84019023	Iowa	Butler	Butler, Iowa, US
+806	84019025	Iowa	Calhoun	Calhoun, Iowa, US
+807	84019027	Iowa	Carroll	Carroll, Iowa, US
+808	84019029	Iowa	Cass	Cass, Iowa, US
+809	84019031	Iowa	Cedar	Cedar, Iowa, US
+810	84019033	Iowa	Cerro Gordo	Cerro Gordo, Iowa, US
+811	84019035	Iowa	Cherokee	Cherokee, Iowa, US
+812	84019037	Iowa	Chickasaw	Chickasaw, Iowa, US
+813	84019039	Iowa	Clarke	Clarke, Iowa, US
+814	84019041	Iowa	Clay	Clay, Iowa, US
+815	84019043	Iowa	Clayton	Clayton, Iowa, US
+816	84019045	Iowa	Clinton	Clinton, Iowa, US
+817	84019047	Iowa	Crawford	Crawford, Iowa, US
+818	84019049	Iowa	Dallas	Dallas, Iowa, US
+819	84019051	Iowa	Davis	Davis, Iowa, US
+820	84019053	Iowa	Decatur	Decatur, Iowa, US
+821	84019055	Iowa	Delaware	Delaware, Iowa, US
+822	84019057	Iowa	Des Moines	Des Moines, Iowa, US
+823	84019059	Iowa	Dickinson	Dickinson, Iowa, US
+824	84019061	Iowa	Dubuque	Dubuque, Iowa, US
+825	84019063	Iowa	Emmet	Emmet, Iowa, US
+826	84019065	Iowa	Fayette	Fayette, Iowa, US
+827	84019067	Iowa	Floyd	Floyd, Iowa, US
+828	84019069	Iowa	Franklin	Franklin, Iowa, US
+829	84019071	Iowa	Fremont	Fremont, Iowa, US
+830	84019073	Iowa	Greene	Greene, Iowa, US
+831	84019075	Iowa	Grundy	Grundy, Iowa, US
+832	84019077	Iowa	Guthrie	Guthrie, Iowa, US
+833	84019079	Iowa	Hamilton	Hamilton, Iowa, US
+834	84019081	Iowa	Hancock	Hancock, Iowa, US
+835	84019083	Iowa	Hardin	Hardin, Iowa, US
+836	84019085	Iowa	Harrison	Harrison, Iowa, US
+837	84019087	Iowa	Henry	Henry, Iowa, US
+838	84019089	Iowa	Howard	Howard, Iowa, US
+839	84019091	Iowa	Humboldt	Humboldt, Iowa, US
+840	84019093	Iowa	Ida	Ida, Iowa, US
+841	84019095	Iowa	Iowa	Iowa, Iowa, US
+842	84019097	Iowa	Jackson	Jackson, Iowa, US
+843	84019099	Iowa	Jasper	Jasper, Iowa, US
+844	84019101	Iowa	Jefferson	Jefferson, Iowa, US
+845	84019103	Iowa	Johnson	Johnson, Iowa, US
+846	84019105	Iowa	Jones	Jones, Iowa, US
+847	84019107	Iowa	Keokuk	Keokuk, Iowa, US
+848	84019109	Iowa	Kossuth	Kossuth, Iowa, US
+849	84019111	Iowa	Lee	Lee, Iowa, US
+850	84019113	Iowa	Linn	Linn, Iowa, US
+851	84019115	Iowa	Louisa	Louisa, Iowa, US
+852	84019117	Iowa	Lucas	Lucas, Iowa, US
+853	84019119	Iowa	Lyon	Lyon, Iowa, US
+854	84019121	Iowa	Madison	Madison, Iowa, US
+855	84019123	Iowa	Mahaska	Mahaska, Iowa, US
+856	84019125	Iowa	Marion	Marion, Iowa, US
+857	84019127	Iowa	Marshall	Marshall, Iowa, US
+858	84019129	Iowa	Mills	Mills, Iowa, US
+859	84019131	Iowa	Mitchell	Mitchell, Iowa, US
+860	84019133	Iowa	Monona	Monona, Iowa, US
+861	84019135	Iowa	Monroe	Monroe, Iowa, US
+862	84019137	Iowa	Montgomery	Montgomery, Iowa, US
+863	84019139	Iowa	Muscatine	Muscatine, Iowa, US
+864	84019141	Iowa	O'Brien	O'Brien, Iowa, US
+865	84019143	Iowa	Osceola	Osceola, Iowa, US
+866	84019145	Iowa	Page	Page, Iowa, US
+867	84019147	Iowa	Palo Alto	Palo Alto, Iowa, US
+868	84019149	Iowa	Plymouth	Plymouth, Iowa, US
+869	84019151	Iowa	Pocahontas	Pocahontas, Iowa, US
+870	84019153	Iowa	Polk	Polk, Iowa, US
+871	84019155	Iowa	Pottawattamie	Pottawattamie, Iowa, US
+872	84019157	Iowa	Poweshiek	Poweshiek, Iowa, US
+873	84019159	Iowa	Ringgold	Ringgold, Iowa, US
+874	84019161	Iowa	Sac	Sac, Iowa, US
+875	84019163	Iowa	Scott	Scott, Iowa, US
+876	84019165	Iowa	Shelby	Shelby, Iowa, US
+877	84019167	Iowa	Sioux	Sioux, Iowa, US
+878	84019169	Iowa	Story	Story, Iowa, US
+879	84019171	Iowa	Tama	Tama, Iowa, US
+880	84019173	Iowa	Taylor	Taylor, Iowa, US
+881	84019175	Iowa	Union	Union, Iowa, US
+882	84019177	Iowa	Van Buren	Van Buren, Iowa, US
+883	84019179	Iowa	Wapello	Wapello, Iowa, US
+884	84019181	Iowa	Warren	Warren, Iowa, US
+885	84019183	Iowa	Washington	Washington, Iowa, US
+886	84019185	Iowa	Wayne	Wayne, Iowa, US
+887	84019187	Iowa	Webster	Webster, Iowa, US
+888	84019189	Iowa	Winnebago	Winnebago, Iowa, US
+889	84019191	Iowa	Winneshiek	Winneshiek, Iowa, US
+890	84019193	Iowa	Woodbury	Woodbury, Iowa, US
+891	84019195	Iowa	Worth	Worth, Iowa, US
+892	84019197	Iowa	Wright	Wright, Iowa, US
+893	84020001	Kansas	Allen	Allen, Kansas, US
+894	84020003	Kansas	Anderson	Anderson, Kansas, US
+895	84020005	Kansas	Atchison	Atchison, Kansas, US
+896	84020007	Kansas	Barber	Barber, Kansas, US
+897	84020009	Kansas	Barton	Barton, Kansas, US
+898	84020011	Kansas	Bourbon	Bourbon, Kansas, US
+899	84020013	Kansas	Brown	Brown, Kansas, US
+900	84020015	Kansas	Butler	Butler, Kansas, US
+901	84020017	Kansas	Chase	Chase, Kansas, US
+902	84020019	Kansas	Chautauqua	Chautauqua, Kansas, US
+903	84020021	Kansas	Cherokee	Cherokee, Kansas, US
+904	84020023	Kansas	Cheyenne	Cheyenne, Kansas, US
+905	84020025	Kansas	Clark	Clark, Kansas, US
+906	84020027	Kansas	Clay	Clay, Kansas, US
+907	84020029	Kansas	Cloud	Cloud, Kansas, US
+908	84020031	Kansas	Coffey	Coffey, Kansas, US
+909	84020033	Kansas	Comanche	Comanche, Kansas, US
+910	84020035	Kansas	Cowley	Cowley, Kansas, US
+911	84020037	Kansas	Crawford	Crawford, Kansas, US
+912	84020039	Kansas	Decatur	Decatur, Kansas, US
+913	84020041	Kansas	Dickinson	Dickinson, Kansas, US
+914	84020043	Kansas	Doniphan	Doniphan, Kansas, US
+915	84020045	Kansas	Douglas	Douglas, Kansas, US
+916	84020047	Kansas	Edwards	Edwards, Kansas, US
+917	84020049	Kansas	Elk	Elk, Kansas, US
+918	84020051	Kansas	Ellis	Ellis, Kansas, US
+919	84020053	Kansas	Ellsworth	Ellsworth, Kansas, US
+920	84020055	Kansas	Finney	Finney, Kansas, US
+921	84020057	Kansas	Ford	Ford, Kansas, US
+922	84020059	Kansas	Franklin	Franklin, Kansas, US
+923	84020061	Kansas	Geary	Geary, Kansas, US
+924	84020063	Kansas	Gove	Gove, Kansas, US
+925	84020065	Kansas	Graham	Graham, Kansas, US
+926	84020067	Kansas	Grant	Grant, Kansas, US
+927	84020069	Kansas	Gray	Gray, Kansas, US
+928	84020071	Kansas	Greeley	Greeley, Kansas, US
+929	84020073	Kansas	Greenwood	Greenwood, Kansas, US
+930	84020075	Kansas	Hamilton	Hamilton, Kansas, US
+931	84020077	Kansas	Harper	Harper, Kansas, US
+932	84020079	Kansas	Harvey	Harvey, Kansas, US
+933	84020081	Kansas	Haskell	Haskell, Kansas, US
+934	84020083	Kansas	Hodgeman	Hodgeman, Kansas, US
+935	84020085	Kansas	Jackson	Jackson, Kansas, US
+936	84020087	Kansas	Jefferson	Jefferson, Kansas, US
+937	84020089	Kansas	Jewell	Jewell, Kansas, US
+938	84020091	Kansas	Johnson	Johnson, Kansas, US
+939	84020093	Kansas	Kearny	Kearny, Kansas, US
+940	84020095	Kansas	Kingman	Kingman, Kansas, US
+941	84020097	Kansas	Kiowa	Kiowa, Kansas, US
+942	84020099	Kansas	Labette	Labette, Kansas, US
+943	84020101	Kansas	Lane	Lane, Kansas, US
+944	84020103	Kansas	Leavenworth	Leavenworth, Kansas, US
+945	84020105	Kansas	Lincoln	Lincoln, Kansas, US
+946	84020107	Kansas	Linn	Linn, Kansas, US
+947	84020109	Kansas	Logan	Logan, Kansas, US
+948	84020111	Kansas	Lyon	Lyon, Kansas, US
+949	84020113	Kansas	McPherson	McPherson, Kansas, US
+950	84020115	Kansas	Marion	Marion, Kansas, US
+951	84020117	Kansas	Marshall	Marshall, Kansas, US
+952	84020119	Kansas	Meade	Meade, Kansas, US
+953	84020121	Kansas	Miami	Miami, Kansas, US
+954	84020123	Kansas	Mitchell	Mitchell, Kansas, US
+955	84020125	Kansas	Montgomery	Montgomery, Kansas, US
+956	84020127	Kansas	Morris	Morris, Kansas, US
+957	84020129	Kansas	Morton	Morton, Kansas, US
+958	84020131	Kansas	Nemaha	Nemaha, Kansas, US
+959	84020133	Kansas	Neosho	Neosho, Kansas, US
+960	84020135	Kansas	Ness	Ness, Kansas, US
+961	84020137	Kansas	Norton	Norton, Kansas, US
+962	84020139	Kansas	Osage	Osage, Kansas, US
+963	84020141	Kansas	Osborne	Osborne, Kansas, US
+964	84020143	Kansas	Ottawa	Ottawa, Kansas, US
+965	84020145	Kansas	Pawnee	Pawnee, Kansas, US
+966	84020147	Kansas	Phillips	Phillips, Kansas, US
+967	84020149	Kansas	Pottawatomie	Pottawatomie, Kansas, US
+968	84020151	Kansas	Pratt	Pratt, Kansas, US
+969	84020153	Kansas	Rawlins	Rawlins, Kansas, US
+970	84020155	Kansas	Reno	Reno, Kansas, US
+971	84020157	Kansas	Republic	Republic, Kansas, US
+972	84020159	Kansas	Rice	Rice, Kansas, US
+973	84020161	Kansas	Riley	Riley, Kansas, US
+974	84020163	Kansas	Rooks	Rooks, Kansas, US
+975	84020165	Kansas	Rush	Rush, Kansas, US
+976	84020167	Kansas	Russell	Russell, Kansas, US
+977	84020169	Kansas	Saline	Saline, Kansas, US
+978	84020171	Kansas	Scott	Scott, Kansas, US
+979	84020173	Kansas	Sedgwick	Sedgwick, Kansas, US
+980	84020175	Kansas	Seward	Seward, Kansas, US
+981	84020177	Kansas	Shawnee	Shawnee, Kansas, US
+982	84020179	Kansas	Sheridan	Sheridan, Kansas, US
+983	84020181	Kansas	Sherman	Sherman, Kansas, US
+984	84020183	Kansas	Smith	Smith, Kansas, US
+985	84020185	Kansas	Stafford	Stafford, Kansas, US
+986	84020187	Kansas	Stanton	Stanton, Kansas, US
+987	84020189	Kansas	Stevens	Stevens, Kansas, US
+988	84020191	Kansas	Sumner	Sumner, Kansas, US
+989	84020193	Kansas	Thomas	Thomas, Kansas, US
+990	84020195	Kansas	Trego	Trego, Kansas, US
+991	84020197	Kansas	Wabaunsee	Wabaunsee, Kansas, US
+992	84020199	Kansas	Wallace	Wallace, Kansas, US
+993	84020201	Kansas	Washington	Washington, Kansas, US
+994	84020203	Kansas	Wichita	Wichita, Kansas, US
+995	84020205	Kansas	Wilson	Wilson, Kansas, US
+996	84020207	Kansas	Woodson	Woodson, Kansas, US
+997	84020209	Kansas	Wyandotte	Wyandotte, Kansas, US
+998	84021001	Kentucky	Adair	Adair, Kentucky, US
+999	84021003	Kentucky	Allen	Allen, Kentucky, US
+1000	84021005	Kentucky	Anderson	Anderson, Kentucky, US
+1001	84021007	Kentucky	Ballard	Ballard, Kentucky, US
+1002	84021009	Kentucky	Barren	Barren, Kentucky, US
+1003	84021011	Kentucky	Bath	Bath, Kentucky, US
+1004	84021013	Kentucky	Bell	Bell, Kentucky, US
+1005	84021015	Kentucky	Boone	Boone, Kentucky, US
+1006	84021017	Kentucky	Bourbon	Bourbon, Kentucky, US
+1007	84021019	Kentucky	Boyd	Boyd, Kentucky, US
+1008	84021021	Kentucky	Boyle	Boyle, Kentucky, US
+1009	84021023	Kentucky	Bracken	Bracken, Kentucky, US
+1010	84021025	Kentucky	Breathitt	Breathitt, Kentucky, US
+1011	84021027	Kentucky	Breckinridge	Breckinridge, Kentucky, US
+1012	84021029	Kentucky	Bullitt	Bullitt, Kentucky, US
+1013	84021031	Kentucky	Butler	Butler, Kentucky, US
+1014	84021033	Kentucky	Caldwell	Caldwell, Kentucky, US
+1015	84021035	Kentucky	Calloway	Calloway, Kentucky, US
+1016	84021037	Kentucky	Campbell	Campbell, Kentucky, US
+1017	84021039	Kentucky	Carlisle	Carlisle, Kentucky, US
+1018	84021041	Kentucky	Carroll	Carroll, Kentucky, US
+1019	84021043	Kentucky	Carter	Carter, Kentucky, US
+1020	84021045	Kentucky	Casey	Casey, Kentucky, US
+1021	84021047	Kentucky	Christian	Christian, Kentucky, US
+1022	84021049	Kentucky	Clark	Clark, Kentucky, US
+1023	84021051	Kentucky	Clay	Clay, Kentucky, US
+1024	84021053	Kentucky	Clinton	Clinton, Kentucky, US
+1025	84021055	Kentucky	Crittenden	Crittenden, Kentucky, US
+1026	84021057	Kentucky	Cumberland	Cumberland, Kentucky, US
+1027	84021059	Kentucky	Daviess	Daviess, Kentucky, US
+1028	84021061	Kentucky	Edmonson	Edmonson, Kentucky, US
+1029	84021063	Kentucky	Elliott	Elliott, Kentucky, US
+1030	84021065	Kentucky	Estill	Estill, Kentucky, US
+1031	84021067	Kentucky	Fayette	Fayette, Kentucky, US
+1032	84021069	Kentucky	Fleming	Fleming, Kentucky, US
+1033	84021071	Kentucky	Floyd	Floyd, Kentucky, US
+1034	84021073	Kentucky	Franklin	Franklin, Kentucky, US
+1035	84021075	Kentucky	Fulton	Fulton, Kentucky, US
+1036	84021077	Kentucky	Gallatin	Gallatin, Kentucky, US
+1037	84021079	Kentucky	Garrard	Garrard, Kentucky, US
+1038	84021081	Kentucky	Grant	Grant, Kentucky, US
+1039	84021083	Kentucky	Graves	Graves, Kentucky, US
+1040	84021085	Kentucky	Grayson	Grayson, Kentucky, US
+1041	84021087	Kentucky	Green	Green, Kentucky, US
+1042	84021089	Kentucky	Greenup	Greenup, Kentucky, US
+1043	84021091	Kentucky	Hancock	Hancock, Kentucky, US
+1044	84021093	Kentucky	Hardin	Hardin, Kentucky, US
+1045	84021095	Kentucky	Harlan	Harlan, Kentucky, US
+1046	84021097	Kentucky	Harrison	Harrison, Kentucky, US
+1047	84021099	Kentucky	Hart	Hart, Kentucky, US
+1048	84021101	Kentucky	Henderson	Henderson, Kentucky, US
+1049	84021103	Kentucky	Henry	Henry, Kentucky, US
+1050	84021105	Kentucky	Hickman	Hickman, Kentucky, US
+1051	84021107	Kentucky	Hopkins	Hopkins, Kentucky, US
+1052	84021109	Kentucky	Jackson	Jackson, Kentucky, US
+1053	84021111	Kentucky	Jefferson	Jefferson, Kentucky, US
+1054	84021113	Kentucky	Jessamine	Jessamine, Kentucky, US
+1055	84021115	Kentucky	Johnson	Johnson, Kentucky, US
+1056	84021117	Kentucky	Kenton	Kenton, Kentucky, US
+1057	84021119	Kentucky	Knott	Knott, Kentucky, US
+1058	84021121	Kentucky	Knox	Knox, Kentucky, US
+1059	84021123	Kentucky	Larue	Larue, Kentucky, US
+1060	84021125	Kentucky	Laurel	Laurel, Kentucky, US
+1061	84021127	Kentucky	Lawrence	Lawrence, Kentucky, US
+1062	84021129	Kentucky	Lee	Lee, Kentucky, US
+1063	84021131	Kentucky	Leslie	Leslie, Kentucky, US
+1064	84021133	Kentucky	Letcher	Letcher, Kentucky, US
+1065	84021135	Kentucky	Lewis	Lewis, Kentucky, US
+1066	84021137	Kentucky	Lincoln	Lincoln, Kentucky, US
+1067	84021139	Kentucky	Livingston	Livingston, Kentucky, US
+1068	84021141	Kentucky	Logan	Logan, Kentucky, US
+1069	84021143	Kentucky	Lyon	Lyon, Kentucky, US
+1070	84021145	Kentucky	McCracken	McCracken, Kentucky, US
+1071	84021147	Kentucky	McCreary	McCreary, Kentucky, US
+1072	84021149	Kentucky	McLean	McLean, Kentucky, US
+1073	84021151	Kentucky	Madison	Madison, Kentucky, US
+1074	84021153	Kentucky	Magoffin	Magoffin, Kentucky, US
+1075	84021155	Kentucky	Marion	Marion, Kentucky, US
+1076	84021157	Kentucky	Marshall	Marshall, Kentucky, US
+1077	84021159	Kentucky	Martin	Martin, Kentucky, US
+1078	84021161	Kentucky	Mason	Mason, Kentucky, US
+1079	84021163	Kentucky	Meade	Meade, Kentucky, US
+1080	84021165	Kentucky	Menifee	Menifee, Kentucky, US
+1081	84021167	Kentucky	Mercer	Mercer, Kentucky, US
+1082	84021169	Kentucky	Metcalfe	Metcalfe, Kentucky, US
+1083	84021171	Kentucky	Monroe	Monroe, Kentucky, US
+1084	84021173	Kentucky	Montgomery	Montgomery, Kentucky, US
+1085	84021175	Kentucky	Morgan	Morgan, Kentucky, US
+1086	84021177	Kentucky	Muhlenberg	Muhlenberg, Kentucky, US
+1087	84021179	Kentucky	Nelson	Nelson, Kentucky, US
+1088	84021181	Kentucky	Nicholas	Nicholas, Kentucky, US
+1089	84021183	Kentucky	Ohio	Ohio, Kentucky, US
+1090	84021185	Kentucky	Oldham	Oldham, Kentucky, US
+1091	84021187	Kentucky	Owen	Owen, Kentucky, US
+1092	84021189	Kentucky	Owsley	Owsley, Kentucky, US
+1093	84021191	Kentucky	Pendleton	Pendleton, Kentucky, US
+1094	84021193	Kentucky	Perry	Perry, Kentucky, US
+1095	84021195	Kentucky	Pike	Pike, Kentucky, US
+1096	84021197	Kentucky	Powell	Powell, Kentucky, US
+1097	84021199	Kentucky	Pulaski	Pulaski, Kentucky, US
+1098	84021201	Kentucky	Robertson	Robertson, Kentucky, US
+1099	84021203	Kentucky	Rockcastle	Rockcastle, Kentucky, US
+1100	84021205	Kentucky	Rowan	Rowan, Kentucky, US
+1101	84021207	Kentucky	Russell	Russell, Kentucky, US
+1102	84021209	Kentucky	Scott	Scott, Kentucky, US
+1103	84021211	Kentucky	Shelby	Shelby, Kentucky, US
+1104	84021213	Kentucky	Simpson	Simpson, Kentucky, US
+1105	84021215	Kentucky	Spencer	Spencer, Kentucky, US
+1106	84021217	Kentucky	Taylor	Taylor, Kentucky, US
+1107	84021219	Kentucky	Todd	Todd, Kentucky, US
+1108	84021221	Kentucky	Trigg	Trigg, Kentucky, US
+1109	84021223	Kentucky	Trimble	Trimble, Kentucky, US
+1110	84021225	Kentucky	Union	Union, Kentucky, US
+1111	84021227	Kentucky	Warren	Warren, Kentucky, US
+1112	84021229	Kentucky	Washington	Washington, Kentucky, US
+1113	84021231	Kentucky	Wayne	Wayne, Kentucky, US
+1114	84021233	Kentucky	Webster	Webster, Kentucky, US
+1115	84021235	Kentucky	Whitley	Whitley, Kentucky, US
+1116	84021237	Kentucky	Wolfe	Wolfe, Kentucky, US
+1117	84021239	Kentucky	Woodford	Woodford, Kentucky, US
+1118	84022001	Louisiana	Acadia	Acadia, Louisiana, US
+1119	84022003	Louisiana	Allen	Allen, Louisiana, US
+1120	84022005	Louisiana	Ascension	Ascension, Louisiana, US
+1121	84022007	Louisiana	Assumption	Assumption, Louisiana, US
+1122	84022009	Louisiana	Avoyelles	Avoyelles, Louisiana, US
+1123	84022011	Louisiana	Beauregard	Beauregard, Louisiana, US
+1124	84022013	Louisiana	Bienville	Bienville, Louisiana, US
+1125	84022015	Louisiana	Bossier	Bossier, Louisiana, US
+1126	84022017	Louisiana	Caddo	Caddo, Louisiana, US
+1127	84022019	Louisiana	Calcasieu	Calcasieu, Louisiana, US
+1128	84022021	Louisiana	Caldwell	Caldwell, Louisiana, US
+1129	84022023	Louisiana	Cameron	Cameron, Louisiana, US
+1130	84022025	Louisiana	Catahoula	Catahoula, Louisiana, US
+1131	84022027	Louisiana	Claiborne	Claiborne, Louisiana, US
+1132	84022029	Louisiana	Concordia	Concordia, Louisiana, US
+1133	84022031	Louisiana	De Soto	De Soto, Louisiana, US
+1134	84022033	Louisiana	East Baton Rouge	East Baton Rouge, Louisiana, US
+1135	84022035	Louisiana	East Carroll	East Carroll, Louisiana, US
+1136	84022037	Louisiana	East Feliciana	East Feliciana, Louisiana, US
+1137	84022039	Louisiana	Evangeline	Evangeline, Louisiana, US
+1138	84022041	Louisiana	Franklin	Franklin, Louisiana, US
+1139	84022043	Louisiana	Grant	Grant, Louisiana, US
+1140	84022045	Louisiana	Iberia	Iberia, Louisiana, US
+1141	84022047	Louisiana	Iberville	Iberville, Louisiana, US
+1142	84022049	Louisiana	Jackson	Jackson, Louisiana, US
+1143	84022051	Louisiana	Jefferson	Jefferson, Louisiana, US
+1144	84022053	Louisiana	Jefferson Davis	Jefferson Davis, Louisiana, US
+1145	84022055	Louisiana	Lafayette	Lafayette, Louisiana, US
+1146	84022057	Louisiana	Lafourche	Lafourche, Louisiana, US
+1147	84022059	Louisiana	LaSalle	LaSalle,Louisiana,US
+1148	84022061	Louisiana	Lincoln	Lincoln, Louisiana, US
+1149	84022063	Louisiana	Livingston	Livingston, Louisiana, US
+1150	84022065	Louisiana	Madison	Madison, Louisiana, US
+1151	84022067	Louisiana	Morehouse	Morehouse, Louisiana, US
+1152	84022069	Louisiana	Natchitoches	Natchitoches, Louisiana, US
+1153	84022071	Louisiana	Orleans	Orleans, Louisiana, US
+1154	84022073	Louisiana	Ouachita	Ouachita, Louisiana, US
+1155	84022075	Louisiana	Plaquemines	Plaquemines, Louisiana, US
+1156	84022077	Louisiana	Pointe Coupee	Pointe Coupee, Louisiana, US
+1157	84022079	Louisiana	Rapides	Rapides, Louisiana, US
+1158	84022081	Louisiana	Red River	Red River, Louisiana, US
+1159	84022083	Louisiana	Richland	Richland, Louisiana, US
+1160	84022085	Louisiana	Sabine	Sabine, Louisiana, US
+1161	84022087	Louisiana	St. Bernard	St. Bernard, Louisiana, US
+1162	84022089	Louisiana	St. Charles	St. Charles, Louisiana, US
+1163	84022091	Louisiana	St. Helena	St. Helena, Louisiana, US
+1164	84022093	Louisiana	St. James	St. James, Louisiana, US
+1165	84022095	Louisiana	St. John the Baptist	St. John the Baptist, Louisiana, US
+1166	84022097	Louisiana	St. Landry	St. Landry, Louisiana, US
+1167	84022099	Louisiana	St. Martin	St. Martin, Louisiana, US
+1168	84022101	Louisiana	St. Mary	St. Mary, Louisiana, US
+1169	84022103	Louisiana	St. Tammany	St. Tammany, Louisiana, US
+1170	84022105	Louisiana	Tangipahoa	Tangipahoa, Louisiana, US
+1171	84022107	Louisiana	Tensas	Tensas, Louisiana, US
+1172	84022109	Louisiana	Terrebonne	Terrebonne, Louisiana, US
+1173	84022111	Louisiana	Union	Union, Louisiana, US
+1174	84022113	Louisiana	Vermilion	Vermilion, Louisiana, US
+1175	84022115	Louisiana	Vernon	Vernon, Louisiana, US
+1176	84022117	Louisiana	Washington	Washington, Louisiana, US
+1177	84022119	Louisiana	Webster	Webster, Louisiana, US
+1178	84022121	Louisiana	West Baton Rouge	West Baton Rouge, Louisiana, US
+1179	84022123	Louisiana	West Carroll	West Carroll, Louisiana, US
+1180	84022125	Louisiana	West Feliciana	West Feliciana, Louisiana, US
+1181	84022127	Louisiana	Winn	Winn, Louisiana, US
+1182	84023001	Maine	Androscoggin	Androscoggin, Maine, US
+1183	84023003	Maine	Aroostook	Aroostook, Maine, US
+1184	84023005	Maine	Cumberland	Cumberland, Maine, US
+1185	84023007	Maine	Franklin	Franklin, Maine, US
+1186	84023009	Maine	Hancock	Hancock, Maine, US
+1187	84023011	Maine	Kennebec	Kennebec, Maine, US
+1188	84023013	Maine	Knox	Knox, Maine, US
+1189	84023015	Maine	Lincoln	Lincoln, Maine, US
+1190	84023017	Maine	Oxford	Oxford, Maine, US
+1191	84023019	Maine	Penobscot	Penobscot, Maine, US
+1192	84023021	Maine	Piscataquis	Piscataquis, Maine, US
+1193	84023023	Maine	Sagadahoc	Sagadahoc, Maine, US
+1194	84023025	Maine	Somerset	Somerset, Maine, US
+1195	84023027	Maine	Waldo	Waldo, Maine, US
+1196	84023029	Maine	Washington	Washington, Maine, US
+1197	84023031	Maine	York	York, Maine, US
+1198	84024001	Maryland	Allegany	Allegany, Maryland, US
+1199	84024003	Maryland	Anne Arundel	Anne Arundel, Maryland, US
+1200	84024005	Maryland	Baltimore	Baltimore, Maryland, US
+1201	84024009	Maryland	Calvert	Calvert, Maryland, US
+1202	84024011	Maryland	Caroline	Caroline, Maryland, US
+1203	84024013	Maryland	Carroll	Carroll, Maryland, US
+1204	84024015	Maryland	Cecil	Cecil, Maryland, US
+1205	84024017	Maryland	Charles	Charles, Maryland, US
+1206	84024019	Maryland	Dorchester	Dorchester, Maryland, US
+1207	84024021	Maryland	Frederick	Frederick, Maryland, US
+1208	84024023	Maryland	Garrett	Garrett, Maryland, US
+1209	84024025	Maryland	Harford	Harford, Maryland, US
+1210	84024027	Maryland	Howard	Howard, Maryland, US
+1211	84024029	Maryland	Kent	Kent, Maryland, US
+1212	84024031	Maryland	Montgomery	Montgomery, Maryland, US
+1213	84024033	Maryland	Prince George's	Prince George's, Maryland, US
+1214	84024035	Maryland	Queen Anne's	Queen Anne's, Maryland, US
+1215	84024037	Maryland	St. Mary's	St. Mary's, Maryland, US
+1216	84024039	Maryland	Somerset	Somerset, Maryland, US
+1217	84024041	Maryland	Talbot	Talbot, Maryland, US
+1218	84024043	Maryland	Washington	Washington, Maryland, US
+1219	84024045	Maryland	Wicomico	Wicomico, Maryland, US
+1220	84024047	Maryland	Worcester	Worcester, Maryland, US
+1221	84024510	Maryland	Baltimore City	Baltimore City, Maryland, US
+1222	84025001	Massachusetts	Barnstable	Barnstable, Massachusetts, US
+1223	84025003	Massachusetts	Berkshire	Berkshire, Massachusetts, US
+1224	84025005	Massachusetts	Bristol	Bristol, Massachusetts, US
+1225	84025007	Massachusetts	Dukes	Dukes, Massachusetts, US
+1226	84025009	Massachusetts	Essex	Essex, Massachusetts, US
+1227	84025011	Massachusetts	Franklin	Franklin, Massachusetts, US
+1228	84025013	Massachusetts	Hampden	Hampden, Massachusetts, US
+1229	84025015	Massachusetts	Hampshire	Hampshire, Massachusetts, US
+1230	84025017	Massachusetts	Middlesex	Middlesex, Massachusetts, US
+1231	84025019	Massachusetts	Nantucket	Nantucket, Massachusetts, US
+1232	84025021	Massachusetts	Norfolk	Norfolk, Massachusetts, US
+1233	84025023	Massachusetts	Plymouth	Plymouth, Massachusetts, US
+1234	84025025	Massachusetts	Suffolk	Suffolk, Massachusetts, US
+1235	84025027	Massachusetts	Worcester	Worcester, Massachusetts, US
+1236	84026001	Michigan	Alcona	Alcona, Michigan, US
+1237	84026003	Michigan	Alger	Alger, Michigan, US
+1238	84026005	Michigan	Allegan	Allegan, Michigan, US
+1239	84026007	Michigan	Alpena	Alpena, Michigan, US
+1240	84026009	Michigan	Antrim	Antrim, Michigan, US
+1241	84026011	Michigan	Arenac	Arenac, Michigan, US
+1242	84026013	Michigan	Baraga	Baraga, Michigan, US
+1243	84026015	Michigan	Barry	Barry, Michigan, US
+1244	84026017	Michigan	Bay	Bay, Michigan, US
+1245	84026019	Michigan	Benzie	Benzie, Michigan, US
+1246	84026021	Michigan	Berrien	Berrien, Michigan, US
+1247	84026023	Michigan	Branch	Branch, Michigan, US
+1248	84026025	Michigan	Calhoun	Calhoun, Michigan, US
+1249	84026027	Michigan	Cass	Cass, Michigan, US
+1250	84026029	Michigan	Charlevoix	Charlevoix, Michigan, US
+1251	84026031	Michigan	Cheboygan	Cheboygan, Michigan, US
+1252	84026033	Michigan	Chippewa	Chippewa, Michigan, US
+1253	84026035	Michigan	Clare	Clare, Michigan, US
+1254	84026037	Michigan	Clinton	Clinton, Michigan, US
+1255	84026039	Michigan	Crawford	Crawford, Michigan, US
+1256	84026041	Michigan	Delta	Delta, Michigan, US
+1257	84026043	Michigan	Dickinson	Dickinson, Michigan, US
+1258	84026045	Michigan	Eaton	Eaton, Michigan, US
+1259	84026047	Michigan	Emmet	Emmet, Michigan, US
+1260	84026049	Michigan	Genesee	Genesee, Michigan, US
+1261	84026051	Michigan	Gladwin	Gladwin, Michigan, US
+1262	84026053	Michigan	Gogebic	Gogebic, Michigan, US
+1263	84026055	Michigan	Grand Traverse	Grand Traverse, Michigan, US
+1264	84026057	Michigan	Gratiot	Gratiot, Michigan, US
+1265	84026059	Michigan	Hillsdale	Hillsdale, Michigan, US
+1266	84026061	Michigan	Houghton	Houghton, Michigan, US
+1267	84026063	Michigan	Huron	Huron, Michigan, US
+1268	84026065	Michigan	Ingham	Ingham, Michigan, US
+1269	84026067	Michigan	Ionia	Ionia, Michigan, US
+1270	84026069	Michigan	Iosco	Iosco, Michigan, US
+1271	84026071	Michigan	Iron	Iron, Michigan, US
+1272	84026073	Michigan	Isabella	Isabella, Michigan, US
+1273	84026075	Michigan	Jackson	Jackson, Michigan, US
+1274	84026077	Michigan	Kalamazoo	Kalamazoo, Michigan, US
+1275	84026079	Michigan	Kalkaska	Kalkaska, Michigan, US
+1276	84026081	Michigan	Kent	Kent, Michigan, US
+1277	84026083	Michigan	Keweenaw	Keweenaw, Michigan, US
+1278	84026085	Michigan	Lake	Lake, Michigan, US
+1279	84026087	Michigan	Lapeer	Lapeer, Michigan, US
+1280	84026089	Michigan	Leelanau	Leelanau, Michigan, US
+1281	84026091	Michigan	Lenawee	Lenawee, Michigan, US
+1282	84026093	Michigan	Livingston	Livingston, Michigan, US
+1283	84026095	Michigan	Luce	Luce, Michigan, US
+1284	84026097	Michigan	Mackinac	Mackinac, Michigan, US
+1285	84026099	Michigan	Macomb	Macomb, Michigan, US
+1286	84026101	Michigan	Manistee	Manistee, Michigan, US
+1287	84026103	Michigan	Marquette	Marquette, Michigan, US
+1288	84026105	Michigan	Mason	Mason, Michigan, US
+1289	84026107	Michigan	Mecosta	Mecosta, Michigan, US
+1290	84026109	Michigan	Menominee	Menominee, Michigan, US
+1291	84026111	Michigan	Midland	Midland, Michigan, US
+1292	84026113	Michigan	Missaukee	Missaukee, Michigan, US
+1293	84026115	Michigan	Monroe	Monroe, Michigan, US
+1294	84026117	Michigan	Montcalm	Montcalm, Michigan, US
+1295	84026119	Michigan	Montmorency	Montmorency, Michigan, US
+1296	84026121	Michigan	Muskegon	Muskegon, Michigan, US
+1297	84026123	Michigan	Newaygo	Newaygo, Michigan, US
+1298	84026125	Michigan	Oakland	Oakland, Michigan, US
+1299	84026127	Michigan	Oceana	Oceana, Michigan, US
+1300	84026129	Michigan	Ogemaw	Ogemaw, Michigan, US
+1301	84026131	Michigan	Ontonagon	Ontonagon, Michigan, US
+1302	84026133	Michigan	Osceola	Osceola, Michigan, US
+1303	84026135	Michigan	Oscoda	Oscoda, Michigan, US
+1304	84026137	Michigan	Otsego	Otsego, Michigan, US
+1305	84026139	Michigan	Ottawa	Ottawa, Michigan, US
+1306	84026141	Michigan	Presque Isle	Presque Isle, Michigan, US
+1307	84026143	Michigan	Roscommon	Roscommon, Michigan, US
+1308	84026145	Michigan	Saginaw	Saginaw, Michigan, US
+1309	84026147	Michigan	St. Clair	St. Clair, Michigan, US
+1310	84026149	Michigan	St. Joseph	St. Joseph, Michigan, US
+1311	84026151	Michigan	Sanilac	Sanilac, Michigan, US
+1312	84026153	Michigan	Schoolcraft	Schoolcraft, Michigan, US
+1313	84026155	Michigan	Shiawassee	Shiawassee, Michigan, US
+1314	84026157	Michigan	Tuscola	Tuscola, Michigan, US
+1315	84026159	Michigan	Van Buren	Van Buren, Michigan, US
+1316	84026161	Michigan	Washtenaw	Washtenaw, Michigan, US
+1317	84026163	Michigan	Wayne	Wayne, Michigan, US
+1318	84026165	Michigan	Wexford	Wexford, Michigan, US
+1319	84027001	Minnesota	Aitkin	Aitkin, Minnesota, US
+1320	84027003	Minnesota	Anoka	Anoka, Minnesota, US
+1321	84027005	Minnesota	Becker	Becker, Minnesota, US
+1322	84027007	Minnesota	Beltrami	Beltrami, Minnesota, US
+1323	84027009	Minnesota	Benton	Benton, Minnesota, US
+1324	84027011	Minnesota	Big Stone	Big Stone, Minnesota, US
+1325	84027013	Minnesota	Blue Earth	Blue Earth, Minnesota, US
+1326	84027015	Minnesota	Brown	Brown, Minnesota, US
+1327	84027017	Minnesota	Carlton	Carlton, Minnesota, US
+1328	84027019	Minnesota	Carver	Carver, Minnesota, US
+1329	84027021	Minnesota	Cass	Cass, Minnesota, US
+1330	84027023	Minnesota	Chippewa	Chippewa, Minnesota, US
+1331	84027025	Minnesota	Chisago	Chisago, Minnesota, US
+1332	84027027	Minnesota	Clay	Clay, Minnesota, US
+1333	84027029	Minnesota	Clearwater	Clearwater, Minnesota, US
+1334	84027031	Minnesota	Cook	Cook, Minnesota, US
+1335	84027033	Minnesota	Cottonwood	Cottonwood, Minnesota, US
+1336	84027035	Minnesota	Crow Wing	Crow Wing, Minnesota, US
+1337	84027037	Minnesota	Dakota	Dakota, Minnesota, US
+1338	84027039	Minnesota	Dodge	Dodge, Minnesota, US
+1339	84027041	Minnesota	Douglas	Douglas, Minnesota, US
+1340	84027043	Minnesota	Faribault	Faribault, Minnesota, US
+1341	84027045	Minnesota	Fillmore	Fillmore,Minnesota,US
+1342	84027047	Minnesota	Freeborn	Freeborn, Minnesota, US
+1343	84027049	Minnesota	Goodhue	Goodhue, Minnesota, US
+1344	84027051	Minnesota	Grant	Grant, Minnesota, US
+1345	84027053	Minnesota	Hennepin	Hennepin, Minnesota, US
+1346	84027055	Minnesota	Houston	Houston, Minnesota, US
+1347	84027057	Minnesota	Hubbard	Hubbard, Minnesota, US
+1348	84027059	Minnesota	Isanti	Isanti, Minnesota, US
+1349	84027061	Minnesota	Itasca	Itasca, Minnesota, US
+1350	84027063	Minnesota	Jackson	Jackson, Minnesota, US
+1351	84027065	Minnesota	Kanabec	Kanabec, Minnesota, US
+1352	84027067	Minnesota	Kandiyohi	Kandiyohi, Minnesota, US
+1353	84027069	Minnesota	Kittson	Kittson, Minnesota, US
+1354	84027071	Minnesota	Koochiching	Koochiching, Minnesota, US
+1355	84027073	Minnesota	Lac qui Parle	Lac qui Parle,Minnesota,US
+1356	84027075	Minnesota	Lake	Lake, Minnesota, US
+1357	84027077	Minnesota	Lake of the Woods	Lake of the Woods, Minnesota, US
+1358	84027079	Minnesota	Le Sueur	Le Sueur, Minnesota, US
+1359	84027081	Minnesota	Lincoln	Lincoln, Minnesota, US
+1360	84027083	Minnesota	Lyon	Lyon, Minnesota, US
+1361	84027085	Minnesota	McLeod	McLeod, Minnesota, US
+1362	84027087	Minnesota	Mahnomen	Mahnomen, Minnesota, US
+1363	84027089	Minnesota	Marshall	Marshall, Minnesota, US
+1364	84027091	Minnesota	Martin	Martin, Minnesota, US
+1365	84027093	Minnesota	Meeker	Meeker, Minnesota, US
+1366	84027095	Minnesota	Mille Lacs	Mille Lacs, Minnesota, US
+1367	84027097	Minnesota	Morrison	Morrison, Minnesota, US
+1368	84027099	Minnesota	Mower	Mower, Minnesota, US
+1369	84027101	Minnesota	Murray	Murray, Minnesota, US
+1370	84027103	Minnesota	Nicollet	Nicollet, Minnesota, US
+1371	84027105	Minnesota	Nobles	Nobles, Minnesota, US
+1372	84027107	Minnesota	Norman	Norman, Minnesota, US
+1373	84027109	Minnesota	Olmsted	Olmsted, Minnesota, US
+1374	84027111	Minnesota	Otter Tail	Otter Tail, Minnesota, US
+1375	84027113	Minnesota	Pennington	Pennington, Minnesota, US
+1376	84027115	Minnesota	Pine	Pine, Minnesota, US
+1377	84027117	Minnesota	Pipestone	Pipestone, Minnesota, US
+1378	84027119	Minnesota	Polk	Polk, Minnesota, US
+1379	84027121	Minnesota	Pope	Pope, Minnesota, US
+1380	84027123	Minnesota	Ramsey	Ramsey, Minnesota, US
+1381	84027125	Minnesota	Red Lake	Red Lake, Minnesota, US
+1382	84027127	Minnesota	Redwood	Redwood, Minnesota, US
+1383	84027129	Minnesota	Renville	Renville, Minnesota, US
+1384	84027131	Minnesota	Rice	Rice, Minnesota, US
+1385	84027133	Minnesota	Rock	Rock, Minnesota, US
+1386	84027135	Minnesota	Roseau	Roseau, Minnesota, US
+1387	84027137	Minnesota	St. Louis	St. Louis, Minnesota, US
+1388	84027139	Minnesota	Scott	Scott, Minnesota, US
+1389	84027141	Minnesota	Sherburne	Sherburne, Minnesota, US
+1390	84027143	Minnesota	Sibley	Sibley, Minnesota, US
+1391	84027145	Minnesota	Stearns	Stearns, Minnesota, US
+1392	84027147	Minnesota	Steele	Steele, Minnesota, US
+1393	84027149	Minnesota	Stevens	Stevens, Minnesota, US
+1394	84027151	Minnesota	Swift	Swift, Minnesota, US
+1395	84027153	Minnesota	Todd	Todd, Minnesota, US
+1396	84027155	Minnesota	Traverse	Traverse, Minnesota, US
+1397	84027157	Minnesota	Wabasha	Wabasha, Minnesota, US
+1398	84027159	Minnesota	Wadena	Wadena, Minnesota, US
+1399	84027161	Minnesota	Waseca	Waseca, Minnesota, US
+1400	84027163	Minnesota	Washington	Washington, Minnesota, US
+1401	84027165	Minnesota	Watonwan	Watonwan, Minnesota, US
+1402	84027167	Minnesota	Wilkin	Wilkin, Minnesota, US
+1403	84027169	Minnesota	Winona	Winona, Minnesota, US
+1404	84027171	Minnesota	Wright	Wright, Minnesota, US
+1405	84027173	Minnesota	Yellow Medicine	Yellow Medicine, Minnesota, US
+1406	84028001	Mississippi	Adams	Adams, Mississippi, US
+1407	84028003	Mississippi	Alcorn	Alcorn, Mississippi, US
+1408	84028005	Mississippi	Amite	Amite, Mississippi, US
+1409	84028007	Mississippi	Attala	Attala, Mississippi, US
+1410	84028009	Mississippi	Benton	Benton, Mississippi, US
+1411	84028011	Mississippi	Bolivar	Bolivar, Mississippi, US
+1412	84028013	Mississippi	Calhoun	Calhoun, Mississippi, US
+1413	84028015	Mississippi	Carroll	Carroll, Mississippi, US
+1414	84028017	Mississippi	Chickasaw	Chickasaw, Mississippi, US
+1415	84028019	Mississippi	Choctaw	Choctaw, Mississippi, US
+1416	84028021	Mississippi	Claiborne	Claiborne, Mississippi, US
+1417	84028023	Mississippi	Clarke	Clarke, Mississippi, US
+1418	84028025	Mississippi	Clay	Clay, Mississippi, US
+1419	84028027	Mississippi	Coahoma	Coahoma, Mississippi, US
+1420	84028029	Mississippi	Copiah	Copiah, Mississippi, US
+1421	84028031	Mississippi	Covington	Covington, Mississippi, US
+1422	84028033	Mississippi	DeSoto	DeSoto, Mississippi, US
+1423	84028035	Mississippi	Forrest	Forrest, Mississippi, US
+1424	84028037	Mississippi	Franklin	Franklin, Mississippi, US
+1425	84028039	Mississippi	George	George, Mississippi, US
+1426	84028041	Mississippi	Greene	Greene, Mississippi, US
+1427	84028043	Mississippi	Grenada	Grenada, Mississippi, US
+1428	84028045	Mississippi	Hancock	Hancock, Mississippi, US
+1429	84028047	Mississippi	Harrison	Harrison, Mississippi, US
+1430	84028049	Mississippi	Hinds	Hinds, Mississippi, US
+1431	84028051	Mississippi	Holmes	Holmes, Mississippi, US
+1432	84028053	Mississippi	Humphreys	Humphreys, Mississippi, US
+1433	84028055	Mississippi	Issaquena	Issaquena, Mississippi, US
+1434	84028057	Mississippi	Itawamba	Itawamba, Mississippi, US
+1435	84028059	Mississippi	Jackson	Jackson, Mississippi, US
+1436	84028061	Mississippi	Jasper	Jasper, Mississippi, US
+1437	84028063	Mississippi	Jefferson	Jefferson, Mississippi, US
+1438	84028065	Mississippi	Jefferson Davis	Jefferson Davis, Mississippi, US
+1439	84028067	Mississippi	Jones	Jones, Mississippi, US
+1440	84028069	Mississippi	Kemper	Kemper, Mississippi, US
+1441	84028071	Mississippi	Lafayette	Lafayette, Mississippi, US
+1442	84028073	Mississippi	Lamar	Lamar, Mississippi, US
+1443	84028075	Mississippi	Lauderdale	Lauderdale, Mississippi, US
+1444	84028077	Mississippi	Lawrence	Lawrence, Mississippi, US
+1445	84028079	Mississippi	Leake	Leake, Mississippi, US
+1446	84028081	Mississippi	Lee	Lee, Mississippi, US
+1447	84028083	Mississippi	Leflore	Leflore, Mississippi, US
+1448	84028085	Mississippi	Lincoln	Lincoln, Mississippi, US
+1449	84028087	Mississippi	Lowndes	Lowndes, Mississippi, US
+1450	84028089	Mississippi	Madison	Madison, Mississippi, US
+1451	84028091	Mississippi	Marion	Marion, Mississippi, US
+1452	84028093	Mississippi	Marshall	Marshall, Mississippi, US
+1453	84028095	Mississippi	Monroe	Monroe, Mississippi, US
+1454	84028097	Mississippi	Montgomery	Montgomery, Mississippi, US
+1455	84028099	Mississippi	Neshoba	Neshoba, Mississippi, US
+1456	84028101	Mississippi	Newton	Newton, Mississippi, US
+1457	84028103	Mississippi	Noxubee	Noxubee, Mississippi, US
+1458	84028105	Mississippi	Oktibbeha	Oktibbeha, Mississippi, US
+1459	84028107	Mississippi	Panola	Panola, Mississippi, US
+1460	84028109	Mississippi	Pearl River	Pearl River, Mississippi, US
+1461	84028111	Mississippi	Perry	Perry, Mississippi, US
+1462	84028113	Mississippi	Pike	Pike, Mississippi, US
+1463	84028115	Mississippi	Pontotoc	Pontotoc, Mississippi, US
+1464	84028117	Mississippi	Prentiss	Prentiss, Mississippi, US
+1465	84028119	Mississippi	Quitman	Quitman, Mississippi, US
+1466	84028121	Mississippi	Rankin	Rankin, Mississippi, US
+1467	84028123	Mississippi	Scott	Scott, Mississippi, US
+1468	84028125	Mississippi	Sharkey	Sharkey, Mississippi, US
+1469	84028127	Mississippi	Simpson	Simpson, Mississippi, US
+1470	84028129	Mississippi	Smith	Smith, Mississippi, US
+1471	84028131	Mississippi	Stone	Stone, Mississippi, US
+1472	84028133	Mississippi	Sunflower	Sunflower, Mississippi, US
+1473	84028135	Mississippi	Tallahatchie	Tallahatchie, Mississippi, US
+1474	84028137	Mississippi	Tate	Tate, Mississippi, US
+1475	84028139	Mississippi	Tippah	Tippah, Mississippi, US
+1476	84028141	Mississippi	Tishomingo	Tishomingo, Mississippi, US
+1477	84028143	Mississippi	Tunica	Tunica, Mississippi, US
+1478	84028145	Mississippi	Union	Union, Mississippi, US
+1479	84028147	Mississippi	Walthall	Walthall, Mississippi, US
+1480	84028149	Mississippi	Warren	Warren, Mississippi, US
+1481	84028151	Mississippi	Washington	Washington, Mississippi, US
+1482	84028153	Mississippi	Wayne	Wayne, Mississippi, US
+1483	84028155	Mississippi	Webster	Webster, Mississippi, US
+1484	84028157	Mississippi	Wilkinson	Wilkinson, Mississippi, US
+1485	84028159	Mississippi	Winston	Winston, Mississippi, US
+1486	84028161	Mississippi	Yalobusha	Yalobusha, Mississippi, US
+1487	84028163	Mississippi	Yazoo	Yazoo, Mississippi, US
+1488	84029001	Missouri	Adair	Adair, Missouri, US
+1489	84029003	Missouri	Andrew	Andrew, Missouri, US
+1490	84029005	Missouri	Atchison	Atchison, Missouri, US
+1491	84029007	Missouri	Audrain	Audrain, Missouri, US
+1492	84029009	Missouri	Barry	Barry, Missouri, US
+1493	84029011	Missouri	Barton	Barton, Missouri, US
+1494	84029013	Missouri	Bates	Bates, Missouri, US
+1495	84029015	Missouri	Benton	Benton, Missouri, US
+1496	84029017	Missouri	Bollinger	Bollinger, Missouri, US
+1497	84029019	Missouri	Boone	Boone, Missouri, US
+1498	84029021	Missouri	Buchanan	Buchanan, Missouri, US
+1499	84029023	Missouri	Butler	Butler, Missouri, US
+1500	84029025	Missouri	Caldwell	Caldwell, Missouri, US
+1501	84029027	Missouri	Callaway	Callaway, Missouri, US
+1502	84029029	Missouri	Camden	Camden, Missouri, US
+1503	84029031	Missouri	Cape Girardeau	Cape Girardeau, Missouri, US
+1504	84029033	Missouri	Carroll	Carroll, Missouri, US
+1505	84029035	Missouri	Carter	Carter, Missouri, US
+1506	84029037	Missouri	Cass	Cass, Missouri, US
+1507	84029039	Missouri	Cedar	Cedar, Missouri, US
+1508	84029041	Missouri	Chariton	Chariton, Missouri, US
+1509	84029043	Missouri	Christian	Christian, Missouri, US
+1510	84029045	Missouri	Clark	Clark, Missouri, US
+1511	84029047	Missouri	Clay	Clay, Missouri, US
+1512	84029049	Missouri	Clinton	Clinton, Missouri, US
+1513	84029051	Missouri	Cole	Cole, Missouri, US
+1514	84029053	Missouri	Cooper	Cooper, Missouri, US
+1515	84029055	Missouri	Crawford	Crawford, Missouri, US
+1516	84029057	Missouri	Dade	Dade, Missouri, US
+1517	84029059	Missouri	Dallas	Dallas, Missouri, US
+1518	84029061	Missouri	Daviess	Daviess, Missouri, US
+1519	84029063	Missouri	DeKalb	DeKalb, Missouri, US
+1520	84029065	Missouri	Dent	Dent, Missouri, US
+1521	84029067	Missouri	Douglas	Douglas, Missouri, US
+1522	84029069	Missouri	Dunklin	Dunklin, Missouri, US
+1523	84029071	Missouri	Franklin	Franklin, Missouri, US
+1524	84029073	Missouri	Gasconade	Gasconade, Missouri, US
+1525	84029075	Missouri	Gentry	Gentry, Missouri, US
+1526	84029077	Missouri	Greene	Greene, Missouri, US
+1527	84029079	Missouri	Grundy	Grundy, Missouri, US
+1528	84029081	Missouri	Harrison	Harrison, Missouri, US
+1529	84029083	Missouri	Henry	Henry, Missouri, US
+1530	84029085	Missouri	Hickory	Hickory, Missouri, US
+1531	84029087	Missouri	Holt	Holt, Missouri, US
+1532	84029089	Missouri	Howard	Howard, Missouri, US
+1533	84029091	Missouri	Howell	Howell, Missouri, US
+1534	84029093	Missouri	Iron	Iron, Missouri, US
+1535	84029095	Missouri	Jackson	Jackson, Missouri, US
+1536	84029097	Missouri	Jasper	Jasper,Missouri,US
+1537	84029099	Missouri	Jefferson	Jefferson, Missouri, US
+1538	84029101	Missouri	Johnson	Johnson, Missouri, US
+1539	84029103	Missouri	Knox	Knox, Missouri, US
+1540	84029105	Missouri	Laclede	Laclede, Missouri, US
+1541	84029107	Missouri	Lafayette	Lafayette, Missouri, US
+1542	84029109	Missouri	Lawrence	Lawrence, Missouri, US
+1543	84029111	Missouri	Lewis	Lewis, Missouri, US
+1544	84029113	Missouri	Lincoln	Lincoln, Missouri, US
+1545	84029115	Missouri	Linn	Linn, Missouri, US
+1546	84029117	Missouri	Livingston	Livingston, Missouri, US
+1547	84029119	Missouri	McDonald	McDonald, Missouri, US
+1548	84029121	Missouri	Macon	Macon, Missouri, US
+1549	84029123	Missouri	Madison	Madison, Missouri, US
+1550	84029125	Missouri	Maries	Maries, Missouri, US
+1551	84029127	Missouri	Marion	Marion, Missouri, US
+1552	84029129	Missouri	Mercer	Mercer, Missouri, US
+1553	84029131	Missouri	Miller	Miller, Missouri, US
+1554	84029133	Missouri	Mississippi	Mississippi, Missouri, US
+1555	84029135	Missouri	Moniteau	Moniteau, Missouri, US
+1556	84029137	Missouri	Monroe	Monroe, Missouri, US
+1557	84029139	Missouri	Montgomery	Montgomery, Missouri, US
+1558	84029141	Missouri	Morgan	Morgan, Missouri, US
+1559	84029143	Missouri	New Madrid	New Madrid, Missouri, US
+1560	84029145	Missouri	Newton	Newton, Missouri, US
+1561	84029147	Missouri	Nodaway	Nodaway, Missouri, US
+1562	84029149	Missouri	Oregon	Oregon, Missouri, US
+1563	84029151	Missouri	Osage	Osage, Missouri, US
+1564	84029153	Missouri	Ozark	Ozark, Missouri, US
+1565	84029155	Missouri	Pemiscot	Pemiscot, Missouri, US
+1566	84029157	Missouri	Perry	Perry, Missouri, US
+1567	84029159	Missouri	Pettis	Pettis, Missouri, US
+1568	84029161	Missouri	Phelps	Phelps, Missouri, US
+1569	84029163	Missouri	Pike	Pike, Missouri, US
+1570	84029165	Missouri	Platte	Platte, Missouri, US
+1571	84029167	Missouri	Polk	Polk, Missouri, US
+1572	84029169	Missouri	Pulaski	Pulaski, Missouri, US
+1573	84029171	Missouri	Putnam	Putnam, Missouri, US
+1574	84029173	Missouri	Ralls	Ralls, Missouri, US
+1575	84029175	Missouri	Randolph	Randolph, Missouri, US
+1576	84029177	Missouri	Ray	Ray, Missouri, US
+1577	84029179	Missouri	Reynolds	Reynolds, Missouri, US
+1578	84029181	Missouri	Ripley	Ripley, Missouri, US
+1579	84029183	Missouri	St. Charles	St. Charles, Missouri, US
+1580	84029185	Missouri	St. Clair	St. Clair, Missouri, US
+1581	84029186	Missouri	Ste. Genevieve	Ste. Genevieve, Missouri, US
+1582	84029187	Missouri	St. Francois	St. Francois, Missouri, US
+1583	84029189	Missouri	St. Louis	St. Louis, Missouri, US
+1584	84029195	Missouri	Saline	Saline, Missouri, US
+1585	84029197	Missouri	Schuyler	Schuyler, Missouri, US
+1586	84029199	Missouri	Scotland	Scotland, Missouri, US
+1587	84029201	Missouri	Scott	Scott, Missouri, US
+1588	84029203	Missouri	Shannon	Shannon, Missouri, US
+1589	84029205	Missouri	Shelby	Shelby, Missouri, US
+1590	84029207	Missouri	Stoddard	Stoddard, Missouri, US
+1591	84029209	Missouri	Stone	Stone, Missouri, US
+1592	84029211	Missouri	Sullivan	Sullivan, Missouri, US
+1593	84029213	Missouri	Taney	Taney, Missouri, US
+1594	84029215	Missouri	Texas	Texas, Missouri, US
+1595	84029217	Missouri	Vernon	Vernon, Missouri, US
+1596	84029219	Missouri	Warren	Warren, Missouri, US
+1597	84029221	Missouri	Washington	Washington, Missouri, US
+1598	84029223	Missouri	Wayne	Wayne, Missouri, US
+1599	84029225	Missouri	Webster	Webster, Missouri, US
+1600	84029227	Missouri	Worth	Worth, Missouri, US
+1601	84029229	Missouri	Wright	Wright, Missouri, US
+1602	84029510	Missouri	St. Louis City	St. Louis City, Missouri, US
+1603	84030001	Montana	Beaverhead	Beaverhead, Montana, US
+1604	84030003	Montana	Big Horn	Big Horn, Montana, US
+1605	84030005	Montana	Blaine	Blaine, Montana, US
+1606	84030007	Montana	Broadwater	Broadwater, Montana, US
+1607	84030009	Montana	Carbon	Carbon, Montana, US
+1608	84030011	Montana	Carter	Carter, Montana, US
+1609	84030013	Montana	Cascade	Cascade, Montana, US
+1610	84030015	Montana	Chouteau	Chouteau, Montana, US
+1611	84030017	Montana	Custer	Custer, Montana, US
+1612	84030019	Montana	Daniels	Daniels, Montana, US
+1613	84030021	Montana	Dawson	Dawson, Montana, US
+1614	84030023	Montana	Deer Lodge	Deer Lodge, Montana, US
+1615	84030025	Montana	Fallon	Fallon, Montana, US
+1616	84030027	Montana	Fergus	Fergus, Montana, US
+1617	84030029	Montana	Flathead	Flathead, Montana, US
+1618	84030031	Montana	Gallatin	Gallatin, Montana, US
+1619	84030033	Montana	Garfield	Garfield, Montana, US
+1620	84030035	Montana	Glacier	Glacier, Montana, US
+1621	84030037	Montana	Golden Valley	Golden Valley, Montana, US
+1622	84030039	Montana	Granite	Granite, Montana, US
+1623	84030041	Montana	Hill	Hill, Montana, US
+1624	84030043	Montana	Jefferson	Jefferson, Montana, US
+1625	84030045	Montana	Judith Basin	Judith Basin, Montana, US
+1626	84030047	Montana	Lake	Lake, Montana, US
+1627	84030049	Montana	Lewis and Clark	Lewis and Clark, Montana, US
+1628	84030051	Montana	Liberty	Liberty, Montana, US
+1629	84030053	Montana	Lincoln	Lincoln, Montana, US
+1630	84030055	Montana	McCone	McCone, Montana, US
+1631	84030057	Montana	Madison	Madison, Montana, US
+1632	84030059	Montana	Meagher	Meagher, Montana, US
+1633	84030061	Montana	Mineral	Mineral, Montana, US
+1634	84030063	Montana	Missoula	Missoula, Montana, US
+1635	84030065	Montana	Musselshell	Musselshell, Montana, US
+1636	84030067	Montana	Park	Park, Montana, US
+1637	84030069	Montana	Petroleum	Petroleum, Montana, US
+1638	84030071	Montana	Phillips	Phillips, Montana, US
+1639	84030073	Montana	Pondera	Pondera, Montana, US
+1640	84030075	Montana	Powder River	Powder River, Montana, US
+1641	84030077	Montana	Powell	Powell, Montana, US
+1642	84030079	Montana	Prairie	Prairie, Montana, US
+1643	84030081	Montana	Ravalli	Ravalli, Montana, US
+1644	84030083	Montana	Richland	Richland, Montana, US
+1645	84030085	Montana	Roosevelt	Roosevelt, Montana, US
+1646	84030087	Montana	Rosebud	Rosebud, Montana, US
+1647	84030089	Montana	Sanders	Sanders, Montana, US
+1648	84030091	Montana	Sheridan	Sheridan, Montana, US
+1649	84030093	Montana	Silver Bow	Silver Bow, Montana, US
+1650	84030095	Montana	Stillwater	Stillwater, Montana, US
+1651	84030097	Montana	Sweet Grass	Sweet Grass, Montana, US
+1652	84030099	Montana	Teton	Teton, Montana, US
+1653	84030101	Montana	Toole	Toole, Montana, US
+1654	84030103	Montana	Treasure	Treasure, Montana, US
+1655	84030105	Montana	Valley	Valley, Montana, US
+1656	84030107	Montana	Wheatland	Wheatland, Montana, US
+1657	84030109	Montana	Wibaux	Wibaux, Montana, US
+1658	84030111	Montana	Yellowstone	Yellowstone, Montana, US
+1659	84031001	Nebraska	Adams	Adams, Nebraska, US
+1660	84031003	Nebraska	Antelope	Antelope, Nebraska, US
+1661	84031005	Nebraska	Arthur	Arthur, Nebraska, US
+1662	84031007	Nebraska	Banner	Banner, Nebraska, US
+1663	84031009	Nebraska	Blaine	Blaine, Nebraska, US
+1664	84031011	Nebraska	Boone	Boone, Nebraska, US
+1665	84031013	Nebraska	Box Butte	Box Butte, Nebraska, US
+1666	84031015	Nebraska	Boyd	Boyd, Nebraska, US
+1667	84031017	Nebraska	Brown	Brown, Nebraska, US
+1668	84031019	Nebraska	Buffalo	Buffalo, Nebraska, US
+1669	84031021	Nebraska	Burt	Burt, Nebraska, US
+1670	84031023	Nebraska	Butler	Butler, Nebraska, US
+1671	84031025	Nebraska	Cass	Cass, Nebraska, US
+1672	84031027	Nebraska	Cedar	Cedar, Nebraska, US
+1673	84031029	Nebraska	Chase	Chase, Nebraska, US
+1674	84031031	Nebraska	Cherry	Cherry, Nebraska, US
+1675	84031033	Nebraska	Cheyenne	Cheyenne, Nebraska, US
+1676	84031035	Nebraska	Clay	Clay, Nebraska, US
+1677	84031037	Nebraska	Colfax	Colfax, Nebraska, US
+1678	84031039	Nebraska	Cuming	Cuming, Nebraska, US
+1679	84031041	Nebraska	Custer	Custer, Nebraska, US
+1680	84031043	Nebraska	Dakota	Dakota, Nebraska, US
+1681	84031045	Nebraska	Dawes	Dawes, Nebraska, US
+1682	84031047	Nebraska	Dawson	Dawson, Nebraska, US
+1683	84031049	Nebraska	Deuel	Deuel, Nebraska, US
+1684	84031051	Nebraska	Dixon	Dixon, Nebraska, US
+1685	84031053	Nebraska	Dodge	Dodge, Nebraska, US
+1686	84031055	Nebraska	Douglas	Douglas, Nebraska, US
+1687	84031057	Nebraska	Dundy	Dundy, Nebraska, US
+1688	84031059	Nebraska	Fillmore	Fillmore, Nebraska, US
+1689	84031061	Nebraska	Franklin	Franklin, Nebraska, US
+1690	84031063	Nebraska	Frontier	Frontier, Nebraska, US
+1691	84031065	Nebraska	Furnas	Furnas, Nebraska, US
+1692	84031067	Nebraska	Gage	Gage, Nebraska, US
+1693	84031069	Nebraska	Garden	Garden, Nebraska, US
+1694	84031071	Nebraska	Garfield	Garfield, Nebraska, US
+1695	84031073	Nebraska	Gosper	Gosper, Nebraska, US
+1696	84031075	Nebraska	Grant	Grant, Nebraska, US
+1697	84031077	Nebraska	Greeley	Greeley, Nebraska, US
+1698	84031079	Nebraska	Hall	Hall, Nebraska, US
+1699	84031081	Nebraska	Hamilton	Hamilton, Nebraska, US
+1700	84031083	Nebraska	Harlan	Harlan, Nebraska, US
+1701	84031085	Nebraska	Hayes	Hayes, Nebraska, US
+1702	84031087	Nebraska	Hitchcock	Hitchcock, Nebraska, US
+1703	84031089	Nebraska	Holt	Holt, Nebraska, US
+1704	84031091	Nebraska	Hooker	Hooker, Nebraska, US
+1705	84031093	Nebraska	Howard	Howard, Nebraska, US
+1706	84031095	Nebraska	Jefferson	Jefferson, Nebraska, US
+1707	84031097	Nebraska	Johnson	Johnson, Nebraska, US
+1708	84031099	Nebraska	Kearney	Kearney, Nebraska, US
+1709	84031101	Nebraska	Keith	Keith, Nebraska, US
+1710	84031103	Nebraska	Keya Paha	Keya Paha, Nebraska, US
+1711	84031105	Nebraska	Kimball	Kimball, Nebraska, US
+1712	84031107	Nebraska	Knox	Knox, Nebraska, US
+1713	84031109	Nebraska	Lancaster	Lancaster, Nebraska, US
+1714	84031111	Nebraska	Lincoln	Lincoln, Nebraska, US
+1715	84031113	Nebraska	Logan	Logan, Nebraska, US
+1716	84031115	Nebraska	Loup	Loup, Nebraska, US
+1717	84031117	Nebraska	McPherson	McPherson, Nebraska, US
+1718	84031119	Nebraska	Madison	Madison, Nebraska, US
+1719	84031121	Nebraska	Merrick	Merrick, Nebraska, US
+1720	84031123	Nebraska	Morrill	Morrill, Nebraska, US
+1721	84031125	Nebraska	Nance	Nance, Nebraska, US
+1722	84031127	Nebraska	Nemaha	Nemaha, Nebraska, US
+1723	84031129	Nebraska	Nuckolls	Nuckolls, Nebraska, US
+1724	84031131	Nebraska	Otoe	Otoe, Nebraska, US
+1725	84031133	Nebraska	Pawnee	Pawnee, Nebraska, US
+1726	84031135	Nebraska	Perkins	Perkins, Nebraska, US
+1727	84031137	Nebraska	Phelps	Phelps, Nebraska, US
+1728	84031139	Nebraska	Pierce	Pierce, Nebraska, US
+1729	84031141	Nebraska	Platte	Platte, Nebraska, US
+1730	84031143	Nebraska	Polk	Polk, Nebraska, US
+1731	84031145	Nebraska	Red Willow	Red Willow, Nebraska, US
+1732	84031147	Nebraska	Richardson	Richardson, Nebraska, US
+1733	84031149	Nebraska	Rock	Rock, Nebraska, US
+1734	84031151	Nebraska	Saline	Saline, Nebraska, US
+1735	84031153	Nebraska	Sarpy	Sarpy, Nebraska, US
+1736	84031155	Nebraska	Saunders	Saunders, Nebraska, US
+1737	84031157	Nebraska	Scotts Bluff	Scotts Bluff, Nebraska, US
+1738	84031159	Nebraska	Seward	Seward, Nebraska, US
+1739	84031161	Nebraska	Sheridan	Sheridan, Nebraska, US
+1740	84031163	Nebraska	Sherman	Sherman, Nebraska, US
+1741	84031165	Nebraska	Sioux	Sioux, Nebraska, US
+1742	84031167	Nebraska	Stanton	Stanton, Nebraska, US
+1743	84031169	Nebraska	Thayer	Thayer, Nebraska, US
+1744	84031171	Nebraska	Thomas	Thomas, Nebraska, US
+1745	84031173	Nebraska	Thurston	Thurston, Nebraska, US
+1746	84031175	Nebraska	Valley	Valley, Nebraska, US
+1747	84031177	Nebraska	Washington	Washington, Nebraska, US
+1748	84031179	Nebraska	Wayne	Wayne, Nebraska, US
+1749	84031181	Nebraska	Webster	Webster, Nebraska, US
+1750	84031183	Nebraska	Wheeler	Wheeler, Nebraska, US
+1751	84031185	Nebraska	York	York, Nebraska, US
+1752	84032001	Nevada	Churchill	Churchill, Nevada, US
+1753	84032003	Nevada	Clark	Clark, Nevada, US
+1754	84032005	Nevada	Douglas	Douglas, Nevada, US
+1755	84032007	Nevada	Elko	Elko, Nevada, US
+1756	84032009	Nevada	Esmeralda	Esmeralda, Nevada, US
+1757	84032011	Nevada	Eureka	Eureka, Nevada, US
+1758	84032013	Nevada	Humboldt	Humboldt, Nevada, US
+1759	84032015	Nevada	Lander	Lander, Nevada, US
+1760	84032017	Nevada	Lincoln	Lincoln, Nevada, US
+1761	84032019	Nevada	Lyon	Lyon, Nevada, US
+1762	84032021	Nevada	Mineral	Mineral, Nevada, US
+1763	84032023	Nevada	Nye	Nye, Nevada, US
+1764	84032027	Nevada	Pershing	Pershing, Nevada, US
+1765	84032029	Nevada	Storey	Storey, Nevada, US
+1766	84032031	Nevada	Washoe	Washoe, Nevada, US
+1767	84032033	Nevada	White Pine	White Pine, Nevada, US
+1768	84032510	Nevada	Carson City	Carson City, Nevada, US
+1769	84033001	New Hampshire	Belknap	Belknap, New Hampshire, US
+1770	84033003	New Hampshire	Carroll	Carroll, New Hampshire, US
+1771	84033005	New Hampshire	Cheshire	Cheshire, New Hampshire, US
+1772	84033007	New Hampshire	Coos	Coos, New Hampshire, US
+1773	84033009	New Hampshire	Grafton	Grafton, New Hampshire, US
+1774	84033011	New Hampshire	Hillsborough	Hillsborough, New Hampshire, US
+1775	84033013	New Hampshire	Merrimack	Merrimack, New Hampshire, US
+1776	84033015	New Hampshire	Rockingham	Rockingham, New Hampshire, US
+1777	84033017	New Hampshire	Strafford	Strafford, New Hampshire, US
+1778	84033019	New Hampshire	Sullivan	Sullivan, New Hampshire, US
+1779	84034001	New Jersey	Atlantic	Atlantic, New Jersey, US
+1780	84034003	New Jersey	Bergen	Bergen, New Jersey, US
+1781	84034005	New Jersey	Burlington	Burlington, New Jersey, US
+1782	84034007	New Jersey	Camden	Camden, New Jersey, US
+1783	84034009	New Jersey	Cape May	Cape May, New Jersey, US
+1784	84034011	New Jersey	Cumberland	Cumberland, New Jersey, US
+1785	84034013	New Jersey	Essex	Essex, New Jersey, US
+1786	84034015	New Jersey	Gloucester	Gloucester, New Jersey, US
+1787	84034017	New Jersey	Hudson	Hudson, New Jersey, US
+1788	84034019	New Jersey	Hunterdon	Hunterdon, New Jersey, US
+1789	84034021	New Jersey	Mercer	Mercer, New Jersey, US
+1790	84034023	New Jersey	Middlesex	Middlesex, New Jersey, US
+1791	84034025	New Jersey	Monmouth	Monmouth, New Jersey, US
+1792	84034027	New Jersey	Morris	Morris, New Jersey, US
+1793	84034029	New Jersey	Ocean	Ocean, New Jersey, US
+1794	84034031	New Jersey	Passaic	Passaic, New Jersey, US
+1795	84034033	New Jersey	Salem	Salem, New Jersey, US
+1796	84034035	New Jersey	Somerset	Somerset, New Jersey, US
+1797	84034037	New Jersey	Sussex	Sussex, New Jersey, US
+1798	84034039	New Jersey	Union	Union, New Jersey, US
+1799	84034041	New Jersey	Warren	Warren, New Jersey, US
+1800	84035001	New Mexico	Bernalillo	Bernalillo, New Mexico, US
+1801	84035003	New Mexico	Catron	Catron, New Mexico, US
+1802	84035005	New Mexico	Chaves	Chaves, New Mexico, US
+1803	84035006	New Mexico	Cibola	Cibola, New Mexico, US
+1804	84035007	New Mexico	Colfax	Colfax, New Mexico, US
+1805	84035009	New Mexico	Curry	Curry, New Mexico, US
+1806	84035011	New Mexico	De Baca	De Baca, New Mexico, US
+1807	84035013	New Mexico	Dona Ana	Dona Ana, New Mexico, US
+1808	84035015	New Mexico	Eddy	Eddy, New Mexico, US
+1809	84035017	New Mexico	Grant	Grant, New Mexico, US
+1810	84035019	New Mexico	Guadalupe	Guadalupe, New Mexico, US
+1811	84035021	New Mexico	Harding	Harding, New Mexico, US
+1812	84035023	New Mexico	Hidalgo	Hidalgo, New Mexico, US
+1813	84035025	New Mexico	Lea	Lea, New Mexico, US
+1814	84035027	New Mexico	Lincoln	Lincoln, New Mexico, US
+1815	84035028	New Mexico	Los Alamos	Los Alamos, New Mexico, US
+1816	84035029	New Mexico	Luna	Luna, New Mexico, US
+1817	84035031	New Mexico	McKinley	McKinley, New Mexico, US
+1818	84035033	New Mexico	Mora	Mora, New Mexico, US
+1819	84035035	New Mexico	Otero	Otero, New Mexico, US
+1820	84035037	New Mexico	Quay	Quay, New Mexico, US
+1821	84035039	New Mexico	Rio Arriba	Rio Arriba, New Mexico, US
+1822	84035041	New Mexico	Roosevelt	Roosevelt, New Mexico, US
+1823	84035043	New Mexico	Sandoval	Sandoval, New Mexico, US
+1824	84035045	New Mexico	San Juan	San Juan, New Mexico, US
+1825	84035047	New Mexico	San Miguel	San Miguel, New Mexico, US
+1826	84035049	New Mexico	Santa Fe	Santa Fe, New Mexico, US
+1827	84035051	New Mexico	Sierra	Sierra, New Mexico, US
+1828	84035053	New Mexico	Socorro	Socorro, New Mexico, US
+1829	84035055	New Mexico	Taos	Taos, New Mexico, US
+1830	84035057	New Mexico	Torrance	Torrance, New Mexico, US
+1831	84035059	New Mexico	Union	Union, New Mexico, US
+1832	84035061	New Mexico	Valencia	Valencia, New Mexico, US
+1833	84036001	New York	Albany	Albany, New York, US
+1834	84036003	New York	Allegany	Allegany, New York, US
+1835	84036005	New York	Bronx	Bronx, New York, US
+1836	84036007	New York	Broome	Broome, New York, US
+1837	84036009	New York	Cattaraugus	Cattaraugus, New York, US
+1838	84036011	New York	Cayuga	Cayuga, New York, US
+1839	84036013	New York	Chautauqua	Chautauqua, New York, US
+1840	84036015	New York	Chemung	Chemung, New York, US
+1841	84036017	New York	Chenango	Chenango, New York, US
+1842	84036019	New York	Clinton	Clinton, New York, US
+1843	84036021	New York	Columbia	Columbia, New York, US
+1844	84036023	New York	Cortland	Cortland, New York, US
+1845	84036025	New York	Delaware	Delaware, New York, US
+1846	84036027	New York	Dutchess	Dutchess, New York, US
+1847	84036029	New York	Erie	Erie, New York, US
+1848	84036031	New York	Essex	Essex, New York, US
+1849	84036033	New York	Franklin	Franklin, New York, US
+1850	84036035	New York	Fulton	Fulton, New York, US
+1851	84036037	New York	Genesee	Genesee, New York, US
+1852	84036039	New York	Greene	Greene, New York, US
+1853	84036041	New York	Hamilton	Hamilton, New York, US
+1854	84036043	New York	Herkimer	Herkimer, New York, US
+1855	84036045	New York	Jefferson	Jefferson, New York, US
+1856	84036047	New York	Kings	Kings, New York, US
+1857	84036049	New York	Lewis	Lewis, New York, US
+1858	84036051	New York	Livingston	Livingston, New York, US
+1859	84036053	New York	Madison	Madison, New York, US
+1860	84036055	New York	Monroe	Monroe, New York, US
+1861	84036057	New York	Montgomery	Montgomery, New York, US
+1862	84036059	New York	Nassau	Nassau, New York, US
+1863	84036061	New York	New York	New York City, New York, US
+1864	84036063	New York	Niagara	Niagara, New York, US
+1865	84036065	New York	Oneida	Oneida, New York, US
+1866	84036067	New York	Onondaga	Onondaga, New York, US
+1867	84036069	New York	Ontario	Ontario, New York, US
+1868	84036071	New York	Orange	Orange, New York, US
+1869	84036073	New York	Orleans	Orleans, New York, US
+1870	84036075	New York	Oswego	Oswego, New York, US
+1871	84036077	New York	Otsego	Otsego, New York, US
+1872	84036079	New York	Putnam	Putnam, New York, US
+1873	84036081	New York	Queens	Queens, New York, US
+1874	84036083	New York	Rensselaer	Rensselaer, New York, US
+1875	84036085	New York	Richmond	Richmond, New York, US
+1876	84036087	New York	Rockland	Rockland, New York, US
+1877	84036089	New York	St. Lawrence	St. Lawrence, New York, US
+1878	84036091	New York	Saratoga	Saratoga, New York, US
+1879	84036093	New York	Schenectady	Schenectady, New York, US
+1880	84036095	New York	Schoharie	Schoharie, New York, US
+1881	84036097	New York	Schuyler	Schuyler, New York, US
+1882	84036099	New York	Seneca	Seneca, New York, US
+1883	84036101	New York	Steuben	Steuben, New York, US
+1884	84036103	New York	Suffolk	Suffolk, New York, US
+1885	84036105	New York	Sullivan	Sullivan, New York, US
+1886	84036107	New York	Tioga	Tioga, New York, US
+1887	84036109	New York	Tompkins	Tompkins, New York, US
+1888	84036111	New York	Ulster	Ulster, New York, US
+1889	84036113	New York	Warren	Warren, New York, US
+1890	84036115	New York	Washington	Washington, New York, US
+1891	84036117	New York	Wayne	Wayne, New York, US
+1892	84036119	New York	Westchester	Westchester, New York, US
+1893	84036121	New York	Wyoming	Wyoming, New York, US
+1894	84036123	New York	Yates	Yates, New York, US
+1895	84037001	North Carolina	Alamance	Alamance, North Carolina, US
+1896	84037003	North Carolina	Alexander	Alexander,North Carolina,US
+1897	84037005	North Carolina	Alleghany	Alleghany, North Carolina, US
+1898	84037007	North Carolina	Anson	Anson, North Carolina, US
+1899	84037009	North Carolina	Ashe	Ashe, North Carolina, US
+1900	84037011	North Carolina	Avery	Avery, North Carolina, US
+1901	84037013	North Carolina	Beaufort	Beaufort, North Carolina, US
+1902	84037015	North Carolina	Bertie	Bertie, North Carolina, US
+1903	84037017	North Carolina	Bladen	Bladen, North Carolina, US
+1904	84037019	North Carolina	Brunswick	Brunswick, North Carolina, US
+1905	84037021	North Carolina	Buncombe	Buncombe, North Carolina, US
+1906	84037023	North Carolina	Burke	Burke, North Carolina, US
+1907	84037025	North Carolina	Cabarrus	Cabarrus, North Carolina, US
+1908	84037027	North Carolina	Caldwell	Caldwell, North Carolina, US
+1909	84037029	North Carolina	Camden	Camden, North Carolina, US
+1910	84037031	North Carolina	Carteret	Carteret, North Carolina, US
+1911	84037033	North Carolina	Caswell	Caswell, North Carolina, US
+1912	84037035	North Carolina	Catawba	Catawba, North Carolina, US
+1913	84037037	North Carolina	Chatham	Chatham, North Carolina, US
+1914	84037039	North Carolina	Cherokee	Cherokee, North Carolina, US
+1915	84037041	North Carolina	Chowan	Chowan, North Carolina, US
+1916	84037043	North Carolina	Clay	Clay, North Carolina, US
+1917	84037045	North Carolina	Cleveland	Cleveland, North Carolina, US
+1918	84037047	North Carolina	Columbus	Columbus, North Carolina, US
+1919	84037049	North Carolina	Craven	Craven, North Carolina, US
+1920	84037051	North Carolina	Cumberland	Cumberland, North Carolina, US
+1921	84037053	North Carolina	Currituck	Currituck, North Carolina, US
+1922	84037055	North Carolina	Dare	Dare, North Carolina, US
+1923	84037057	North Carolina	Davidson	Davidson, North Carolina, US
+1924	84037059	North Carolina	Davie	Davie, North Carolina, US
+1925	84037061	North Carolina	Duplin	Duplin, North Carolina, US
+1926	84037063	North Carolina	Durham	Durham, North Carolina, US
+1927	84037065	North Carolina	Edgecombe	Edgecombe, North Carolina, US
+1928	84037067	North Carolina	Forsyth	Forsyth, North Carolina, US
+1929	84037069	North Carolina	Franklin	Franklin, North Carolina, US
+1930	84037071	North Carolina	Gaston	Gaston, North Carolina, US
+1931	84037073	North Carolina	Gates	Gates, North Carolina, US
+1932	84037075	North Carolina	Graham	Graham, North Carolina, US
+1933	84037077	North Carolina	Granville	Granville, North Carolina, US
+1934	84037079	North Carolina	Greene	Greene, North Carolina, US
+1935	84037081	North Carolina	Guilford	Guilford, North Carolina, US
+1936	84037083	North Carolina	Halifax	Halifax, North Carolina, US
+1937	84037085	North Carolina	Harnett	Harnett, North Carolina, US
+1938	84037087	North Carolina	Haywood	Haywood, North Carolina, US
+1939	84037089	North Carolina	Henderson	Henderson, North Carolina, US
+1940	84037091	North Carolina	Hertford	Hertford, North Carolina, US
+1941	84037093	North Carolina	Hoke	Hoke, North Carolina, US
+1942	84037095	North Carolina	Hyde	Hyde, North Carolina, US
+1943	84037097	North Carolina	Iredell	Iredell, North Carolina, US
+1944	84037099	North Carolina	Jackson	Jackson, North Carolina, US
+1945	84037101	North Carolina	Johnston	Johnston, North Carolina, US
+1946	84037103	North Carolina	Jones	Jones, North Carolina, US
+1947	84037105	North Carolina	Lee	Lee, North Carolina, US
+1948	84037107	North Carolina	Lenoir	Lenoir, North Carolina, US
+1949	84037109	North Carolina	Lincoln	Lincoln, North Carolina, US
+1950	84037111	North Carolina	McDowell	McDowell, North Carolina, US
+1951	84037113	North Carolina	Macon	Macon, North Carolina, US
+1952	84037115	North Carolina	Madison	Madison, North Carolina, US
+1953	84037117	North Carolina	Martin	Martin, North Carolina, US
+1954	84037119	North Carolina	Mecklenburg	Mecklenburg, North Carolina, US
+1955	84037121	North Carolina	Mitchell	Mitchell, North Carolina, US
+1956	84037123	North Carolina	Montgomery	Montgomery, North Carolina, US
+1957	84037125	North Carolina	Moore	Moore, North Carolina, US
+1958	84037127	North Carolina	Nash	Nash, North Carolina, US
+1959	84037129	North Carolina	New Hanover	New Hanover, North Carolina, US
+1960	84037131	North Carolina	Northampton	Northampton, North Carolina, US
+1961	84037133	North Carolina	Onslow	Onslow, North Carolina, US
+1962	84037135	North Carolina	Orange	Orange, North Carolina, US
+1963	84037137	North Carolina	Pamlico	Pamlico, North Carolina, US
+1964	84037139	North Carolina	Pasquotank	Pasquotank, North Carolina, US
+1965	84037141	North Carolina	Pender	Pender, North Carolina, US
+1966	84037143	North Carolina	Perquimans	Perquimans, North Carolina, US
+1967	84037145	North Carolina	Person	Person, North Carolina, US
+1968	84037147	North Carolina	Pitt	Pitt, North Carolina, US
+1969	84037149	North Carolina	Polk	Polk, North Carolina, US
+1970	84037151	North Carolina	Randolph	Randolph, North Carolina, US
+1971	84037153	North Carolina	Richmond	Richmond, North Carolina, US
+1972	84037155	North Carolina	Robeson	Robeson, North Carolina, US
+1973	84037157	North Carolina	Rockingham	Rockingham, North Carolina, US
+1974	84037159	North Carolina	Rowan	Rowan, North Carolina, US
+1975	84037161	North Carolina	Rutherford	Rutherford, North Carolina, US
+1976	84037163	North Carolina	Sampson	Sampson, North Carolina, US
+1977	84037165	North Carolina	Scotland	Scotland, North Carolina, US
+1978	84037167	North Carolina	Stanly	Stanly, North Carolina, US
+1979	84037169	North Carolina	Stokes	Stokes, North Carolina, US
+1980	84037171	North Carolina	Surry	Surry, North Carolina, US
+1981	84037173	North Carolina	Swain	Swain, North Carolina, US
+1982	84037175	North Carolina	Transylvania	Transylvania, North Carolina, US
+1983	84037177	North Carolina	Tyrrell	Tyrrell, North Carolina, US
+1984	84037179	North Carolina	Union	Union, North Carolina, US
+1985	84037181	North Carolina	Vance	Vance, North Carolina, US
+1986	84037183	North Carolina	Wake	Wake, North Carolina, US
+1987	84037185	North Carolina	Warren	Warren, North Carolina, US
+1988	84037187	North Carolina	Washington	Washington, North Carolina, US
+1989	84037189	North Carolina	Watauga	Watauga, North Carolina, US
+1990	84037191	North Carolina	Wayne	Wayne, North Carolina, US
+1991	84037193	North Carolina	Wilkes	Wilkes, North Carolina, US
+1992	84037195	North Carolina	Wilson	Wilson, North Carolina, US
+1993	84037197	North Carolina	Yadkin	Yadkin, North Carolina, US
+1994	84037199	North Carolina	Yancey	Yancey, North Carolina, US
+1995	84038001	North Dakota	Adams	Adams, North Dakota, US
+1996	84038003	North Dakota	Barnes	Barnes, North Dakota, US
+1997	84038005	North Dakota	Benson	Benson, North Dakota, US
+1998	84038007	North Dakota	Billings	Billings, North Dakota, US
+1999	84038009	North Dakota	Bottineau	Bottineau, North Dakota, US
+2000	84038011	North Dakota	Bowman	Bowman, North Dakota, US
+2001	84038013	North Dakota	Burke	Burke, North Dakota, US
+2002	84038015	North Dakota	Burleigh	Burleigh, North Dakota, US
+2003	84038017	North Dakota	Cass	Cass, North Dakota, US
+2004	84038019	North Dakota	Cavalier	Cavalier, North Dakota, US
+2005	84038021	North Dakota	Dickey	Dickey, North Dakota, US
+2006	84038023	North Dakota	Divide	Divide, North Dakota, US
+2007	84038025	North Dakota	Dunn	Dunn, North Dakota, US
+2008	84038027	North Dakota	Eddy	Eddy, North Dakota, US
+2009	84038029	North Dakota	Emmons	Emmons, North Dakota, US
+2010	84038031	North Dakota	Foster	Foster, North Dakota, US
+2011	84038033	North Dakota	Golden Valley	Golden Valley, North Dakota, US
+2012	84038035	North Dakota	Grand Forks	Grand Forks, North Dakota, US
+2013	84038037	North Dakota	Grant	Grant, North Dakota, US
+2014	84038039	North Dakota	Griggs	Griggs, North Dakota, US
+2015	84038041	North Dakota	Hettinger	Hettinger, North Dakota, US
+2016	84038043	North Dakota	Kidder	Kidder, North Dakota, US
+2017	84038045	North Dakota	LaMoure	LaMoure, North Dakota, US
+2018	84038047	North Dakota	Logan	Logan, North Dakota, US
+2019	84038049	North Dakota	McHenry	McHenry, North Dakota, US
+2020	84038051	North Dakota	McIntosh	McIntosh, North Dakota, US
+2021	84038053	North Dakota	McKenzie	McKenzie, North Dakota, US
+2022	84038055	North Dakota	McLean	McLean, North Dakota, US
+2023	84038057	North Dakota	Mercer	Mercer, North Dakota, US
+2024	84038059	North Dakota	Morton	Morton, North Dakota, US
+2025	84038061	North Dakota	Mountrail	Mountrail, North Dakota, US
+2026	84038063	North Dakota	Nelson	Nelson, North Dakota, US
+2027	84038065	North Dakota	Oliver	Oliver, North Dakota, US
+2028	84038067	North Dakota	Pembina	Pembina, North Dakota, US
+2029	84038069	North Dakota	Pierce	Pierce, North Dakota, US
+2030	84038071	North Dakota	Ramsey	Ramsey, North Dakota, US
+2031	84038073	North Dakota	Ransom	Ransom, North Dakota, US
+2032	84038075	North Dakota	Renville	Renville, North Dakota, US
+2033	84038077	North Dakota	Richland	Richland, North Dakota, US
+2034	84038079	North Dakota	Rolette	Rolette, North Dakota, US
+2035	84038081	North Dakota	Sargent	Sargent, North Dakota, US
+2036	84038083	North Dakota	Sheridan	Sheridan, North Dakota, US
+2037	84038085	North Dakota	Sioux	Sioux, North Dakota, US
+2038	84038087	North Dakota	Slope	Slope, North Dakota, US
+2039	84038089	North Dakota	Stark	Stark, North Dakota, US
+2040	84038091	North Dakota	Steele	Steele, North Dakota, US
+2041	84038093	North Dakota	Stutsman	Stutsman, North Dakota, US
+2042	84038095	North Dakota	Towner	Towner, North Dakota, US
+2043	84038097	North Dakota	Traill	Traill, North Dakota, US
+2044	84038099	North Dakota	Walsh	Walsh, North Dakota, US
+2045	84038101	North Dakota	Ward	Ward, North Dakota, US
+2046	84038103	North Dakota	Wells	Wells, North Dakota, US
+2047	84038105	North Dakota	Williams	Williams, North Dakota, US
+2048	84039001	Ohio	Adams	Adams, Ohio, US
+2049	84039003	Ohio	Allen	Allen, Ohio, US
+2050	84039005	Ohio	Ashland	Ashland, Ohio, US
+2051	84039007	Ohio	Ashtabula	Ashtabula, Ohio, US
+2052	84039009	Ohio	Athens	Athens, Ohio, US
+2053	84039011	Ohio	Auglaize	Auglaize, Ohio, US
+2054	84039013	Ohio	Belmont	Belmont, Ohio, US
+2055	84039015	Ohio	Brown	Brown, Ohio, US
+2056	84039017	Ohio	Butler	Butler, Ohio, US
+2057	84039019	Ohio	Carroll	Carroll, Ohio, US
+2058	84039021	Ohio	Champaign	Champaign, Ohio, US
+2059	84039023	Ohio	Clark	Clark, Ohio, US
+2060	84039025	Ohio	Clermont	Clermont, Ohio, US
+2061	84039027	Ohio	Clinton	Clinton, Ohio, US
+2062	84039029	Ohio	Columbiana	Columbiana, Ohio, US
+2063	84039031	Ohio	Coshocton	Coshocton, Ohio, US
+2064	84039033	Ohio	Crawford	Crawford, Ohio, US
+2065	84039035	Ohio	Cuyahoga	Cuyahoga, Ohio, US
+2066	84039037	Ohio	Darke	Darke, Ohio, US
+2067	84039039	Ohio	Defiance	Defiance, Ohio, US
+2068	84039041	Ohio	Delaware	Delaware, Ohio, US
+2069	84039043	Ohio	Erie	Erie, Ohio, US
+2070	84039045	Ohio	Fairfield	Fairfield, Ohio, US
+2071	84039047	Ohio	Fayette	Fayette, Ohio, US
+2072	84039049	Ohio	Franklin	Franklin, Ohio, US
+2073	84039051	Ohio	Fulton	Fulton, Ohio, US
+2074	84039053	Ohio	Gallia	Gallia, Ohio, US
+2075	84039055	Ohio	Geauga	Geauga, Ohio, US
+2076	84039057	Ohio	Greene	Greene, Ohio, US
+2077	84039059	Ohio	Guernsey	Guernsey, Ohio, US
+2078	84039061	Ohio	Hamilton	Hamilton, Ohio, US
+2079	84039063	Ohio	Hancock	Hancock, Ohio, US
+2080	84039065	Ohio	Hardin	Hardin, Ohio, US
+2081	84039067	Ohio	Harrison	Harrison, Ohio, US
+2082	84039069	Ohio	Henry	Henry, Ohio, US
+2083	84039071	Ohio	Highland	Highland, Ohio, US
+2084	84039073	Ohio	Hocking	Hocking, Ohio, US
+2085	84039075	Ohio	Holmes	Holmes, Ohio, US
+2086	84039077	Ohio	Huron	Huron, Ohio, US
+2087	84039079	Ohio	Jackson	Jackson, Ohio, US
+2088	84039081	Ohio	Jefferson	Jefferson, Ohio, US
+2089	84039083	Ohio	Knox	Knox, Ohio, US
+2090	84039085	Ohio	Lake	Lake, Ohio, US
+2091	84039087	Ohio	Lawrence	Lawrence, Ohio, US
+2092	84039089	Ohio	Licking	Licking, Ohio, US
+2093	84039091	Ohio	Logan	Logan, Ohio, US
+2094	84039093	Ohio	Lorain	Lorain, Ohio, US
+2095	84039095	Ohio	Lucas	Lucas, Ohio, US
+2096	84039097	Ohio	Madison	Madison, Ohio, US
+2097	84039099	Ohio	Mahoning	Mahoning, Ohio, US
+2098	84039101	Ohio	Marion	Marion, Ohio, US
+2099	84039103	Ohio	Medina	Medina, Ohio, US
+2100	84039105	Ohio	Meigs	Meigs, Ohio, US
+2101	84039107	Ohio	Mercer	Mercer, Ohio, US
+2102	84039109	Ohio	Miami	Miami, Ohio, US
+2103	84039111	Ohio	Monroe	Monroe, Ohio, US
+2104	84039113	Ohio	Montgomery	Montgomery, Ohio, US
+2105	84039115	Ohio	Morgan	Morgan, Ohio, US
+2106	84039117	Ohio	Morrow	Morrow, Ohio, US
+2107	84039119	Ohio	Muskingum	Muskingum, Ohio, US
+2108	84039121	Ohio	Noble	Noble, Ohio, US
+2109	84039123	Ohio	Ottawa	Ottawa, Ohio, US
+2110	84039125	Ohio	Paulding	Paulding, Ohio, US
+2111	84039127	Ohio	Perry	Perry, Ohio, US
+2112	84039129	Ohio	Pickaway	Pickaway, Ohio, US
+2113	84039131	Ohio	Pike	Pike, Ohio, US
+2114	84039133	Ohio	Portage	Portage, Ohio, US
+2115	84039135	Ohio	Preble	Preble, Ohio, US
+2116	84039137	Ohio	Putnam	Putnam, Ohio, US
+2117	84039139	Ohio	Richland	Richland, Ohio, US
+2118	84039141	Ohio	Ross	Ross, Ohio, US
+2119	84039143	Ohio	Sandusky	Sandusky, Ohio, US
+2120	84039145	Ohio	Scioto	Scioto, Ohio, US
+2121	84039147	Ohio	Seneca	Seneca, Ohio, US
+2122	84039149	Ohio	Shelby	Shelby, Ohio, US
+2123	84039151	Ohio	Stark	Stark, Ohio, US
+2124	84039153	Ohio	Summit	Summit, Ohio, US
+2125	84039155	Ohio	Trumbull	Trumbull, Ohio, US
+2126	84039157	Ohio	Tuscarawas	Tuscarawas, Ohio, US
+2127	84039159	Ohio	Union	Union, Ohio, US
+2128	84039161	Ohio	Van Wert	Van Wert, Ohio, US
+2129	84039163	Ohio	Vinton	Vinton, Ohio, US
+2130	84039165	Ohio	Warren	Warren, Ohio, US
+2131	84039167	Ohio	Washington	Washington, Ohio, US
+2132	84039169	Ohio	Wayne	Wayne, Ohio, US
+2133	84039171	Ohio	Williams	Williams, Ohio, US
+2134	84039173	Ohio	Wood	Wood, Ohio, US
+2135	84039175	Ohio	Wyandot	Wyandot, Ohio, US
+2136	84040001	Oklahoma	Adair	Adair, Oklahoma, US
+2137	84040003	Oklahoma	Alfalfa	Alfalfa, Oklahoma, US
+2138	84040005	Oklahoma	Atoka	Atoka, Oklahoma, US
+2139	84040007	Oklahoma	Beaver	Beaver, Oklahoma, US
+2140	84040009	Oklahoma	Beckham	Beckham, Oklahoma, US
+2141	84040011	Oklahoma	Blaine	Blaine, Oklahoma, US
+2142	84040013	Oklahoma	Bryan	Bryan, Oklahoma, US
+2143	84040015	Oklahoma	Caddo	Caddo, Oklahoma, US
+2144	84040017	Oklahoma	Canadian	Canadian, Oklahoma, US
+2145	84040019	Oklahoma	Carter	Carter, Oklahoma, US
+2146	84040021	Oklahoma	Cherokee	Cherokee, Oklahoma, US
+2147	84040023	Oklahoma	Choctaw	Choctaw, Oklahoma, US
+2148	84040025	Oklahoma	Cimarron	Cimarron, Oklahoma, US
+2149	84040027	Oklahoma	Cleveland	Cleveland, Oklahoma, US
+2150	84040029	Oklahoma	Coal	Coal, Oklahoma, US
+2151	84040031	Oklahoma	Comanche	Comanche, Oklahoma, US
+2152	84040033	Oklahoma	Cotton	Cotton, Oklahoma, US
+2153	84040035	Oklahoma	Craig	Craig, Oklahoma, US
+2154	84040037	Oklahoma	Creek	Creek, Oklahoma, US
+2155	84040039	Oklahoma	Custer	Custer, Oklahoma, US
+2156	84040041	Oklahoma	Delaware	Delaware, Oklahoma, US
+2157	84040043	Oklahoma	Dewey	Dewey, Oklahoma, US
+2158	84040045	Oklahoma	Ellis	Ellis, Oklahoma, US
+2159	84040047	Oklahoma	Garfield	Garfield, Oklahoma, US
+2160	84040049	Oklahoma	Garvin	Garvin, Oklahoma, US
+2161	84040051	Oklahoma	Grady	Grady, Oklahoma, US
+2162	84040053	Oklahoma	Grant	Grant, Oklahoma, US
+2163	84040055	Oklahoma	Greer	Greer, Oklahoma, US
+2164	84040057	Oklahoma	Harmon	Harmon, Oklahoma, US
+2165	84040059	Oklahoma	Harper	Harper, Oklahoma, US
+2166	84040061	Oklahoma	Haskell	Haskell, Oklahoma, US
+2167	84040063	Oklahoma	Hughes	Hughes, Oklahoma, US
+2168	84040065	Oklahoma	Jackson	Jackson, Oklahoma, US
+2169	84040067	Oklahoma	Jefferson	Jefferson, Oklahoma, US
+2170	84040069	Oklahoma	Johnston	Johnston, Oklahoma, US
+2171	84040071	Oklahoma	Kay	Kay, Oklahoma, US
+2172	84040073	Oklahoma	Kingfisher	Kingfisher, Oklahoma, US
+2173	84040075	Oklahoma	Kiowa	Kiowa, Oklahoma, US
+2174	84040077	Oklahoma	Latimer	Latimer, Oklahoma, US
+2175	84040079	Oklahoma	Le Flore	Le Flore, Oklahoma, US
+2176	84040081	Oklahoma	Lincoln	Lincoln, Oklahoma, US
+2177	84040083	Oklahoma	Logan	Logan, Oklahoma, US
+2178	84040085	Oklahoma	Love	Love, Oklahoma, US
+2179	84040087	Oklahoma	McClain	McClain, Oklahoma, US
+2180	84040089	Oklahoma	McCurtain	McCurtain, Oklahoma, US
+2181	84040091	Oklahoma	McIntosh	McIntosh, Oklahoma, US
+2182	84040093	Oklahoma	Major	Major, Oklahoma, US
+2183	84040095	Oklahoma	Marshall	Marshall, Oklahoma, US
+2184	84040097	Oklahoma	Mayes	Mayes, Oklahoma, US
+2185	84040099	Oklahoma	Murray	Murray, Oklahoma, US
+2186	84040101	Oklahoma	Muskogee	Muskogee, Oklahoma, US
+2187	84040103	Oklahoma	Noble	Noble, Oklahoma, US
+2188	84040105	Oklahoma	Nowata	Nowata, Oklahoma, US
+2189	84040107	Oklahoma	Okfuskee	Okfuskee, Oklahoma, US
+2190	84040109	Oklahoma	Oklahoma	Oklahoma, Oklahoma, US
+2191	84040111	Oklahoma	Okmulgee	Okmulgee, Oklahoma, US
+2192	84040113	Oklahoma	Osage	Osage, Oklahoma, US
+2193	84040115	Oklahoma	Ottawa	Ottawa, Oklahoma, US
+2194	84040117	Oklahoma	Pawnee	Pawnee, Oklahoma, US
+2195	84040119	Oklahoma	Payne	Payne, Oklahoma, US
+2196	84040121	Oklahoma	Pittsburg	Pittsburg, Oklahoma, US
+2197	84040123	Oklahoma	Pontotoc	Pontotoc, Oklahoma, US
+2198	84040125	Oklahoma	Pottawatomie	Pottawatomie, Oklahoma, US
+2199	84040127	Oklahoma	Pushmataha	Pushmataha, Oklahoma, US
+2200	84040129	Oklahoma	Roger Mills	Roger Mills, Oklahoma, US
+2201	84040131	Oklahoma	Rogers	Rogers, Oklahoma, US
+2202	84040133	Oklahoma	Seminole	Seminole, Oklahoma, US
+2203	84040135	Oklahoma	Sequoyah	Sequoyah, Oklahoma, US
+2204	84040137	Oklahoma	Stephens	Stephens, Oklahoma, US
+2205	84040139	Oklahoma	Texas	Texas, Oklahoma, US
+2206	84040141	Oklahoma	Tillman	Tillman, Oklahoma, US
+2207	84040143	Oklahoma	Tulsa	Tulsa, Oklahoma, US
+2208	84040145	Oklahoma	Wagoner	Wagoner, Oklahoma, US
+2209	84040147	Oklahoma	Washington	Washington, Oklahoma, US
+2210	84040149	Oklahoma	Washita	Washita, Oklahoma, US
+2211	84040151	Oklahoma	Woods	Woods, Oklahoma, US
+2212	84040153	Oklahoma	Woodward	Woodward, Oklahoma, US
+2213	84041001	Oregon	Baker	Baker, Oregon, US
+2214	84041003	Oregon	Benton	Benton, Oregon, US
+2215	84041005	Oregon	Clackamas	Clackamas, Oregon, US
+2216	84041007	Oregon	Clatsop	Clatsop, Oregon, US
+2217	84041009	Oregon	Columbia	Columbia, Oregon, US
+2218	84041011	Oregon	Coos	Coos, Oregon, US
+2219	84041013	Oregon	Crook	Crook, Oregon, US
+2220	84041015	Oregon	Curry	Curry, Oregon, US
+2221	84041017	Oregon	Deschutes	Deschutes, Oregon, US
+2222	84041019	Oregon	Douglas	Douglas, Oregon, US
+2223	84041021	Oregon	Gilliam	Gilliam, Oregon, US
+2224	84041023	Oregon	Grant	Grant, Oregon, US
+2225	84041025	Oregon	Harney	Harney, Oregon, US
+2226	84041027	Oregon	Hood River	Hood River, Oregon, US
+2227	84041029	Oregon	Jackson	Jackson, Oregon, US
+2228	84041031	Oregon	Jefferson	Jefferson, Oregon, US
+2229	84041033	Oregon	Josephine	Josephine, Oregon, US
+2230	84041035	Oregon	Klamath	Klamath, Oregon, US
+2231	84041037	Oregon	Lake	Lake, Oregon, US
+2232	84041039	Oregon	Lane	Lane, Oregon, US
+2233	84041041	Oregon	Lincoln	Lincoln, Oregon, US
+2234	84041043	Oregon	Linn	Linn, Oregon, US
+2235	84041045	Oregon	Malheur	Malheur, Oregon, US
+2236	84041047	Oregon	Marion	Marion, Oregon, US
+2237	84041049	Oregon	Morrow	Morrow, Oregon, US
+2238	84041051	Oregon	Multnomah	Multnomah, Oregon, US
+2239	84041053	Oregon	Polk	Polk, Oregon, US
+2240	84041055	Oregon	Sherman	Sherman, Oregon, US
+2241	84041057	Oregon	Tillamook	Tillamook, Oregon, US
+2242	84041059	Oregon	Umatilla	Umatilla, Oregon, US
+2243	84041061	Oregon	Union	Union, Oregon, US
+2244	84041063	Oregon	Wallowa	Wallowa, Oregon, US
+2245	84041065	Oregon	Wasco	Wasco, Oregon, US
+2246	84041067	Oregon	Washington	Washington, Oregon, US
+2247	84041069	Oregon	Wheeler	Wheeler, Oregon, US
+2248	84041071	Oregon	Yamhill	Yamhill, Oregon, US
+2249	84042001	Pennsylvania	Adams	Adams, Pennsylvania, US
+2250	84042003	Pennsylvania	Allegheny	Allegheny, Pennsylvania, US
+2251	84042005	Pennsylvania	Armstrong	Armstrong, Pennsylvania, US
+2252	84042007	Pennsylvania	Beaver	Beaver, Pennsylvania, US
+2253	84042009	Pennsylvania	Bedford	Bedford, Pennsylvania, US
+2254	84042011	Pennsylvania	Berks	Berks, Pennsylvania, US
+2255	84042013	Pennsylvania	Blair	Blair, Pennsylvania, US
+2256	84042015	Pennsylvania	Bradford	Bradford, Pennsylvania, US
+2257	84042017	Pennsylvania	Bucks	Bucks, Pennsylvania, US
+2258	84042019	Pennsylvania	Butler	Butler, Pennsylvania, US
+2259	84042021	Pennsylvania	Cambria	Cambria, Pennsylvania, US
+2260	84042023	Pennsylvania	Cameron	Cameron, Pennsylvania, US
+2261	84042025	Pennsylvania	Carbon	Carbon, Pennsylvania, US
+2262	84042027	Pennsylvania	Centre	Centre, Pennsylvania, US
+2263	84042029	Pennsylvania	Chester	Chester, Pennsylvania, US
+2264	84042031	Pennsylvania	Clarion	Clarion, Pennsylvania, US
+2265	84042033	Pennsylvania	Clearfield	Clearfield, Pennsylvania, US
+2266	84042035	Pennsylvania	Clinton	Clinton, Pennsylvania, US
+2267	84042037	Pennsylvania	Columbia	Columbia, Pennsylvania, US
+2268	84042039	Pennsylvania	Crawford	Crawford, Pennsylvania, US
+2269	84042041	Pennsylvania	Cumberland	Cumberland, Pennsylvania, US
+2270	84042043	Pennsylvania	Dauphin	Dauphin, Pennsylvania, US
+2271	84042045	Pennsylvania	Delaware	Delaware, Pennsylvania, US
+2272	84042047	Pennsylvania	Elk	Elk, Pennsylvania, US
+2273	84042049	Pennsylvania	Erie	Erie, Pennsylvania, US
+2274	84042051	Pennsylvania	Fayette	Fayette, Pennsylvania, US
+2275	84042053	Pennsylvania	Forest	Forest, Pennsylvania, US
+2276	84042055	Pennsylvania	Franklin	Franklin, Pennsylvania, US
+2277	84042057	Pennsylvania	Fulton	Fulton, Pennsylvania, US
+2278	84042059	Pennsylvania	Greene	Greene, Pennsylvania, US
+2279	84042061	Pennsylvania	Huntingdon	Huntingdon, Pennsylvania, US
+2280	84042063	Pennsylvania	Indiana	Indiana, Pennsylvania, US
+2281	84042065	Pennsylvania	Jefferson	Jefferson, Pennsylvania, US
+2282	84042067	Pennsylvania	Juniata	Juniata, Pennsylvania, US
+2283	84042069	Pennsylvania	Lackawanna	Lackawanna, Pennsylvania, US
+2284	84042071	Pennsylvania	Lancaster	Lancaster, Pennsylvania, US
+2285	84042073	Pennsylvania	Lawrence	Lawrence, Pennsylvania, US
+2286	84042075	Pennsylvania	Lebanon	Lebanon, Pennsylvania, US
+2287	84042077	Pennsylvania	Lehigh	Lehigh, Pennsylvania, US
+2288	84042079	Pennsylvania	Luzerne	Luzerne, Pennsylvania, US
+2289	84042081	Pennsylvania	Lycoming	Lycoming, Pennsylvania, US
+2290	84042083	Pennsylvania	McKean	McKean,Pennsylvania,US
+2291	84042085	Pennsylvania	Mercer	Mercer, Pennsylvania, US
+2292	84042087	Pennsylvania	Mifflin	Mifflin, Pennsylvania, US
+2293	84042089	Pennsylvania	Monroe	Monroe, Pennsylvania, US
+2294	84042091	Pennsylvania	Montgomery	Montgomery, Pennsylvania, US
+2295	84042093	Pennsylvania	Montour	Montour, Pennsylvania, US
+2296	84042095	Pennsylvania	Northampton	Northampton, Pennsylvania, US
+2297	84042097	Pennsylvania	Northumberland	Northumberland, Pennsylvania, US
+2298	84042099	Pennsylvania	Perry	Perry, Pennsylvania, US
+2299	84042101	Pennsylvania	Philadelphia	Philadelphia, Pennsylvania, US
+2300	84042103	Pennsylvania	Pike	Pike, Pennsylvania, US
+2301	84042105	Pennsylvania	Potter	Potter, Pennsylvania, US
+2302	84042107	Pennsylvania	Schuylkill	Schuylkill, Pennsylvania, US
+2303	84042109	Pennsylvania	Snyder	Snyder, Pennsylvania, US
+2304	84042111	Pennsylvania	Somerset	Somerset, Pennsylvania, US
+2305	84042113	Pennsylvania	Sullivan	Sullivan, Pennsylvania, US
+2306	84042115	Pennsylvania	Susquehanna	Susquehanna, Pennsylvania, US
+2307	84042117	Pennsylvania	Tioga	Tioga, Pennsylvania, US
+2308	84042119	Pennsylvania	Union	Union, Pennsylvania, US
+2309	84042121	Pennsylvania	Venango	Venango, Pennsylvania, US
+2310	84042123	Pennsylvania	Warren	Warren, Pennsylvania, US
+2311	84042125	Pennsylvania	Washington	Washington, Pennsylvania, US
+2312	84042127	Pennsylvania	Wayne	Wayne, Pennsylvania, US
+2313	84042129	Pennsylvania	Westmoreland	Westmoreland, Pennsylvania, US
+2314	84042131	Pennsylvania	Wyoming	Wyoming, Pennsylvania, US
+2315	84042133	Pennsylvania	York	York, Pennsylvania, US
+2316	84044001	Rhode Island	Bristol	Bristol, Rhode Island, US
+2317	84044003	Rhode Island	Kent	Kent, Rhode Island, US
+2318	84044005	Rhode Island	Newport	Newport, Rhode Island, US
+2319	84044007	Rhode Island	Providence	Providence, Rhode Island, US
+2320	84044009	Rhode Island	Washington	Washington, Rhode Island, US
+2321	84045001	South Carolina	Abbeville	Abbeville, South Carolina, US
+2322	84045003	South Carolina	Aiken	Aiken, South Carolina, US
+2323	84045005	South Carolina	Allendale	Allendale, South Carolina, US
+2324	84045007	South Carolina	Anderson	Anderson, South Carolina, US
+2325	84045009	South Carolina	Bamberg	Bamberg, South Carolina, US
+2326	84045011	South Carolina	Barnwell	Barnwell, South Carolina, US
+2327	84045013	South Carolina	Beaufort	Beaufort, South Carolina, US
+2328	84045015	South Carolina	Berkeley	Berkeley, South Carolina, US
+2329	84045017	South Carolina	Calhoun	Calhoun, South Carolina, US
+2330	84045019	South Carolina	Charleston	Charleston, South Carolina, US
+2331	84045021	South Carolina	Cherokee	Cherokee, South Carolina, US
+2332	84045023	South Carolina	Chester	Chester, South Carolina, US
+2333	84045025	South Carolina	Chesterfield	Chesterfield, South Carolina, US
+2334	84045027	South Carolina	Clarendon	Clarendon, South Carolina, US
+2335	84045029	South Carolina	Colleton	Colleton, South Carolina, US
+2336	84045031	South Carolina	Darlington	Darlington, South Carolina, US
+2337	84045033	South Carolina	Dillon	Dillon, South Carolina, US
+2338	84045035	South Carolina	Dorchester	Dorchester, South Carolina, US
+2339	84045037	South Carolina	Edgefield	Edgefield, South Carolina, US
+2340	84045039	South Carolina	Fairfield	Fairfield, South Carolina, US
+2341	84045041	South Carolina	Florence	Florence, South Carolina, US
+2342	84045043	South Carolina	Georgetown	Georgetown, South Carolina, US
+2343	84045045	South Carolina	Greenville	Greenville, South Carolina, US
+2344	84045047	South Carolina	Greenwood	Greenwood, South Carolina, US
+2345	84045049	South Carolina	Hampton	Hampton, South Carolina, US
+2346	84045051	South Carolina	Horry	Horry, South Carolina, US
+2347	84045053	South Carolina	Jasper	Jasper, South Carolina, US
+2348	84045055	South Carolina	Kershaw	Kershaw, South Carolina, US
+2349	84045057	South Carolina	Lancaster	Lancaster, South Carolina, US
+2350	84045059	South Carolina	Laurens	Laurens, South Carolina, US
+2351	84045061	South Carolina	Lee	Lee, South Carolina, US
+2352	84045063	South Carolina	Lexington	Lexington, South Carolina, US
+2353	84045065	South Carolina	McCormick	McCormick, South Carolina, US
+2354	84045067	South Carolina	Marion	Marion, South Carolina, US
+2355	84045069	South Carolina	Marlboro	Marlboro, South Carolina, US
+2356	84045071	South Carolina	Newberry	Newberry, South Carolina, US
+2357	84045073	South Carolina	Oconee	Oconee, South Carolina, US
+2358	84045075	South Carolina	Orangeburg	Orangeburg, South Carolina, US
+2359	84045077	South Carolina	Pickens	Pickens, South Carolina, US
+2360	84045079	South Carolina	Richland	Richland, South Carolina, US
+2361	84045081	South Carolina	Saluda	Saluda, South Carolina, US
+2362	84045083	South Carolina	Spartanburg	Spartanburg, South Carolina, US
+2363	84045085	South Carolina	Sumter	Sumter, South Carolina, US
+2364	84045087	South Carolina	Union	Union, South Carolina, US
+2365	84045089	South Carolina	Williamsburg	Williamsburg, South Carolina, US
+2366	84045091	South Carolina	York	York, South Carolina, US
+2367	84046003	South Dakota	Aurora	Aurora, South Dakota, US
+2368	84046005	South Dakota	Beadle	Beadle, South Dakota, US
+2369	84046007	South Dakota	Bennett	Bennett, South Dakota, US
+2370	84046009	South Dakota	Bon Homme	Bon Homme, South Dakota, US
+2371	84046011	South Dakota	Brookings	Brookings, South Dakota, US
+2372	84046013	South Dakota	Brown	Brown, South Dakota, US
+2373	84046015	South Dakota	Brule	Brule, South Dakota, US
+2374	84046017	South Dakota	Buffalo	Buffalo, South Dakota, US
+2375	84046019	South Dakota	Butte	Butte, South Dakota, US
+2376	84046021	South Dakota	Campbell	Campbell, South Dakota, US
+2377	84046023	South Dakota	Charles Mix	Charles Mix, South Dakota, US
+2378	84046025	South Dakota	Clark	Clark, South Dakota, US
+2379	84046027	South Dakota	Clay	Clay, South Dakota, US
+2380	84046029	South Dakota	Codington	Codington, South Dakota, US
+2381	84046031	South Dakota	Corson	Corson, South Dakota, US
+2382	84046033	South Dakota	Custer	Custer, South Dakota, US
+2383	84046035	South Dakota	Davison	Davison, South Dakota, US
+2384	84046037	South Dakota	Day	Day, South Dakota, US
+2385	84046039	South Dakota	Deuel	Deuel, South Dakota, US
+2386	84046041	South Dakota	Dewey	Dewey, South Dakota, US
+2387	84046043	South Dakota	Douglas	Douglas, South Dakota, US
+2388	84046045	South Dakota	Edmunds	Edmunds, South Dakota, US
+2389	84046047	South Dakota	Fall River	Fall River, South Dakota, US
+2390	84046049	South Dakota	Faulk	Faulk, South Dakota, US
+2391	84046051	South Dakota	Grant	Grant, South Dakota, US
+2392	84046053	South Dakota	Gregory	Gregory, South Dakota, US
+2393	84046055	South Dakota	Haakon	Haakon, South Dakota, US
+2394	84046057	South Dakota	Hamlin	Hamlin, South Dakota, US
+2395	84046059	South Dakota	Hand	Hand, South Dakota, US
+2396	84046061	South Dakota	Hanson	Hanson, South Dakota, US
+2397	84046063	South Dakota	Harding	Harding, South Dakota, US
+2398	84046065	South Dakota	Hughes	Hughes, South Dakota, US
+2399	84046067	South Dakota	Hutchinson	Hutchinson, South Dakota, US
+2400	84046069	South Dakota	Hyde	Hyde, South Dakota, US
+2401	84046071	South Dakota	Jackson	Jackson, South Dakota, US
+2402	84046073	South Dakota	Jerauld	Jerauld, South Dakota, US
+2403	84046075	South Dakota	Jones	Jones, South Dakota, US
+2404	84046077	South Dakota	Kingsbury	Kingsbury, South Dakota, US
+2405	84046079	South Dakota	Lake	Lake, South Dakota, US
+2406	84046081	South Dakota	Lawrence	Lawrence, South Dakota, US
+2407	84046083	South Dakota	Lincoln	Lincoln, South Dakota, US
+2408	84046085	South Dakota	Lyman	Lyman, South Dakota, US
+2409	84046087	South Dakota	McCook	McCook, South Dakota, US
+2410	84046089	South Dakota	McPherson	McPherson, South Dakota, US
+2411	84046091	South Dakota	Marshall	Marshall, South Dakota, US
+2412	84046093	South Dakota	Meade	Meade, South Dakota, US
+2413	84046095	South Dakota	Mellette	Mellette, South Dakota, US
+2414	84046097	South Dakota	Miner	Miner, South Dakota, US
+2415	84046099	South Dakota	Minnehaha	Minnehaha, South Dakota, US
+2416	84046101	South Dakota	Moody	Moody, South Dakota, US
+2417	84046102	South Dakota	Oglala Lakota	Oglala Lakota, South Dakota, US
+2418	84046103	South Dakota	Pennington	Pennington, South Dakota, US
+2419	84046105	South Dakota	Perkins	Perkins, South Dakota, US
+2420	84046107	South Dakota	Potter	Potter, South Dakota, US
+2421	84046109	South Dakota	Roberts	Roberts, South Dakota, US
+2422	84046111	South Dakota	Sanborn	Sanborn, South Dakota, US
+2423	84046115	South Dakota	Spink	Spink, South Dakota, US
+2424	84046117	South Dakota	Stanley	Stanley, South Dakota, US
+2425	84046119	South Dakota	Sully	Sully, South Dakota, US
+2426	84046121	South Dakota	Todd	Todd, South Dakota, US
+2427	84046123	South Dakota	Tripp	Tripp, South Dakota, US
+2428	84046125	South Dakota	Turner	Turner, South Dakota, US
+2429	84046127	South Dakota	Union	Union, South Dakota, US
+2430	84046129	South Dakota	Walworth	Walworth, South Dakota, US
+2431	84046135	South Dakota	Yankton	Yankton, South Dakota, US
+2432	84046137	South Dakota	Ziebach	Ziebach, South Dakota, US
+2433	84047001	Tennessee	Anderson	Anderson, Tennessee, US
+2434	84047003	Tennessee	Bedford	Bedford, Tennessee, US
+2435	84047005	Tennessee	Benton	Benton, Tennessee, US
+2436	84047007	Tennessee	Bledsoe	Bledsoe, Tennessee, US
+2437	84047009	Tennessee	Blount	Blount, Tennessee, US
+2438	84047011	Tennessee	Bradley	Bradley, Tennessee, US
+2439	84047013	Tennessee	Campbell	Campbell, Tennessee, US
+2440	84047015	Tennessee	Cannon	Cannon, Tennessee, US
+2441	84047017	Tennessee	Carroll	Carroll, Tennessee, US
+2442	84047019	Tennessee	Carter	Carter, Tennessee, US
+2443	84047021	Tennessee	Cheatham	Cheatham, Tennessee, US
+2444	84047023	Tennessee	Chester	Chester, Tennessee, US
+2445	84047025	Tennessee	Claiborne	Claiborne, Tennessee, US
+2446	84047027	Tennessee	Clay	Clay, Tennessee, US
+2447	84047029	Tennessee	Cocke	Cocke, Tennessee, US
+2448	84047031	Tennessee	Coffee	Coffee, Tennessee, US
+2449	84047033	Tennessee	Crockett	Crockett, Tennessee, US
+2450	84047035	Tennessee	Cumberland	Cumberland, Tennessee, US
+2451	84047037	Tennessee	Davidson	Davidson, Tennessee, US
+2452	84047039	Tennessee	Decatur	Decatur, Tennessee, US
+2453	84047041	Tennessee	DeKalb	DeKalb,Tennessee,US
+2454	84047043	Tennessee	Dickson	Dickson, Tennessee, US
+2455	84047045	Tennessee	Dyer	Dyer, Tennessee, US
+2456	84047047	Tennessee	Fayette	Fayette, Tennessee, US
+2457	84047049	Tennessee	Fentress	Fentress, Tennessee, US
+2458	84047051	Tennessee	Franklin	Franklin, Tennessee, US
+2459	84047053	Tennessee	Gibson	Gibson, Tennessee, US
+2460	84047055	Tennessee	Giles	Giles, Tennessee, US
+2461	84047057	Tennessee	Grainger	Grainger, Tennessee, US
+2462	84047059	Tennessee	Greene	Greene, Tennessee, US
+2463	84047061	Tennessee	Grundy	Grundy, Tennessee, US
+2464	84047063	Tennessee	Hamblen	Hamblen, Tennessee, US
+2465	84047065	Tennessee	Hamilton	Hamilton, Tennessee, US
+2466	84047067	Tennessee	Hancock	Hancock, Tennessee, US
+2467	84047069	Tennessee	Hardeman	Hardeman, Tennessee, US
+2468	84047071	Tennessee	Hardin	Hardin, Tennessee, US
+2469	84047073	Tennessee	Hawkins	Hawkins, Tennessee, US
+2470	84047075	Tennessee	Haywood	Haywood, Tennessee, US
+2471	84047077	Tennessee	Henderson	Henderson, Tennessee, US
+2472	84047079	Tennessee	Henry	Henry, Tennessee, US
+2473	84047081	Tennessee	Hickman	Hickman, Tennessee, US
+2474	84047083	Tennessee	Houston	Houston, Tennessee, US
+2475	84047085	Tennessee	Humphreys	Humphreys, Tennessee, US
+2476	84047087	Tennessee	Jackson	Jackson, Tennessee, US
+2477	84047089	Tennessee	Jefferson	Jefferson, Tennessee, US
+2478	84047091	Tennessee	Johnson	Johnson, Tennessee, US
+2479	84047093	Tennessee	Knox	Knox, Tennessee, US
+2480	84047095	Tennessee	Lake	Lake, Tennessee, US
+2481	84047097	Tennessee	Lauderdale	Lauderdale, Tennessee, US
+2482	84047099	Tennessee	Lawrence	Lawrence, Tennessee, US
+2483	84047101	Tennessee	Lewis	Lewis, Tennessee, US
+2484	84047103	Tennessee	Lincoln	Lincoln, Tennessee, US
+2485	84047105	Tennessee	Loudon	Loudon, Tennessee, US
+2486	84047107	Tennessee	McMinn	McMinn, Tennessee, US
+2487	84047109	Tennessee	McNairy	McNairy, Tennessee, US
+2488	84047111	Tennessee	Macon	Macon, Tennessee, US
+2489	84047113	Tennessee	Madison	Madison, Tennessee, US
+2490	84047115	Tennessee	Marion	Marion, Tennessee, US
+2491	84047117	Tennessee	Marshall	Marshall, Tennessee, US
+2492	84047119	Tennessee	Maury	Maury, Tennessee, US
+2493	84047121	Tennessee	Meigs	Meigs, Tennessee, US
+2494	84047123	Tennessee	Monroe	Monroe, Tennessee, US
+2495	84047125	Tennessee	Montgomery	Montgomery, Tennessee, US
+2496	84047127	Tennessee	Moore	Moore, Tennessee, US
+2497	84047129	Tennessee	Morgan	Morgan, Tennessee, US
+2498	84047131	Tennessee	Obion	Obion, Tennessee, US
+2499	84047133	Tennessee	Overton	Overton, Tennessee, US
+2500	84047135	Tennessee	Perry	Perry, Tennessee, US
+2501	84047137	Tennessee	Pickett	Pickett, Tennessee, US
+2502	84047139	Tennessee	Polk	Polk, Tennessee, US
+2503	84047141	Tennessee	Putnam	Putnam, Tennessee, US
+2504	84047143	Tennessee	Rhea	Rhea, Tennessee, US
+2505	84047145	Tennessee	Roane	Roane, Tennessee, US
+2506	84047147	Tennessee	Robertson	Robertson, Tennessee, US
+2507	84047149	Tennessee	Rutherford	Rutherford, Tennessee, US
+2508	84047151	Tennessee	Scott	Scott, Tennessee, US
+2509	84047153	Tennessee	Sequatchie	Sequatchie, Tennessee, US
+2510	84047155	Tennessee	Sevier	Sevier, Tennessee, US
+2511	84047157	Tennessee	Shelby	Shelby, Tennessee, US
+2512	84047159	Tennessee	Smith	Smith, Tennessee, US
+2513	84047161	Tennessee	Stewart	Stewart, Tennessee, US
+2514	84047163	Tennessee	Sullivan	Sullivan, Tennessee, US
+2515	84047165	Tennessee	Sumner	Sumner, Tennessee, US
+2516	84047167	Tennessee	Tipton	Tipton, Tennessee, US
+2517	84047169	Tennessee	Trousdale	Trousdale, Tennessee, US
+2518	84047171	Tennessee	Unicoi	Unicoi, Tennessee, US
+2519	84047173	Tennessee	Union	Union, Tennessee, US
+2520	84047175	Tennessee	Van Buren	Van Buren, Tennessee, US
+2521	84047177	Tennessee	Warren	Warren, Tennessee, US
+2522	84047179	Tennessee	Washington	Washington, Tennessee, US
+2523	84047181	Tennessee	Wayne	Wayne, Tennessee, US
+2524	84047183	Tennessee	Weakley	Weakley, Tennessee, US
+2525	84047185	Tennessee	White	White, Tennessee, US
+2526	84047187	Tennessee	Williamson	Williamson, Tennessee, US
+2527	84047189	Tennessee	Wilson	Wilson, Tennessee, US
+2528	84048001	Texas	Anderson	Anderson, Texas, US
+2529	84048003	Texas	Andrews	Andrews, Texas, US
+2530	84048005	Texas	Angelina	Angelina, Texas, US
+2531	84048007	Texas	Aransas	Aransas, Texas, US
+2532	84048009	Texas	Archer	Archer, Texas, US
+2533	84048011	Texas	Armstrong	Armstrong, Texas, US
+2534	84048013	Texas	Atascosa	Atascosa, Texas, US
+2535	84048015	Texas	Austin	Austin, Texas, US
+2536	84048017	Texas	Bailey	Bailey, Texas, US
+2537	84048019	Texas	Bandera	Bandera, Texas, US
+2538	84048021	Texas	Bastrop	Bastrop, Texas, US
+2539	84048023	Texas	Baylor	Baylor, Texas, US
+2540	84048025	Texas	Bee	Bee, Texas, US
+2541	84048027	Texas	Bell	Bell, Texas, US
+2542	84048029	Texas	Bexar	Bexar, Texas, US
+2543	84048031	Texas	Blanco	Blanco, Texas, US
+2544	84048033	Texas	Borden	Borden, Texas, US
+2545	84048035	Texas	Bosque	Bosque, Texas, US
+2546	84048037	Texas	Bowie	Bowie, Texas, US
+2547	84048039	Texas	Brazoria	Brazoria, Texas, US
+2548	84048041	Texas	Brazos	Brazos, Texas, US
+2549	84048043	Texas	Brewster	Brewster, Texas, US
+2550	84048045	Texas	Briscoe	Briscoe, Texas, US
+2551	84048047	Texas	Brooks	Brooks, Texas, US
+2552	84048049	Texas	Brown	Brown, Texas, US
+2553	84048051	Texas	Burleson	Burleson, Texas, US
+2554	84048053	Texas	Burnet	Burnet, Texas, US
+2555	84048055	Texas	Caldwell	Caldwell, Texas, US
+2556	84048057	Texas	Calhoun	Calhoun, Texas, US
+2557	84048059	Texas	Callahan	Callahan, Texas, US
+2558	84048061	Texas	Cameron	Cameron, Texas, US
+2559	84048063	Texas	Camp	Camp, Texas, US
+2560	84048065	Texas	Carson	Carson, Texas, US
+2561	84048067	Texas	Cass	Cass, Texas, US
+2562	84048069	Texas	Castro	Castro, Texas, US
+2563	84048071	Texas	Chambers	Chambers, Texas, US
+2564	84048073	Texas	Cherokee	Cherokee, Texas, US
+2565	84048075	Texas	Childress	Childress, Texas, US
+2566	84048077	Texas	Clay	Clay, Texas, US
+2567	84048079	Texas	Cochran	Cochran, Texas, US
+2568	84048081	Texas	Coke	Coke, Texas, US
+2569	84048083	Texas	Coleman	Coleman, Texas, US
+2570	84048085	Texas	Collin	Collin, Texas, US
+2571	84048087	Texas	Collingsworth	Collingsworth, Texas, US
+2572	84048089	Texas	Colorado	Colorado, Texas, US
+2573	84048091	Texas	Comal	Comal, Texas, US
+2574	84048093	Texas	Comanche	Comanche, Texas, US
+2575	84048095	Texas	Concho	Concho, Texas, US
+2576	84048097	Texas	Cooke	Cooke, Texas, US
+2577	84048099	Texas	Coryell	Coryell, Texas, US
+2578	84048101	Texas	Cottle	Cottle, Texas, US
+2579	84048103	Texas	Crane	Crane, Texas, US
+2580	84048105	Texas	Crockett	Crockett, Texas, US
+2581	84048107	Texas	Crosby	Crosby, Texas, US
+2582	84048109	Texas	Culberson	Culberson, Texas, US
+2583	84048111	Texas	Dallam	Dallam, Texas, US
+2584	84048113	Texas	Dallas	Dallas, Texas, US
+2585	84048115	Texas	Dawson	Dawson, Texas, US
+2586	84048117	Texas	Deaf Smith	Deaf Smith, Texas, US
+2587	84048119	Texas	Delta	Delta, Texas, US
+2588	84048121	Texas	Denton	Denton, Texas, US
+2589	84048123	Texas	DeWitt	DeWitt, Texas, US
+2590	84048125	Texas	Dickens	Dickens, Texas, US
+2591	84048127	Texas	Dimmit	Dimmit, Texas, US
+2592	84048129	Texas	Donley	Donley, Texas, US
+2593	84048131	Texas	Duval	Duval, Texas, US
+2594	84048133	Texas	Eastland	Eastland, Texas, US
+2595	84048135	Texas	Ector	Ector, Texas, US
+2596	84048137	Texas	Edwards	Edwards, Texas, US
+2597	84048139	Texas	Ellis	Ellis, Texas, US
+2598	84048141	Texas	El Paso	El Paso, Texas, US
+2599	84048143	Texas	Erath	Erath, Texas, US
+2600	84048145	Texas	Falls	Falls, Texas, US
+2601	84048147	Texas	Fannin	Fannin, Texas, US
+2602	84048149	Texas	Fayette	Fayette, Texas, US
+2603	84048151	Texas	Fisher	Fisher, Texas, US
+2604	84048153	Texas	Floyd	Floyd, Texas, US
+2605	84048155	Texas	Foard	Foard, Texas, US
+2606	84048157	Texas	Fort Bend	Fort Bend, Texas, US
+2607	84048159	Texas	Franklin	Franklin, Texas, US
+2608	84048161	Texas	Freestone	Freestone, Texas, US
+2609	84048163	Texas	Frio	Frio, Texas, US
+2610	84048165	Texas	Gaines	Gaines, Texas, US
+2611	84048167	Texas	Galveston	Galveston, Texas, US
+2612	84048169	Texas	Garza	Garza, Texas, US
+2613	84048171	Texas	Gillespie	Gillespie, Texas, US
+2614	84048173	Texas	Glasscock	Glasscock, Texas, US
+2615	84048175	Texas	Goliad	Goliad, Texas, US
+2616	84048177	Texas	Gonzales	Gonzales, Texas, US
+2617	84048179	Texas	Gray	Gray, Texas, US
+2618	84048181	Texas	Grayson	Grayson, Texas, US
+2619	84048183	Texas	Gregg	Gregg, Texas, US
+2620	84048185	Texas	Grimes	Grimes, Texas, US
+2621	84048187	Texas	Guadalupe	Guadalupe, Texas, US
+2622	84048189	Texas	Hale	Hale, Texas, US
+2623	84048191	Texas	Hall	Hall, Texas, US
+2624	84048193	Texas	Hamilton	Hamilton, Texas, US
+2625	84048195	Texas	Hansford	Hansford, Texas, US
+2626	84048197	Texas	Hardeman	Hardeman, Texas, US
+2627	84048199	Texas	Hardin	Hardin, Texas, US
+2628	84048201	Texas	Harris	Harris, Texas, US
+2629	84048203	Texas	Harrison	Harrison, Texas, US
+2630	84048205	Texas	Hartley	Hartley, Texas, US
+2631	84048207	Texas	Haskell	Haskell, Texas, US
+2632	84048209	Texas	Hays	Hays, Texas, US
+2633	84048211	Texas	Hemphill	Hemphill, Texas, US
+2634	84048213	Texas	Henderson	Henderson, Texas, US
+2635	84048215	Texas	Hidalgo	Hidalgo, Texas, US
+2636	84048217	Texas	Hill	Hill, Texas, US
+2637	84048219	Texas	Hockley	Hockley, Texas, US
+2638	84048221	Texas	Hood	Hood, Texas, US
+2639	84048223	Texas	Hopkins	Hopkins, Texas, US
+2640	84048225	Texas	Houston	Houston, Texas, US
+2641	84048227	Texas	Howard	Howard, Texas, US
+2642	84048229	Texas	Hudspeth	Hudspeth, Texas, US
+2643	84048231	Texas	Hunt	Hunt, Texas, US
+2644	84048233	Texas	Hutchinson	Hutchinson, Texas, US
+2645	84048235	Texas	Irion	Irion, Texas, US
+2646	84048237	Texas	Jack	Jack, Texas, US
+2647	84048239	Texas	Jackson	Jackson, Texas, US
+2648	84048241	Texas	Jasper	Jasper, Texas, US
+2649	84048243	Texas	Jeff Davis	Jeff Davis, Texas, US
+2650	84048245	Texas	Jefferson	Jefferson, Texas, US
+2651	84048247	Texas	Jim Hogg	Jim Hogg, Texas, US
+2652	84048249	Texas	Jim Wells	Jim Wells, Texas, US
+2653	84048251	Texas	Johnson	Johnson, Texas, US
+2654	84048253	Texas	Jones	Jones, Texas, US
+2655	84048255	Texas	Karnes	Karnes, Texas, US
+2656	84048257	Texas	Kaufman	Kaufman, Texas, US
+2657	84048259	Texas	Kendall	Kendall, Texas, US
+2658	84048261	Texas	Kenedy	Kenedy, Texas, US
+2659	84048263	Texas	Kent	Kent, Texas, US
+2660	84048265	Texas	Kerr	Kerr, Texas, US
+2661	84048267	Texas	Kimble	Kimble, Texas, US
+2662	84048269	Texas	King	King, Texas, US
+2663	84048271	Texas	Kinney	Kinney, Texas, US
+2664	84048273	Texas	Kleberg	Kleberg, Texas, US
+2665	84048275	Texas	Knox	Knox, Texas, US
+2666	84048277	Texas	Lamar	Lamar, Texas, US
+2667	84048279	Texas	Lamb	Lamb, Texas, US
+2668	84048281	Texas	Lampasas	Lampasas, Texas, US
+2669	84048283	Texas	La Salle	La Salle, Texas, US
+2670	84048285	Texas	Lavaca	Lavaca, Texas, US
+2671	84048287	Texas	Lee	Lee, Texas, US
+2672	84048289	Texas	Leon	Leon, Texas, US
+2673	84048291	Texas	Liberty	Liberty, Texas, US
+2674	84048293	Texas	Limestone	Limestone, Texas, US
+2675	84048295	Texas	Lipscomb	Lipscomb, Texas, US
+2676	84048297	Texas	Live Oak	Live Oak, Texas, US
+2677	84048299	Texas	Llano	Llano, Texas, US
+2678	84048301	Texas	Loving	Loving, Texas, US
+2679	84048303	Texas	Lubbock	Lubbock, Texas, US
+2680	84048305	Texas	Lynn	Lynn, Texas, US
+2681	84048307	Texas	McCulloch	McCulloch, Texas, US
+2682	84048309	Texas	McLennan	McLennan, Texas, US
+2683	84048311	Texas	McMullen	McMullen, Texas, US
+2684	84048313	Texas	Madison	Madison, Texas, US
+2685	84048315	Texas	Marion	Marion, Texas, US
+2686	84048317	Texas	Martin	Martin, Texas, US
+2687	84048319	Texas	Mason	Mason, Texas, US
+2688	84048321	Texas	Matagorda	Matagorda, Texas, US
+2689	84048323	Texas	Maverick	Maverick, Texas, US
+2690	84048325	Texas	Medina	Medina, Texas, US
+2691	84048327	Texas	Menard	Menard, Texas, US
+2692	84048329	Texas	Midland	Midland, Texas, US
+2693	84048331	Texas	Milam	Milam, Texas, US
+2694	84048333	Texas	Mills	Mills, Texas, US
+2695	84048335	Texas	Mitchell	Mitchell, Texas, US
+2696	84048337	Texas	Montague	Montague, Texas, US
+2697	84048339	Texas	Montgomery	Montgomery, Texas, US
+2698	84048341	Texas	Moore	Moore, Texas, US
+2699	84048343	Texas	Morris	Morris, Texas, US
+2700	84048345	Texas	Motley	Motley, Texas, US
+2701	84048347	Texas	Nacogdoches	Nacogdoches, Texas, US
+2702	84048349	Texas	Navarro	Navarro, Texas, US
+2703	84048351	Texas	Newton	Newton, Texas, US
+2704	84048353	Texas	Nolan	Nolan, Texas, US
+2705	84048355	Texas	Nueces	Nueces, Texas, US
+2706	84048357	Texas	Ochiltree	Ochiltree, Texas, US
+2707	84048359	Texas	Oldham	Oldham, Texas, US
+2708	84048361	Texas	Orange	Orange, Texas, US
+2709	84048363	Texas	Palo Pinto	Palo Pinto, Texas, US
+2710	84048365	Texas	Panola	Panola, Texas, US
+2711	84048367	Texas	Parker	Parker, Texas, US
+2712	84048369	Texas	Parmer	Parmer, Texas, US
+2713	84048371	Texas	Pecos	Pecos, Texas, US
+2714	84048373	Texas	Polk	Polk, Texas, US
+2715	84048375	Texas	Potter	Potter, Texas, US
+2716	84048377	Texas	Presidio	Presidio, Texas, US
+2717	84048379	Texas	Rains	Rains, Texas, US
+2718	84048381	Texas	Randall	Randall, Texas, US
+2719	84048383	Texas	Reagan	Reagan, Texas, US
+2720	84048385	Texas	Real	Real, Texas, US
+2721	84048387	Texas	Red River	Red River, Texas, US
+2722	84048389	Texas	Reeves	Reeves, Texas, US
+2723	84048391	Texas	Refugio	Refugio, Texas, US
+2724	84048393	Texas	Roberts	Roberts, Texas, US
+2725	84048395	Texas	Robertson	Robertson, Texas, US
+2726	84048397	Texas	Rockwall	Rockwall, Texas, US
+2727	84048399	Texas	Runnels	Runnels, Texas, US
+2728	84048401	Texas	Rusk	Rusk, Texas, US
+2729	84048403	Texas	Sabine	Sabine, Texas, US
+2730	84048405	Texas	San Augustine	San Augustine, Texas, US
+2731	84048407	Texas	San Jacinto	San Jacinto, Texas, US
+2732	84048409	Texas	San Patricio	San Patricio, Texas, US
+2733	84048411	Texas	San Saba	San Saba, Texas, US
+2734	84048413	Texas	Schleicher	Schleicher, Texas, US
+2735	84048415	Texas	Scurry	Scurry, Texas, US
+2736	84048417	Texas	Shackelford	Shackelford, Texas, US
+2737	84048419	Texas	Shelby	Shelby, Texas, US
+2738	84048421	Texas	Sherman	Sherman, Texas, US
+2739	84048423	Texas	Smith	Smith, Texas, US
+2740	84048425	Texas	Somervell	Somervell, Texas, US
+2741	84048427	Texas	Starr	Starr, Texas, US
+2742	84048429	Texas	Stephens	Stephens, Texas, US
+2743	84048431	Texas	Sterling	Sterling, Texas, US
+2744	84048433	Texas	Stonewall	Stonewall, Texas, US
+2745	84048435	Texas	Sutton	Sutton, Texas, US
+2746	84048437	Texas	Swisher	Swisher, Texas, US
+2747	84048439	Texas	Tarrant	Tarrant, Texas, US
+2748	84048441	Texas	Taylor	Taylor, Texas, US
+2749	84048443	Texas	Terrell	Terrell, Texas, US
+2750	84048445	Texas	Terry	Terry, Texas, US
+2751	84048447	Texas	Throckmorton	Throckmorton, Texas, US
+2752	84048449	Texas	Titus	Titus, Texas, US
+2753	84048451	Texas	Tom Green	Tom Green, Texas, US
+2754	84048453	Texas	Travis	Travis, Texas, US
+2755	84048455	Texas	Trinity	Trinity, Texas, US
+2756	84048457	Texas	Tyler	Tyler, Texas, US
+2757	84048459	Texas	Upshur	Upshur, Texas, US
+2758	84048461	Texas	Upton	Upton, Texas, US
+2759	84048463	Texas	Uvalde	Uvalde, Texas, US
+2760	84048465	Texas	Val Verde	Val Verde, Texas, US
+2761	84048467	Texas	Van Zandt	Van Zandt, Texas, US
+2762	84048469	Texas	Victoria	Victoria, Texas, US
+2763	84048471	Texas	Walker	Walker, Texas, US
+2764	84048473	Texas	Waller	Waller, Texas, US
+2765	84048475	Texas	Ward	Ward, Texas, US
+2766	84048477	Texas	Washington	Washington, Texas, US
+2767	84048479	Texas	Webb	Webb, Texas, US
+2768	84048481	Texas	Wharton	Wharton, Texas, US
+2769	84048483	Texas	Wheeler	Wheeler, Texas, US
+2770	84048485	Texas	Wichita	Wichita, Texas, US
+2771	84048487	Texas	Wilbarger	Wilbarger, Texas, US
+2772	84048489	Texas	Willacy	Willacy, Texas, US
+2773	84048491	Texas	Williamson	Williamson, Texas, US
+2774	84048493	Texas	Wilson	Wilson, Texas, US
+2775	84048495	Texas	Winkler	Winkler, Texas, US
+2776	84048497	Texas	Wise	Wise, Texas, US
+2777	84048499	Texas	Wood	Wood, Texas, US
+2778	84048501	Texas	Yoakum	Yoakum, Texas, US
+2779	84048503	Texas	Young	Young, Texas, US
+2780	84048505	Texas	Zapata	Zapata, Texas, US
+2781	84048507	Texas	Zavala	Zavala, Texas, US
+2782	84049001	Utah	Beaver	Beaver, Utah, US
+2783	84049003	Utah	Box Elder	Box Elder, Utah, US
+2784	84049005	Utah	Cache	Cache, Utah, US
+2785	84049007	Utah	Carbon	Carbon, Utah, US
+2786	84049009	Utah	Daggett	Daggett, Utah, US
+2787	84049011	Utah	Davis	Davis, Utah, US
+2788	84049013	Utah	Duchesne	Duchesne, Utah, US
+2789	84049015	Utah	Emery	Emery, Utah, US
+2790	84049017	Utah	Garfield	Garfield, Utah, US
+2791	84049019	Utah	Grand	Grand, Utah, US
+2792	84049021	Utah	Iron	Iron, Utah, US
+2793	84049023	Utah	Juab	Juab, Utah, US
+2794	84049025	Utah	Kane	Kane, Utah, US
+2795	84049027	Utah	Millard	Millard, Utah, US
+2796	84049029	Utah	Morgan	Morgan, Utah, US
+2797	84049031	Utah	Piute	Piute, Utah, US
+2798	84049033	Utah	Rich	Rich, Utah, US
+2799	84049035	Utah	Salt Lake	Salt Lake, Utah, US
+2800	84049037	Utah	San Juan	San Juan, Utah, US
+2801	84049039	Utah	Sanpete	Sanpete, Utah, US
+2802	84049041	Utah	Sevier	Sevier, Utah, US
+2803	84049043	Utah	Summit	Summit, Utah, US
+2804	84049045	Utah	Tooele	Tooele, Utah, US
+2805	84049047	Utah	Uintah	Uintah, Utah, US
+2806	84049049	Utah	Utah	Utah, Utah, US
+2807	84049051	Utah	Wasatch	Wasatch, Utah, US
+2808	84049053	Utah	Washington	Washington,Utah,US
+2809	84049055	Utah	Wayne	Wayne, Utah, US
+2810	84049057	Utah	Weber	Weber,Utah,US
+2811	84050001	Vermont	Addison	Addison, Vermont, US
+2812	84050003	Vermont	Bennington	Bennington, Vermont, US
+2813	84050005	Vermont	Caledonia	Caledonia, Vermont, US
+2814	84050007	Vermont	Chittenden	Chittenden, Vermont, US
+2815	84050009	Vermont	Essex	Essex, Vermont, US
+2816	84050011	Vermont	Franklin	Franklin, Vermont, US
+2817	84050013	Vermont	Grand Isle	Grand Isle, Vermont, US
+2818	84050015	Vermont	Lamoille	Lamoille, Vermont, US
+2819	84050017	Vermont	Orange	Orange, Vermont, US
+2820	84050019	Vermont	Orleans	Orleans, Vermont, US
+2821	84050021	Vermont	Rutland	Rutland, Vermont, US
+2822	84050023	Vermont	Washington	Washington, Vermont, US
+2823	84050025	Vermont	Windham	Windham, Vermont, US
+2824	84050027	Vermont	Windsor	Windsor, Vermont, US
+2825	84051001	Virginia	Accomack	Accomack, Virginia, US
+2826	84051003	Virginia	Albemarle	Albemarle, Virginia, US
+2827	84051005	Virginia	Alleghany	Alleghany, Virginia, US
+2828	84051007	Virginia	Amelia	Amelia, Virginia, US
+2829	84051009	Virginia	Amherst	Amherst, Virginia, US
+2830	84051011	Virginia	Appomattox	Appomattox, Virginia, US
+2831	84051013	Virginia	Arlington	Arlington, Virginia, US
+2832	84051015	Virginia	Augusta	Augusta, Virginia, US
+2833	84051017	Virginia	Bath	Bath, Virginia, US
+2834	84051019	Virginia	Bedford	Bedford, Virginia, US
+2835	84051021	Virginia	Bland	Bland, Virginia, US
+2836	84051023	Virginia	Botetourt	Botetourt, Virginia, US
+2837	84051025	Virginia	Brunswick	Brunswick, Virginia, US
+2838	84051027	Virginia	Buchanan	Buchanan, Virginia, US
+2839	84051029	Virginia	Buckingham	Buckingham, Virginia, US
+2840	84051031	Virginia	Campbell	Campbell, Virginia, US
+2841	84051033	Virginia	Caroline	Caroline, Virginia, US
+2842	84051035	Virginia	Carroll	Carroll, Virginia, US
+2843	84051036	Virginia	Charles City	Charles City, Virginia, US
+2844	84051037	Virginia	Charlotte	Charlotte, Virginia, US
+2845	84051041	Virginia	Chesterfield	Chesterfield, Virginia, US
+2846	84051043	Virginia	Clarke	Clarke, Virginia, US
+2847	84051045	Virginia	Craig	Craig, Virginia, US
+2848	84051047	Virginia	Culpeper	Culpeper, Virginia, US
+2849	84051049	Virginia	Cumberland	Cumberland, Virginia, US
+2850	84051051	Virginia	Dickenson	Dickenson, Virginia, US
+2851	84051053	Virginia	Dinwiddie	Dinwiddie, Virginia, US
+2852	84051057	Virginia	Essex	Essex, Virginia, US
+2853	84051059	Virginia	Fairfax	Fairfax, Virginia, US
+2854	84051061	Virginia	Fauquier	Fauquier, Virginia, US
+2855	84051063	Virginia	Floyd	Floyd, Virginia, US
+2856	84051065	Virginia	Fluvanna	Fluvanna, Virginia, US
+2857	84051067	Virginia	Franklin	Franklin, Virginia, US
+2858	84051069	Virginia	Frederick	Frederick, Virginia, US
+2859	84051071	Virginia	Giles	Giles, Virginia, US
+2860	84051073	Virginia	Gloucester	Gloucester, Virginia, US
+2861	84051075	Virginia	Goochland	Goochland, Virginia, US
+2862	84051077	Virginia	Grayson	Grayson, Virginia, US
+2863	84051079	Virginia	Greene	Greene, Virginia, US
+2864	84051081	Virginia	Greensville	Greensville, Virginia, US
+2865	84051083	Virginia	Halifax	Halifax, Virginia, US
+2866	84051085	Virginia	Hanover	Hanover, Virginia, US
+2867	84051087	Virginia	Henrico	Henrico, Virginia, US
+2868	84051089	Virginia	Henry	Henry, Virginia, US
+2869	84051091	Virginia	Highland	Highland, Virginia, US
+2870	84051093	Virginia	Isle of Wight	Isle of Wight, Virginia, US
+2871	84051095	Virginia	James City	James City, Virginia, US
+2872	84051097	Virginia	King and Queen	King and Queen, Virginia, US
+2873	84051099	Virginia	King George	King George, Virginia, US
+2874	84051101	Virginia	King William	King William, Virginia, US
+2875	84051103	Virginia	Lancaster	Lancaster, Virginia, US
+2876	84051105	Virginia	Lee	Lee, Virginia, US
+2877	84051107	Virginia	Loudoun	Loudoun, Virginia, US
+2878	84051109	Virginia	Louisa	Louisa, Virginia, US
+2879	84051111	Virginia	Lunenburg	Lunenburg, Virginia, US
+2880	84051113	Virginia	Madison	Madison, Virginia, US
+2881	84051115	Virginia	Mathews	Mathews, Virginia, US
+2882	84051117	Virginia	Mecklenburg	Mecklenburg, Virginia, US
+2883	84051119	Virginia	Middlesex	Middlesex, Virginia, US
+2884	84051121	Virginia	Montgomery	Montgomery, Virginia, US
+2885	84051125	Virginia	Nelson	Nelson, Virginia, US
+2886	84051127	Virginia	New Kent	New Kent, Virginia, US
+2887	84051131	Virginia	Northampton	Northampton, Virginia, US
+2888	84051133	Virginia	Northumberland	Northumberland, Virginia, US
+2889	84051135	Virginia	Nottoway	Nottoway, Virginia, US
+2890	84051137	Virginia	Orange	Orange, Virginia, US
+2891	84051139	Virginia	Page	Page, Virginia, US
+2892	84051141	Virginia	Patrick	Patrick, Virginia, US
+2893	84051143	Virginia	Pittsylvania	Pittsylvania, Virginia, US
+2894	84051145	Virginia	Powhatan	Powhatan, Virginia, US
+2895	84051147	Virginia	Prince Edward	Prince Edward, Virginia, US
+2896	84051149	Virginia	Prince George	Prince George, Virginia, US
+2897	84051153	Virginia	Prince William	Prince William, Virginia, US
+2898	84051155	Virginia	Pulaski	Pulaski, Virginia, US
+2899	84051157	Virginia	Rappahannock	Rappahannock, Virginia, US
+2900	84051159	Virginia	Richmond	Richmond, Virginia, US
+2901	84051161	Virginia	Roanoke	Roanoke, Virginia, US
+2902	84051163	Virginia	Rockbridge	Rockbridge, Virginia, US
+2903	84051165	Virginia	Rockingham	Rockingham, Virginia, US
+2904	84051167	Virginia	Russell	Russell, Virginia, US
+2905	84051169	Virginia	Scott	Scott, Virginia, US
+2906	84051171	Virginia	Shenandoah	Shenandoah, Virginia, US
+2907	84051173	Virginia	Smyth	Smyth, Virginia, US
+2908	84051175	Virginia	Southampton	Southampton, Virginia, US
+2909	84051177	Virginia	Spotsylvania	Spotsylvania, Virginia, US
+2910	84051179	Virginia	Stafford	Stafford, Virginia, US
+2911	84051181	Virginia	Surry	Surry, Virginia, US
+2912	84051183	Virginia	Sussex	Sussex, Virginia, US
+2913	84051185	Virginia	Tazewell	Tazewell, Virginia, US
+2914	84051187	Virginia	Warren	Warren, Virginia, US
+2915	84051191	Virginia	Washington	Washington, Virginia, US
+2916	84051193	Virginia	Westmoreland	Westmoreland, Virginia, US
+2917	84051195	Virginia	Wise	Wise, Virginia, US
+2918	84051197	Virginia	Wythe	Wythe, Virginia, US
+2919	84051199	Virginia	York	York, Virginia, US
+2920	84051510	Virginia	Alexandria	Alexandria, Virginia, US
+2921	84051520	Virginia	Bristol	Bristol, Virginia, US
+2922	84051530	Virginia	Buena Vista	Buena Vista, Virginia, US
+2923	84051540	Virginia	Charlottesville	Charlottesville, Virginia, US
+2924	84051550	Virginia	Chesapeake	Chesapeake, Virginia, US
+2925	84051570	Virginia	Colonial Heights	Colonial Heights, Virginia, US
+2926	84051580	Virginia	Covington	Covington, Virginia, US
+2927	84051590	Virginia	Danville	Danville, Virginia, US
+2928	84051595	Virginia	Emporia	Emporia, Virginia, US
+2929	84051600	Virginia	Fairfax City	Fairfax City, Virginia, US
+2930	84051610	Virginia	Falls Church	Falls Church, Virginia, US
+2931	84051620	Virginia	Franklin City	Franklin City, Virginia, US
+2932	84051630	Virginia	Fredericksburg	Fredericksburg, Virginia, US
+2933	84051640	Virginia	Galax	Galax, Virginia, US
+2934	84051650	Virginia	Hampton	Hampton, Virginia, US
+2935	84051660	Virginia	Harrisonburg	Harrisonburg, Virginia, US
+2936	84051670	Virginia	Hopewell	Hopewell, Virginia, US
+2937	84051678	Virginia	Lexington	Lexington, Virginia, US
+2938	84051680	Virginia	Lynchburg	Lynchburg, Virginia, US
+2939	84051683	Virginia	Manassas	Manassas,Virginia,US
+2940	84051685	Virginia	Manassas Park	Manassas Park, Virginia, US
+2941	84051690	Virginia	Martinsville	Martinsville, Virginia, US
+2942	84051700	Virginia	Newport News	Newport News, Virginia, US
+2943	84051710	Virginia	Norfolk	Norfolk, Virginia, US
+2944	84051720	Virginia	Norton	Norton, Virginia, US
+2945	84051730	Virginia	Petersburg	Petersburg, Virginia, US
+2946	84051735	Virginia	Poquoson	Poquoson, Virginia, US
+2947	84051740	Virginia	Portsmouth	Portsmouth, Virginia, US
+2948	84051750	Virginia	Radford	Radford, Virginia, US
+2949	84051760	Virginia	Richmond City	Richmond City, Virginia, US
+2950	84051770	Virginia	Roanoke City	Roanoke City, Virginia, US
+2951	84051775	Virginia	Salem	Salem, Virginia, US
+2952	84051790	Virginia	Staunton	Staunton, Virginia, US
+2953	84051800	Virginia	Suffolk	Suffolk, Virginia, US
+2954	84051810	Virginia	Virginia Beach	Virginia Beach, Virginia, US
+2955	84051820	Virginia	Waynesboro	Waynesboro, Virginia, US
+2956	84051830	Virginia	Williamsburg	Williamsburg, Virginia, US
+2957	84051840	Virginia	Winchester	Winchester, Virginia, US
+2958	84053001	Washington	Adams	Adams, Washington, US
+2959	84053003	Washington	Asotin	Asotin, Washington, US
+2960	84053005	Washington	Benton	Benton, Washington, US
+2961	84053007	Washington	Chelan	Chelan, Washington, US
+2962	84053009	Washington	Clallam	Clallam, Washington, US
+2963	84053011	Washington	Clark	Clark, Washington, US
+2964	84053013	Washington	Columbia	Columbia, Washington, US
+2965	84053015	Washington	Cowlitz	Cowlitz, Washington, US
+2966	84053017	Washington	Douglas	Douglas, Washington, US
+2967	84053019	Washington	Ferry	Ferry, Washington, US
+2968	84053021	Washington	Franklin	Franklin, Washington, US
+2969	84053023	Washington	Garfield	Garfield, Washington, US
+2970	84053025	Washington	Grant	Grant, Washington, US
+2971	84053027	Washington	Grays Harbor	Grays Harbor, Washington, US
+2972	84053029	Washington	Island	Island, Washington, US
+2973	84053031	Washington	Jefferson	Jefferson, Washington, US
+2974	84053033	Washington	King	King, Washington, US
+2975	84053035	Washington	Kitsap	Kitsap, Washington, US
+2976	84053037	Washington	Kittitas	Kittitas, Washington, US
+2977	84053039	Washington	Klickitat	Klickitat, Washington, US
+2978	84053041	Washington	Lewis	Lewis, Washington, US
+2979	84053043	Washington	Lincoln	Lincoln, Washington, US
+2980	84053045	Washington	Mason	Mason, Washington, US
+2981	84053047	Washington	Okanogan	Okanogan, Washington, US
+2982	84053049	Washington	Pacific	Pacific, Washington, US
+2983	84053051	Washington	Pend Oreille	Pend Oreille, Washington, US
+2984	84053053	Washington	Pierce	Pierce, Washington, US
+2985	84053055	Washington	San Juan	San Juan, Washington, US
+2986	84053057	Washington	Skagit	Skagit, Washington, US
+2987	84053059	Washington	Skamania	Skamania, Washington, US
+2988	84053061	Washington	Snohomish	Snohomish, Washington, US
+2989	84053063	Washington	Spokane	Spokane, Washington, US
+2990	84053065	Washington	Stevens	Stevens, Washington, US
+2991	84053067	Washington	Thurston	Thurston, Washington, US
+2992	84053069	Washington	Wahkiakum	Wahkiakum, Washington, US
+2993	84053071	Washington	Walla Walla	Walla Walla, Washington, US
+2994	84053073	Washington	Whatcom	Whatcom, Washington, US
+2995	84053075	Washington	Whitman	Whitman, Washington, US
+2996	84053077	Washington	Yakima	Yakima, Washington, US
+2997	84054001	West Virginia	Barbour	Barbour, West Virginia, US
+2998	84054003	West Virginia	Berkeley	Berkeley, West Virginia, US
+2999	84054005	West Virginia	Boone	Boone, West Virginia, US
+3000	84054007	West Virginia	Braxton	Braxton, West Virginia, US
+3001	84054009	West Virginia	Brooke	Brooke, West Virginia, US
+3002	84054011	West Virginia	Cabell	Cabell, West Virginia, US
+3003	84054013	West Virginia	Calhoun	Calhoun, West Virginia, US
+3004	84054015	West Virginia	Clay	Clay, West Virginia, US
+3005	84054017	West Virginia	Doddridge	Doddridge, West Virginia, US
+3006	84054019	West Virginia	Fayette	Fayette, West Virginia, US
+3007	84054021	West Virginia	Gilmer	Gilmer, West Virginia, US
+3008	84054023	West Virginia	Grant	Grant, West Virginia, US
+3009	84054025	West Virginia	Greenbrier	Greenbrier, West Virginia, US
+3010	84054027	West Virginia	Hampshire	Hampshire, West Virginia, US
+3011	84054029	West Virginia	Hancock	Hancock, West Virginia, US
+3012	84054031	West Virginia	Hardy	Hardy, West Virginia, US
+3013	84054033	West Virginia	Harrison	Harrison, West Virginia, US
+3014	84054035	West Virginia	Jackson	Jackson, West Virginia, US
+3015	84054037	West Virginia	Jefferson	Jefferson, West Virginia, US
+3016	84054039	West Virginia	Kanawha	Kanawha, West Virginia, US
+3017	84054041	West Virginia	Lewis	Lewis, West Virginia, US
+3018	84054043	West Virginia	Lincoln	Lincoln, West Virginia, US
+3019	84054045	West Virginia	Logan	Logan, West Virginia, US
+3020	84054047	West Virginia	McDowell	McDowell, West Virginia, US
+3021	84054049	West Virginia	Marion	Marion, West Virginia, US
+3022	84054051	West Virginia	Marshall	Marshall, West Virginia, US
+3023	84054053	West Virginia	Mason	Mason, West Virginia, US
+3024	84054055	West Virginia	Mercer	Mercer, West Virginia, US
+3025	84054057	West Virginia	Mineral	Mineral, West Virginia, US
+3026	84054059	West Virginia	Mingo	Mingo, West Virginia, US
+3027	84054061	West Virginia	Monongalia	Monongalia, West Virginia, US
+3028	84054063	West Virginia	Monroe	Monroe, West Virginia, US
+3029	84054065	West Virginia	Morgan	Morgan, West Virginia, US
+3030	84054067	West Virginia	Nicholas	Nicholas, West Virginia, US
+3031	84054069	West Virginia	Ohio	Ohio, West Virginia, US
+3032	84054071	West Virginia	Pendleton	Pendleton, West Virginia, US
+3033	84054073	West Virginia	Pleasants	Pleasants, West Virginia, US
+3034	84054075	West Virginia	Pocahontas	Pocahontas, West Virginia, US
+3035	84054077	West Virginia	Preston	Preston, West Virginia, US
+3036	84054079	West Virginia	Putnam	Putnam, West Virginia, US
+3037	84054081	West Virginia	Raleigh	Raleigh, West Virginia, US
+3038	84054083	West Virginia	Randolph	Randolph, West Virginia, US
+3039	84054085	West Virginia	Ritchie	Ritchie, West Virginia, US
+3040	84054087	West Virginia	Roane	Roane, West Virginia, US
+3041	84054089	West Virginia	Summers	Summers, West Virginia, US
+3042	84054091	West Virginia	Taylor	Taylor, West Virginia, US
+3043	84054093	West Virginia	Tucker	Tucker, West Virginia, US
+3044	84054095	West Virginia	Tyler	Tyler, West Virginia, US
+3045	84054097	West Virginia	Upshur	Upshur, West Virginia, US
+3046	84054099	West Virginia	Wayne	Wayne, West Virginia, US
+3047	84054101	West Virginia	Webster	Webster, West Virginia, US
+3048	84054103	West Virginia	Wetzel	Wetzel, West Virginia, US
+3049	84054105	West Virginia	Wirt	Wirt, West Virginia, US
+3050	84054107	West Virginia	Wood	Wood, West Virginia, US
+3051	84054109	West Virginia	Wyoming	Wyoming, West Virginia, US
+3052	84055001	Wisconsin	Adams	Adams, Wisconsin, US
+3053	84055003	Wisconsin	Ashland	Ashland, Wisconsin, US
+3054	84055005	Wisconsin	Barron	Barron, Wisconsin, US
+3055	84055007	Wisconsin	Bayfield	Bayfield, Wisconsin, US
+3056	84055009	Wisconsin	Brown	Brown, Wisconsin, US
+3057	84055011	Wisconsin	Buffalo	Buffalo, Wisconsin, US
+3058	84055013	Wisconsin	Burnett	Burnett, Wisconsin, US
+3059	84055015	Wisconsin	Calumet	Calumet, Wisconsin, US
+3060	84055017	Wisconsin	Chippewa	Chippewa, Wisconsin, US
+3061	84055019	Wisconsin	Clark	Clark, Wisconsin, US
+3062	84055021	Wisconsin	Columbia	Columbia, Wisconsin, US
+3063	84055023	Wisconsin	Crawford	Crawford, Wisconsin, US
+3064	84055025	Wisconsin	Dane	Dane, Wisconsin, US
+3065	84055027	Wisconsin	Dodge	Dodge, Wisconsin, US
+3066	84055029	Wisconsin	Door	Door, Wisconsin, US
+3067	84055031	Wisconsin	Douglas	Douglas, Wisconsin, US
+3068	84055033	Wisconsin	Dunn	Dunn, Wisconsin, US
+3069	84055035	Wisconsin	Eau Claire	Eau Claire, Wisconsin, US
+3070	84055037	Wisconsin	Florence	Florence, Wisconsin, US
+3071	84055039	Wisconsin	Fond du Lac	Fond du Lac, Wisconsin, US
+3072	84055041	Wisconsin	Forest	Forest, Wisconsin, US
+3073	84055043	Wisconsin	Grant	Grant, Wisconsin, US
+3074	84055045	Wisconsin	Green	Green, Wisconsin, US
+3075	84055047	Wisconsin	Green Lake	Green Lake, Wisconsin, US
+3076	84055049	Wisconsin	Iowa	Iowa, Wisconsin, US
+3077	84055051	Wisconsin	Iron	Iron, Wisconsin, US
+3078	84055053	Wisconsin	Jackson	Jackson, Wisconsin, US
+3079	84055055	Wisconsin	Jefferson	Jefferson, Wisconsin, US
+3080	84055057	Wisconsin	Juneau	Juneau, Wisconsin, US
+3081	84055059	Wisconsin	Kenosha	Kenosha, Wisconsin, US
+3082	84055061	Wisconsin	Kewaunee	Kewaunee, Wisconsin, US
+3083	84055063	Wisconsin	La Crosse	La Crosse, Wisconsin, US
+3084	84055065	Wisconsin	Lafayette	Lafayette, Wisconsin, US
+3085	84055067	Wisconsin	Langlade	Langlade, Wisconsin, US
+3086	84055069	Wisconsin	Lincoln	Lincoln, Wisconsin, US
+3087	84055071	Wisconsin	Manitowoc	Manitowoc, Wisconsin, US
+3088	84055073	Wisconsin	Marathon	Marathon, Wisconsin, US
+3089	84055075	Wisconsin	Marinette	Marinette, Wisconsin, US
+3090	84055077	Wisconsin	Marquette	Marquette, Wisconsin, US
+3091	84055078	Wisconsin	Menominee	Menominee, Wisconsin, US
+3092	84055079	Wisconsin	Milwaukee	Milwaukee, Wisconsin, US
+3093	84055081	Wisconsin	Monroe	Monroe, Wisconsin, US
+3094	84055083	Wisconsin	Oconto	Oconto, Wisconsin, US
+3095	84055085	Wisconsin	Oneida	Oneida, Wisconsin, US
+3096	84055087	Wisconsin	Outagamie	Outagamie, Wisconsin, US
+3097	84055089	Wisconsin	Ozaukee	Ozaukee, Wisconsin, US
+3098	84055091	Wisconsin	Pepin	Pepin, Wisconsin, US
+3099	84055093	Wisconsin	Pierce	Pierce, Wisconsin, US
+3100	84055095	Wisconsin	Polk	Polk, Wisconsin, US
+3101	84055097	Wisconsin	Portage	Portage, Wisconsin, US
+3102	84055099	Wisconsin	Price	Price, Wisconsin, US
+3103	84055101	Wisconsin	Racine	Racine, Wisconsin, US
+3104	84055103	Wisconsin	Richland	Richland, Wisconsin, US
+3105	84055105	Wisconsin	Rock	Rock, Wisconsin, US
+3106	84055107	Wisconsin	Rusk	Rusk, Wisconsin, US
+3107	84055109	Wisconsin	St. Croix	St. Croix, Wisconsin, US
+3108	84055111	Wisconsin	Sauk	Sauk, Wisconsin, US
+3109	84055113	Wisconsin	Sawyer	Sawyer, Wisconsin, US
+3110	84055115	Wisconsin	Shawano	Shawano, Wisconsin, US
+3111	84055117	Wisconsin	Sheboygan	Sheboygan, Wisconsin, US
+3112	84055119	Wisconsin	Taylor	Taylor, Wisconsin, US
+3113	84055121	Wisconsin	Trempealeau	Trempealeau, Wisconsin, US
+3114	84055123	Wisconsin	Vernon	Vernon, Wisconsin, US
+3115	84055125	Wisconsin	Vilas	Vilas, Wisconsin, US
+3116	84055127	Wisconsin	Walworth	Walworth, Wisconsin, US
+3117	84055129	Wisconsin	Washburn	Washburn, Wisconsin, US
+3118	84055131	Wisconsin	Washington	Washington, Wisconsin, US
+3119	84055133	Wisconsin	Waukesha	Waukesha, Wisconsin, US
+3120	84055135	Wisconsin	Waupaca	Waupaca, Wisconsin, US
+3121	84055137	Wisconsin	Waushara	Waushara, Wisconsin, US
+3122	84055139	Wisconsin	Winnebago	Winnebago, Wisconsin, US
+3123	84055141	Wisconsin	Wood	Wood, Wisconsin, US
+3124	84056001	Wyoming	Albany	Albany, Wyoming, US
+3125	84056003	Wyoming	Big Horn	Big Horn, Wyoming, US
+3126	84056005	Wyoming	Campbell	Campbell, Wyoming, US
+3127	84056007	Wyoming	Carbon	Carbon, Wyoming, US
+3128	84056009	Wyoming	Converse	Converse, Wyoming, US
+3129	84056011	Wyoming	Crook	Crook, Wyoming, US
+3130	84056013	Wyoming	Fremont	Fremont, Wyoming, US
+3131	84056015	Wyoming	Goshen	Goshen, Wyoming, US
+3132	84056017	Wyoming	Hot Springs	Hot Springs, Wyoming, US
+3133	84056019	Wyoming	Johnson	Johnson, Wyoming, US
+3134	84056021	Wyoming	Laramie	Laramie, Wyoming, US
+3135	84056023	Wyoming	Lincoln	Lincoln, Wyoming, US
+3136	84056025	Wyoming	Natrona	Natrona, Wyoming, US
+3137	84056027	Wyoming	Niobrara	Niobrara, Wyoming, US
+3138	84056029	Wyoming	Park	Park, Wyoming, US
+3139	84056031	Wyoming	Platte	Platte, Wyoming, US
+3140	84056033	Wyoming	Sheridan	Sheridan, Wyoming, US
+3141	84056035	Wyoming	Sublette	Sublette, Wyoming, US
+3142	84056037	Wyoming	Sweetwater	Sweetwater, Wyoming, US
+3143	84056039	Wyoming	Teton	Teton, Wyoming, US
+3144	84056041	Wyoming	Uinta	Uinta, Wyoming, US
+3145	84056043	Wyoming	Washakie	Washakie, Wyoming, US
+3146	84056045	Wyoming	Weston	Weston, Wyoming, US
+3147	84070002	Massachusetts	Dukes and Nantucket	Dukes and Nantucket,Massachusetts,US
+3148	84070003	Missouri	Kansas City	Kansas City,Missouri,US
+3149	84080001	Alabama	Out of AL	Out of AL, Alabama, US
+3150	84080002	Alaska	Out of AK	Out of AK, Alaska, US
+3151	84080004	Arizona	Out of AZ	Out of AZ, Arizona, US
+3152	84080005	Arkansas	Out of AR	Out of AR, Arkansas, US
+3153	84080006	California	Out of CA	Out of CA, California, US
+3154	84080008	Colorado	Out of CO	Out of CO, Colorado, US
+3155	84080009	Connecticut	Out of CT	Out of CT, Connecticut, US
+3156	84080010	Delaware	Out of DE	Out of DE, Delaware, US
+3157	84080011	District of Columbia	Out of DC	Out of DC, District of Columbia, US
+3158	84080012	Florida	Out of FL	Out of FL, Florida, US
+3159	84080013	Georgia	Out of GA	Out of GA, Georgia, US
+3160	84080015	Hawaii	Out of HI	Out of HI, Hawaii, US
+3161	84080016	Idaho	Out of ID	Out of ID, Idaho, US
+3162	84080017	Illinois	Out of IL	Out of IL, Illinois, US
+3163	84080018	Indiana	Out of IN	Out of IN, Indiana, US
+3164	84080019	Iowa	Out of IA	Out of IA, Iowa, US
+3165	84080020	Kansas	Out of KS	Out of KS, Kansas, US
+3166	84080021	Kentucky	Out of KY	Out of KY, Kentucky, US
+3167	84080022	Louisiana	Out of LA	Out of LA, Louisiana, US
+3168	84080023	Maine	Out of ME	Out of ME, Maine, US
+3169	84080024	Maryland	Out of MD	Out of MD, Maryland, US
+3170	84080025	Massachusetts	Out of MA	Out of MA, Massachusetts, US
+3171	84080026	Michigan	Out of MI	Out of MI, Michigan, US
+3172	84080027	Minnesota	Out of MN	Out of MN, Minnesota, US
+3173	84080028	Mississippi	Out of MS	Out of MS, Mississippi, US
+3174	84080029	Missouri	Out of MO	Out of MO, Missouri, US
+3175	84080030	Montana	Out of MT	Out of MT, Montana, US
+3176	84080031	Nebraska	Out of NE	Out of NE, Nebraska, US
+3177	84080032	Nevada	Out of NV	Out of NV, Nevada, US
+3178	84080033	New Hampshire	Out of NH	Out of NH, New Hampshire, US
+3179	84080034	New Jersey	Out of NJ	Out of NJ, New Jersey, US
+3180	84080035	New Mexico	Out of NM	Out of NM, New Mexico, US
+3181	84080036	New York	Out of NY	Out of NY, New York, US
+3182	84080037	North Carolina	Out of NC	Out of NC, North Carolina, US
+3183	84080038	North Dakota	Out of ND	Out of ND, North Dakota, US
+3184	84080039	Ohio	Out of OH	Out of OH, Ohio, US
+3185	84080040	Oklahoma	Out of OK	Out of OK, Oklahoma, US
+3186	84080041	Oregon	Out of OR	Out of OR, Oregon, US
+3187	84080042	Pennsylvania	Out of PA	Out of PA, Pennsylvania, US
+3188	84080044	Rhode Island	Out of RI	Out of RI, Rhode Island, US
+3189	84080045	South Carolina	Out of SC	Out of SC, South Carolina, US
+3190	84080046	South Dakota	Out of SD	Out of SD, South Dakota, US
+3191	84080047	Tennessee	Out of TN	Out of TN, Tennessee, US
+3192	84080048	Texas	Out of TX	Out of TX, Texas, US
+3193	84080049	Utah	Out of UT	Out of UT, Utah, US
+3194	84080050	Vermont	Out of VT	Out of VT, Vermont, US
+3195	84080051	Virginia	Out of VA	Out of VA, Virginia, US
+3196	84080053	Washington	Out of WA	Out of WA, Washington, US
+3197	84080054	West Virginia	Out of WV	Out of WV, West Virginia, US
+3198	84080055	Wisconsin	Out of WI	Out of WI, Wisconsin, US
+3199	84080056	Wyoming	Out of WY	Out of WY, Wyoming, US
+3200	84088888	Diamond Princess		Diamond Princess, US
+3201	84090001	Alabama	Unassigned	Unassigned, Alabama, US
+3202	84090002	Alaska	Unassigned	Unassigned, Alaska, US
+3203	84090004	Arizona	Unassigned	Unassigned, Arizona, US
+3204	84090005	Arkansas	Unassigned	Unassigned, Arkansas, US
+3205	84090006	California	Unassigned	Unassigned, California, US
+3206	84090008	Colorado	Unassigned	Unassigned, Colorado, US
+3207	84090009	Connecticut	Unassigned	Unassigned, Connecticut, US
+3208	84090010	Delaware	Unassigned	Unassigned, Delaware, US
+3209	84090011	District of Columbia	Unassigned	Unassigned, District of Columbia, US
+3210	84090012	Florida	Unassigned	Unassigned, Florida, US
+3211	84090013	Georgia	Unassigned	Unassigned, Georgia, US
+3212	84090015	Hawaii	Unassigned	Unassigned, Hawaii, US
+3213	84090016	Idaho	Unassigned	Unassigned, Idaho, US
+3214	84090017	Illinois	Unassigned	Unassigned, Illinois, US
+3215	84090018	Indiana	Unassigned	Unassigned, Indiana, US
+3216	84090019	Iowa	Unassigned	Unassigned, Iowa, US
+3217	84090020	Kansas	Unassigned	Unassigned, Kansas, US
+3218	84090021	Kentucky	Unassigned	Unassigned, Kentucky, US
+3219	84090022	Louisiana	Unassigned	Unassigned, Louisiana, US
+3220	84090023	Maine	Unassigned	Unassigned, Maine, US
+3221	84090024	Maryland	Unassigned	Unassigned, Maryland, US
+3222	84090025	Massachusetts	Unassigned	Unassigned, Massachusetts, US
+3223	84090026	Michigan	Unassigned	Unassigned, Michigan, US
+3224	84090027	Minnesota	Unassigned	Unassigned, Minnesota, US
+3225	84090028	Mississippi	Unassigned	Unassigned, Mississippi, US
+3226	84090029	Missouri	Unassigned	Unassigned, Missouri, US
+3227	84090030	Montana	Unassigned	Unassigned, Montana, US
+3228	84090031	Nebraska	Unassigned	Unassigned, Nebraska, US
+3229	84090032	Nevada	Unassigned	Unassigned, Nevada, US
+3230	84090033	New Hampshire	Unassigned	Unassigned, New Hampshire, US
+3231	84090034	New Jersey	Unassigned	Unassigned, New Jersey, US
+3232	84090035	New Mexico	Unassigned	Unassigned, New Mexico, US
+3233	84090036	New York	Unassigned	Unassigned, New York, US
+3234	84090037	North Carolina	Unassigned	Unassigned, North Carolina, US
+3235	84090038	North Dakota	Unassigned	Unassigned, North Dakota, US
+3236	84090039	Ohio	Unassigned	Unassigned, Ohio, US
+3237	84090040	Oklahoma	Unassigned	Unassigned, Oklahoma, US
+3238	84090041	Oregon	Unassigned	Unassigned, Oregon, US
+3239	84090042	Pennsylvania	Unassigned	Unassigned, Pennsylvania, US
+3240	84090044	Rhode Island	Unassigned	Unassigned, Rhode Island, US
+3241	84090045	South Carolina	Unassigned	Unassigned, South Carolina, US
+3242	84090046	South Dakota	Unassigned	Unassigned, South Dakota, US
+3243	84090047	Tennessee	Unassigned	Unassigned, Tennessee, US
+3244	84090048	Texas	Unassigned	Unassigned, Texas, US
+3245	84090049	Utah	Unassigned	Unassigned, Utah, US
+3246	84090050	Vermont	Unassigned	Unassigned, Vermont, US
+3247	84090051	Virginia	Unassigned	Unassigned, Virginia, US
+3248	84090053	Washington	Unassigned	Unassigned, Washington, US
+3249	84090054	West Virginia	Unassigned	Unassigned, West Virginia, US
+3250	84090055	Wisconsin	Unassigned	Unassigned, Wisconsin, US
+3251	84090056	Wyoming	Unassigned	Unassigned, Wyoming, US
+3252	84099999	Grand Princess		Grand Princess, US
+3253	84070004	Michigan	Michigan Department of Corrections (MDOC)	Michigan Department of Corrections (MDOC), Michigan, US
+3254	84070005	Michigan	Federal Correctional Institution (FCI)	Federal Correctional Institution (FCI), Michigan, US
+3255	84070015	Utah	Bear River	Bear River, Utah, US
+3256	84070016	Utah	Central Utah	Central Utah, Utah, US
+3257	84070017	Utah	Southeast Utah	Southeast Utah, Utah, US
+3258	84070018	Utah	Southwest Utah	Southwest Utah, Utah, US
+3259	84070019	Utah	TriCounty	TriCounty, Utah, US
+3260	84070020	Utah	Weber-Morgan	Weber-Morgan, Utah, US
+3261	NA	Utah	Southwest	Southwest, Utah, US
